@@ -1,0 +1,25 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 14
+    },
+    "auditLog": "C:\\workspace\\project\\Movie-Story\\server\\logs\\.0166b1a850dc4b729c2c9e953c0e39f1e4ae8f77-audit.json",
+    "files": [
+        {
+            "date": 1715039053344,
+            "name": "C:\\workspace\\project\\Movie-Story\\server\\logs\\2024-05-07.info.log",
+            "hash": "8b272446b0c097307d93ee61cb2b42fbebd94f887cd33559b1111365ed6d6f9f"
+        },
+        {
+            "date": 1720117085743,
+            "name": "C:\\workspace\\project\\Movie-Story\\server\\logs\\2024-07-05.info.log",
+            "hash": "6e2156744417660a78fcaa68b4515a89d1165e75ecff2d9755724f8af0d9079e"
+        },
+        {
+            "date": 1720554191649,
+            "name": "C:\\workspace\\project\\Movie-Story\\server\\logs\\2024-07-10.info.log",
+            "hash": "9ae8542641ad02721e00c2f8e1c39bb92b2731041af66cdbc5abbb1f1232dafd"
+        }
+    ],
+    "hashType": "sha256"
+}

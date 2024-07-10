@@ -1,0 +1,95 @@
+<mxfile host="app.diagrams.net" modified="2024-06-15T14:28:22.487Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="gHz2u3mbeItSqxqB4ALY" version="24.5.4" type="device">
+  <diagram name="Page-1" id="97916047-d0de-89f5-080d-49f4d83e522f">
+    <mxGraphModel dx="1187" dy="2550.5" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="Home" style="rounded=0;strokeColor=default;shadow=1;fontStyle=1;fontSize=22;labelBackgroundColor=none;strokeWidth=2;fontColor=#454545;" parent="1" vertex="1">
+          <mxGeometry x="1177" y="-1060" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RvgQBHUN1ZStSbmLTgZM-56" value="" style="strokeWidth=2;endArrow=none;endFill=0;fontStyle=1;orthogonal=1;labelBackgroundColor=none;fontColor=default;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="560" y="-1050" as="sourcePoint" />
+            <mxPoint x="560" y="-950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RvgQBHUN1ZStSbmLTgZM-60" value="Movie Story" style="rounded=0;strokeColor=default;shadow=1;fontStyle=1;fontSize=22;labelBackgroundColor=none;strokeWidth=2;verticalAlign=middle;horizontal=1;fontFamily=Helvetica;spacing=2;fontColor=#454545;" parent="1" vertex="1">
+          <mxGeometry x="560" y="-1130" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RvgQBHUN1ZStSbmLTgZM-61" value="" style="strokeWidth=2;endArrow=none;endFill=0;fontStyle=1;orthogonal=1;labelBackgroundColor=none;fontColor=default;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="1276.63" y="-1000" as="sourcePoint" />
+            <mxPoint x="1577" y="-900" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1277" y="-970" />
+              <mxPoint x="1577" y="-970" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RvgQBHUN1ZStSbmLTgZM-62" value="" style="strokeWidth=2;endArrow=none;endFill=0;fontStyle=1;orthogonal=1;labelBackgroundColor=none;fontColor=default;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="1276.63" y="-1000" as="sourcePoint" />
+            <mxPoint x="977" y="-900" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1277" y="-970" />
+              <mxPoint x="977" y="-970" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RvgQBHUN1ZStSbmLTgZM-63" value="현재상영영화" style="rounded=0;strokeColor=default;shadow=1;fontStyle=1;fontSize=22;labelBackgroundColor=none;strokeWidth=2;verticalAlign=middle;horizontal=1;textShadow=0;fontColor=#454545;" parent="1" vertex="1">
+          <mxGeometry x="877" y="-900" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RvgQBHUN1ZStSbmLTgZM-66" value="개봉예정영화" style="rounded=0;strokeColor=default;shadow=1;fontStyle=1;fontSize=22;labelBackgroundColor=none;strokeWidth=2;verticalAlign=middle;horizontal=1;fontColor=#454545;" parent="1" vertex="1">
+          <mxGeometry x="1477" y="-900" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RvgQBHUN1ZStSbmLTgZM-68" value="회원가입" style="rounded=0;strokeColor=default;shadow=1;fontStyle=1;fontSize=22;labelBackgroundColor=none;strokeWidth=2;fontColor=#454545;" parent="1" vertex="1">
+          <mxGeometry x="1477" y="-1060" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RvgQBHUN1ZStSbmLTgZM-69" value="로그인" style="rounded=0;strokeColor=default;shadow=1;fontStyle=1;fontSize=22;labelBackgroundColor=none;strokeWidth=2;fontColor=#454545;" parent="1" vertex="1">
+          <mxGeometry x="1477" y="-1150" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RvgQBHUN1ZStSbmLTgZM-70" value="" style="strokeWidth=2;endArrow=none;endFill=0;fontStyle=1;orthogonal=1;labelBackgroundColor=none;fontColor=default;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="2" target="RvgQBHUN1ZStSbmLTgZM-69" edge="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="1427" y="-1090" as="sourcePoint" />
+            <mxPoint x="1427" y="-1120" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1477" y="-1030" />
+              <mxPoint x="1427" y="-1030" />
+              <mxPoint x="1427" y="-1120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RvgQBHUN1ZStSbmLTgZM-71" value="현재상영영화" style="rounded=0;strokeColor=default;shadow=1;fontStyle=1;fontSize=18;labelBackgroundColor=none;strokeWidth=2;verticalAlign=middle;horizontal=1;textShadow=0;fontColor=#454545;" parent="1" vertex="1">
+          <mxGeometry x="100" y="-1130" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RvgQBHUN1ZStSbmLTgZM-72" value="" style="strokeWidth=2;endArrow=none;endFill=0;fontStyle=1;orthogonal=1;labelBackgroundColor=none;fontColor=default;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="80" y="-1170" as="sourcePoint" />
+            <mxPoint x="80" y="-910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RvgQBHUN1ZStSbmLTgZM-74" value="" style="strokeWidth=2;endArrow=none;endFill=0;fontStyle=1;orthogonal=1;labelBackgroundColor=none;fontColor=default;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="RvgQBHUN1ZStSbmLTgZM-71" edge="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="80" y="-1110" as="sourcePoint" />
+            <mxPoint x="90" y="-1090" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RvgQBHUN1ZStSbmLTgZM-75" value="" style="strokeWidth=2;endArrow=none;endFill=0;fontStyle=1;orthogonal=1;labelBackgroundColor=none;fontColor=default;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="600" y="-1010" as="sourcePoint" />
+            <mxPoint x="710" y="-1010" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RvgQBHUN1ZStSbmLTgZM-76" value="현재상영영화" style="rounded=0;strokeColor=default;shadow=1;fontStyle=1;fontSize=18;labelBackgroundColor=none;strokeWidth=2;verticalAlign=middle;horizontal=1;textShadow=0;fontColor=#454545;" parent="1" vertex="1">
+          <mxGeometry x="100" y="-1049.75" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RvgQBHUN1ZStSbmLTgZM-77" value="" style="strokeWidth=2;endArrow=none;endFill=0;fontStyle=1;orthogonal=1;labelBackgroundColor=none;fontColor=default;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="RvgQBHUN1ZStSbmLTgZM-76" edge="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="80" y="-1029.75" as="sourcePoint" />
+            <mxPoint x="90" y="-1009.75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
