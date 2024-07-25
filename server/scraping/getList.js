@@ -54,15 +54,16 @@ var getList = async () => {
 
     await crawlList();
 
-    await page.click("div.list_type > div > div.title_area.type_keep > div > div > div > ul > li:nth-child(3) > a");
+    // 개봉 예정 영화
+    // await page.click("div.list_type > div > div.title_area.type_keep > div > div > div > ul > li:nth-child(3) > a");
 
-    await crawlList();
+    // await crawlList();
 
-    await page.click("div.card_content._result_area > div.cm_paging_area._page > div > a.pg_next.on._next");
+    // await page.click("div.card_content._result_area > div.cm_paging_area._page > div > a.pg_next.on._next");
 
-    sleep(1000);
+    // sleep(1000);
 
-    await crawlList();
+    // await crawlList();
 
     return [result, browser, page];
   } catch (err) {

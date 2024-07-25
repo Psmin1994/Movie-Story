@@ -17,25 +17,6 @@ class postStorage {
     }
   }
 
-  static async insertMovie(movieData) {
-    try {
-      const conn = await getConnection();
-
-      let sql = "INSERT INTO movie (movie_nm, movie_nm_en, open_date, nation, showtime, summary, poster) VALUES (?, ?, ?, ?, ?, ?, ?);";
-
-      // 객체의 value를 배열로 변환
-      let sqlParams = Object.values(movieData);
-
-      let rows = await conn.query(sql, sqlParams);
-
-      conn.release();
-
-      return rows[0].insertId;
-    } catch (err) {
-      throw err;
-    }
-  }
-
   static async getMovieId(movieNm) {
     try {
       const conn = await getConnection();
@@ -47,6 +28,26 @@ class postStorage {
       conn.release();
 
       return rows[0].movie_id;
+    } catch (err) {
+      throw err;
+    }
+  }
+
+  static async insertMovie(movieData) {
+    try {
+      const conn = await getConnection();
+
+      let sql =
+        "INSERT INTO movie (movie_nm, movie_nm_en, open_date, nation, showtime, summary, poster, still_cut) VALUES (?, ?, ?, ?, ?, ?, ?, ?);";
+
+      // 객체의 value를 배열로 변환
+      let sqlParams = Object.values(movieData);
+
+      let rows = await conn.query(sql, sqlParams);
+
+      conn.release();
+
+      return rows[0].insertId;
     } catch (err) {
       throw err;
     }
@@ -114,68 +115,6 @@ class postStorage {
     }
   }
 
-  // static async existPhotoNm(photo) {
-  //   try {
-  //     const conn = await getConnection();
-
-  //     let sql = "SELECT EXISTS (SELECT photo_id FROM photo WHERE photo = ? LIMIT 1) AS isExist;";
-
-  //     let [rows] = await conn.query(sql, [photo]);
-
-  //     conn.release();
-
-  //     return rows[0].isExist;
-  //   } catch (err) {
-  //     throw err;
-  //   }
-  // }
-
-  // static async getPhotoId(photo) {
-  //   try {
-  //     const conn = await getConnection();
-
-  //     let sql = "SELECT photo_id FROM photo WHERE photo = ? LIMIT 1";
-
-  //     let [rows] = await conn.query(sql, [photo]);
-
-  //     conn.release();
-
-  //     return rows[0].photo_id;
-  //   } catch (err) {
-  //     throw err;
-  //   }
-  // }
-
-  static async insertPhoto(photo) {
-    try {
-      const conn = await getConnection();
-
-      let sql = `INSERT INTO photo (photo) VALUES (?);`;
-
-      let rows = await conn.query(sql, [photo]);
-
-      conn.release();
-
-      return rows[0].insertId;
-    } catch (err) {
-      throw err;
-    }
-  }
-
-  static async insertMovieAndPhoto(movieId, photoId) {
-    try {
-      const conn = await getConnection();
-
-      const [rows] = await conn.query("INSERT INTO movie_and_photo (movie_id, photo_id) VALUES (?,?)", [movieId, photoId]);
-
-      conn.release();
-
-      return rows;
-    } catch (err) {
-      throw err;
-    }
-  }
-
   static async existCastNm(castNm, role) {
     try {
       const conn = await getConnection();
@@ -224,29 +163,13 @@ class postStorage {
     }
   }
 
-  static async existMovieAndActor(movieId, actorId) {
+  static async insertMovieAndCast(movieId, castId, role) {
     try {
       const conn = await getConnection();
 
-      let sql = `SELECT EXISTS (SELECT actor_id FROM movie_and_actor WHERE movie_id = ? AND actor_id = ? LIMIT 1) AS isExist;`;
+      let sql = `INSERT INTO movie_and_${role} (movie_id, ${role}_id) VALUES (?,?)`;
 
-      let [rows] = await conn.query(sql, [movieId, actorId]);
-
-      conn.release();
-
-      return rows[0].isExist;
-    } catch (err) {
-      throw err;
-    }
-  }
-
-  static async insertMovieAndCast(movieId, CastId, role) {
-    try {
-      const conn = await getConnection();
-
-      let sql = `INSERT  INTO movie_and_${role} (movie_id, ${role}_id) VALUES (?,?)`;
-
-      const [rows] = await conn.query(sql, [movieId, CastId]);
+      const [rows] = await conn.query(sql, [movieId, castId]);
 
       conn.release();
 

@@ -19,6 +19,21 @@
             "date": 1720554191671,
             "name": "C:\\workspace\\project\\Movie-Story\\server\\logs\\exception\\2024-07-10.exception.log",
             "hash": "a49fc100cbce44ae450ecf9642c3ad7493b4f3b82bca39231accf07f63d9c17d"
+        },
+        {
+            "date": 1721487461719,
+            "name": "C:\\workspace\\project\\Movie-Story\\server\\logs\\exception\\2024-07-20.exception.log",
+            "hash": "3d3968cf4d2aa7cc14055b9bfba900a2c0502ee365c63de96d242122bbc973e9"
+        },
+        {
+            "date": 1721487602302,
+            "name": "C:\\workspace\\project\\Movie-Story\\server\\logs\\exception\\2024-07-21.exception.log",
+            "hash": "58e29b57345e769d890d459b7b79a5fe52297eb9de281d36e9c08bc5f059e299"
+        },
+        {
+            "date": 1721584559961,
+            "name": "C:\\workspace\\project\\Movie-Story\\server\\logs\\exception\\2024-07-22.exception.log",
+            "hash": "dc5f5f707698cec3e41c9507c716f3a54e4045c1907d0e19ff2f0b55fbcbc34f"
         }
     ],
     "hashType": "sha256"

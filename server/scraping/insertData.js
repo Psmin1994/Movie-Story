@@ -11,7 +11,6 @@ var insertData = async (urlList, page) => {
 
       let movieData = {};
       let genreData = [];
-      let cutData = [];
 
       console.log(`${cnt++} / ${total} 진행 중 ...`);
 
@@ -87,12 +86,15 @@ var insertData = async (urlList, page) => {
         return el.textContent;
       });
 
-      // 포토 페이지가 없을 경우 index는 0
-      index = navArr.indexOf("포토") + 1;
+      movieData.poster = "";
+      movieData.stillCut = "";
 
-      movieData.movie_poster = "";
+      // 포토 페이지가 있을 경우
+      if (navArr.includes("포토")) {
+        index = navArr.indexOf("포토") + 1;
 
-      if (index != 0) {
+        let stillCutArr = [];
+
         await page.waitForSelector(`div.sub_tap_area > div > div > ul > li:nth-child(${index}) > a`);
 
         // 포토 페이지로 이동
@@ -114,13 +116,11 @@ var insertData = async (urlList, page) => {
               return el.src;
             });
 
-            movieData.movie_poster = await getImgUrl(posterUrl, movieData.movie_nm_en, `${movieData.movie_nm_en}/poster`);
+            movieData.poster = await getImgUrl(posterUrl, movieData.movie_nm_en, `movie/${movieData.movie_nm_en}/poster`);
           } else if (checked == "스틸컷") {
-            // 영화 스틸 컷도 추출 (추가로 테이블 명세서 작성 필요)
-            // 영화당 여러 장이므로 따로 테이블 만들어서 저장 (장르 테이블처럼)
             let cutList = await node.$$("div > div.movie_photo_list._list > div > ul > li");
 
-            // 6장 까지만 추출
+            // 영화 스틸 컷 6장 까지만 추출
             if (cutList.length > 6) cutList.length = 6;
 
             for (let i = 0; i < cutList.length; i++) {
@@ -128,14 +128,17 @@ var insertData = async (urlList, page) => {
                 return el.src;
               });
 
-              let newImgUrl = await getImgUrl(imgUrl, `${movieData.movie_nm_en}_${i}`, `${movieData.movie_nm_en}/stillcut`);
+              let newImgUrl = await getImgUrl(imgUrl, `${movieData.movie_nm_en}_${i}`, `movie/${movieData.movie_nm_en}/stillcut`);
 
-              cutData.push(newImgUrl);
+              stillCutArr.push(newImgUrl);
             }
+
+            movieData.stillCut = JSON.stringify(stillCutArr);
           }
         }
       }
-      // ************************************************************
+
+      // *************************************************
       // movie 테이블 삽입
       let movieId = await movieStorage.insertMovie(movieData);
 
@@ -148,23 +151,12 @@ var insertData = async (urlList, page) => {
         await movieStorage.insertMovieAndGenre(movieId, genreId);
       }
 
-      // photo 테이블, 연결 테이블 삽입
-      for (let photo of cutData) {
-        // let isExist = await movieStorage.existPhotoNm(photo);
-
-        // let photoId = isExist ? await movieStorage.getPhotoId(photo) : await movieStorage.insertPhoto(photo);
-
-        let photoId = await movieStorage.insertPhoto(photo);
-
-        await movieStorage.insertMovieAndPhoto(movieId, photoId);
-      }
-
-      // *********************************************************
+      // *****************************************************
+      // 감독/출연 페이지로 이동
       index = navArr.indexOf("감독/출연") + 1;
 
       await page.waitForSelector(`div.sub_tap_area > div > div > ul > li:nth-child(${index}) > a`);
 
-      // 감독/출연 페이지로 이동
       await page.click(`div.sub_tap_area > div > div > ul > li:nth-child(${index}) > a`);
 
       await page.waitForSelector("div.cast_box");
@@ -181,11 +173,11 @@ var insertData = async (urlList, page) => {
         let itemList = await node.$$("ul > li");
 
         for (let item of itemList) {
-          let CastNm = await item.$eval("span", (el) => {
+          let castNm = await item.$eval("span", (el) => {
             return el.textContent;
           });
 
-          if (CastNm.trim() == "더보기") continue;
+          if (castNm.trim() == "더보기") continue;
 
           let [imgUrl, imgName] = await item.$eval("div.thumb > img", (el) => {
             return [el.src, el.alt];
@@ -196,17 +188,15 @@ var insertData = async (urlList, page) => {
           imgUrl =
             imgName == "이미지 준비중"
               ? "c:\\workspace\\project\\Movie-Story\\server\\src\\public\\img\\movie\\이미지 준비중.png"
-              : await getImgUrl(imgUrl, imgName, `${movieData.movie_nm_en}/${role}`);
+              : await getImgUrl(imgUrl, imgName, `${role}`);
 
-          // **********************************************************
+          // ************************************************
           // actor, director 테이블 삽입
-          let isExist = await movieStorage.existCastNm(CastNm, role);
+          let isExist = await movieStorage.existCastNm(castNm, role);
 
-          let CastId = isExist ? await movieStorage.getCastId(CastNm, role) : await movieStorage.insertCast(imgUrl, CastNm, role);
+          let castId = isExist ? await movieStorage.getCastId(castNm, role) : await movieStorage.insertCast(imgUrl, castNm, role);
 
-          if (isActor && isExist && (await movieStorage.existMovieAndActor(movieId, CastId))) continue;
-
-          await movieStorage.insertMovieAndCast(movieId, CastId, role);
+          await movieStorage.insertMovieAndCast(movieId, castId, role);
         }
       }
     }

@@ -19,6 +19,21 @@
             "date": 1720554191649,
             "name": "C:\\workspace\\project\\Movie-Story\\server\\logs\\2024-07-10.info.log",
             "hash": "9ae8542641ad02721e00c2f8e1c39bb92b2731041af66cdbc5abbb1f1232dafd"
+        },
+        {
+            "date": 1721487461693,
+            "name": "C:\\workspace\\project\\Movie-Story\\server\\logs\\2024-07-20.info.log",
+            "hash": "a11115f0edfef31ef2e32deca56de3dc6bdfee99fc0a46741e40b23d8b87b06f"
+        },
+        {
+            "date": 1721487602275,
+            "name": "C:\\workspace\\project\\Movie-Story\\server\\logs\\2024-07-21.info.log",
+            "hash": "464de0e863d930b9297dd6accae8c25a18bcb945300f538e30a89bd7139b8e74"
+        },
+        {
+            "date": 1721584559938,
+            "name": "C:\\workspace\\project\\Movie-Story\\server\\logs\\2024-07-22.info.log",
+            "hash": "1b3dd8c88a5fff7969f934ef2f06f8e6576cecb7291e208c7e6f40f196179561"
         }
     ],
     "hashType": "sha256"

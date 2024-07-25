@@ -8,9 +8,7 @@ let scraping = async () => {
 
     await insertData(urlList, page);
 
-    let boxOfficeArr = await getBoxOffice(browser, page);
-
-    return boxOfficeArr;
+    await getBoxOffice(browser, page);
   } catch (err) {
     throw err;
   }

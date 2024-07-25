@@ -18,6 +18,8 @@ let getBoxOffice = async (browser, page) => {
 
     let today = {};
 
+    let cnt = 1;
+
     for (let node of boxOfficeList) {
       let moveNm = await node.$eval("a > div > div > img", (el) => {
         return el.alt;
@@ -33,6 +35,10 @@ let getBoxOffice = async (browser, page) => {
         today[moveNm].rank = Number(rank);
         today[moveNm].change = 0;
         today[moveNm].new = false;
+
+        console.log(`${cnt++} / 10 완료`);
+      } else {
+        break;
       }
     }
 
@@ -64,8 +70,6 @@ let getBoxOffice = async (browser, page) => {
     let saveData = JSON.stringify(today);
 
     fs.writeFileSync(`${dirname}/boxOffice.json`, saveData);
-
-    return today;
   } catch (err) {
     throw err;
   }
