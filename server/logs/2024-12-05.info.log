@@ -1,0 +1,482 @@
+2024-12-05 04:12:46 [Movie-Story] info : [Wed, 04 Dec 2024 19:41:59 GMT] GET /user/info 401 7.689 ms
+
+2024-12-05 04:12:48 [Movie-Story] info : [Wed, 04 Dec 2024 19:41:59 GMT] GET /movie/chart 304 2.874 ms
+
+2024-12-05 04:12:08 [Movie-Story] info : [Wed, 04 Dec 2024 19:42:00 GMT] GET /movie/basic/194 304 350.508 ms
+
+2024-12-05 04:12:09 [Movie-Story] info : [Wed, 04 Dec 2024 19:42:00 GMT] GET /movie/basic/251 304 335.420 ms
+
+2024-12-05 04:12:09 [Movie-Story] info : [Wed, 04 Dec 2024 19:42:00 GMT] GET /movie/basic/248 304 328.311 ms
+
+2024-12-05 04:12:10 [Movie-Story] info : [Wed, 04 Dec 2024 19:42:00 GMT] GET /movie/basic/234 304 326.496 ms
+
+2024-12-05 04:12:12 [Movie-Story] info : [Wed, 04 Dec 2024 19:42:00 GMT] GET /movie/basic/146 304 373.925 ms
+
+2024-12-05 04:12:14 [Movie-Story] info : [Wed, 04 Dec 2024 19:42:00 GMT] GET /movie/basic/232 304 392.453 ms
+
+2024-12-05 04:12:25 [Movie-Story] info : [Wed, 04 Dec 2024 19:42:00 GMT] GET /movie/basic/233 304 68.426 ms
+
+2024-12-05 04:12:27 [Movie-Story] info : [Wed, 04 Dec 2024 19:42:00 GMT] GET /movie/basic/194 304 39.518 ms
+
+2024-12-05 04:12:28 [Movie-Story] info : [Wed, 04 Dec 2024 19:42:00 GMT] GET /movie/basic/208 304 87.332 ms
+
+2024-12-05 04:12:29 [Movie-Story] info : [Wed, 04 Dec 2024 19:42:00 GMT] GET /movie/basic/209 304 83.628 ms
+
+2024-12-05 04:12:30 [Movie-Story] info : [Wed, 04 Dec 2024 19:42:00 GMT] GET /movie/basic/235 304 75.333 ms
+
+2024-12-05 04:12:30 [Movie-Story] info : [Wed, 04 Dec 2024 19:42:00 GMT] GET /movie/basic/251 304 67.064 ms
+
+2024-12-05 04:12:35 [Movie-Story] info : [Wed, 04 Dec 2024 19:42:00 GMT] GET /movie/basic/248 304 48.187 ms
+
+2024-12-05 04:12:36 [Movie-Story] info : [Wed, 04 Dec 2024 19:42:00 GMT] GET /movie/basic/234 304 40.674 ms
+
+2024-12-05 04:12:41 [Movie-Story] info : [Wed, 04 Dec 2024 19:42:00 GMT] GET /movie/basic/146 304 95.620 ms
+
+2024-12-05 04:12:44 [Movie-Story] info : [Wed, 04 Dec 2024 19:42:00 GMT] GET /movie/basic/232 304 117.076 ms
+
+2024-12-05 04:12:50 [Movie-Story] info : [Wed, 04 Dec 2024 19:42:00 GMT] GET /movie/basic/233 304 105.774 ms
+
+2024-12-05 04:12:55 [Movie-Story] info : [Wed, 04 Dec 2024 19:42:00 GMT] GET /movie/basic/194 304 94.737 ms
+
+2024-12-05 04:12:57 [Movie-Story] info : [Wed, 04 Dec 2024 19:42:00 GMT] GET /movie/basic/208 304 101.722 ms
+
+2024-12-05 04:12:58 [Movie-Story] info : [Wed, 04 Dec 2024 19:42:00 GMT] GET /movie/basic/209 304 111.563 ms
+
+2024-12-05 04:12:59 [Movie-Story] info : [Wed, 04 Dec 2024 19:42:00 GMT] GET /movie/basic/235 304 46.329 ms
+
+2024-12-05 04:12:59 [Movie-Story] info : [Wed, 04 Dec 2024 19:42:00 GMT] GET /movie/basic/251 304 49.181 ms
+
+2024-12-05 04:12:62 [Movie-Story] info : [Wed, 04 Dec 2024 19:42:00 GMT] GET /movie/basic/248 304 44.905 ms
+
+2024-12-05 04:12:63 [Movie-Story] info : [Wed, 04 Dec 2024 19:42:00 GMT] GET /movie/basic/146 304 30.494 ms
+
+2024-12-05 04:12:65 [Movie-Story] info : [Wed, 04 Dec 2024 19:42:00 GMT] GET /movie/basic/232 304 50.670 ms
+
+2024-12-05 04:12:59 [Movie-Story] info : [Wed, 04 Dec 2024 19:48:50 GMT] GET /auth/naver 302 20.754 ms
+
+2024-12-05 04:12:79 [Movie-Story] info : [Wed, 04 Dec 2024 19:48:53 GMT] GET /auth/naver 302 1.117 ms
+
+2024-12-05 16:12:59 [Movie-Story] info : [Thu, 05 Dec 2024 07:14:01 GMT] GET /user/info 401 19.274 ms
+
+2024-12-05 16:12:61 [Movie-Story] info : [Thu, 05 Dec 2024 07:14:01 GMT] GET /movie/chart 304 3.582 ms
+
+2024-12-05 16:12:14 [Movie-Story] info : [Thu, 05 Dec 2024 07:14:02 GMT] GET /movie/basic/146 304 156.376 ms
+
+2024-12-05 16:12:23 [Movie-Story] info : [Thu, 05 Dec 2024 07:14:02 GMT] GET /movie/basic/251 304 136.694 ms
+
+2024-12-05 16:12:27 [Movie-Story] info : [Thu, 05 Dec 2024 07:14:02 GMT] GET /movie/basic/232 304 175.221 ms
+
+2024-12-05 16:12:28 [Movie-Story] info : [Thu, 05 Dec 2024 07:14:02 GMT] GET /movie/basic/233 304 71.747 ms
+
+2024-12-05 16:12:30 [Movie-Story] info : [Thu, 05 Dec 2024 07:14:02 GMT] GET /movie/basic/194 304 254.646 ms
+
+2024-12-05 16:12:33 [Movie-Story] info : [Thu, 05 Dec 2024 07:14:02 GMT] GET /movie/basic/248 304 220.488 ms
+
+2024-12-05 16:12:48 [Movie-Story] info : [Thu, 05 Dec 2024 07:14:02 GMT] GET /movie/basic/208 304 48.473 ms
+
+2024-12-05 16:12:61 [Movie-Story] info : [Thu, 05 Dec 2024 07:14:02 GMT] GET /movie/basic/209 304 221.189 ms
+
+2024-12-05 16:12:63 [Movie-Story] info : [Thu, 05 Dec 2024 07:14:02 GMT] GET /movie/basic/235 304 235.780 ms
+
+2024-12-05 16:12:64 [Movie-Story] info : [Thu, 05 Dec 2024 07:14:02 GMT] GET /movie/basic/234 304 235.835 ms
+
+2024-12-05 16:12:66 [Movie-Story] info : [Thu, 05 Dec 2024 07:14:02 GMT] GET /movie/basic/146 304 253.428 ms
+
+2024-12-05 16:12:80 [Movie-Story] info : [Thu, 05 Dec 2024 07:14:02 GMT] GET /movie/basic/251 304 66.356 ms
+
+2024-12-05 16:12:81 [Movie-Story] info : [Thu, 05 Dec 2024 07:14:02 GMT] GET /movie/basic/232 304 57.451 ms
+
+2024-12-05 16:12:82 [Movie-Story] info : [Thu, 05 Dec 2024 07:14:02 GMT] GET /movie/basic/233 304 58.392 ms
+
+2024-12-05 16:12:83 [Movie-Story] info : [Thu, 05 Dec 2024 07:14:02 GMT] GET /movie/basic/194 304 59.372 ms
+
+2024-12-05 16:12:87 [Movie-Story] info : [Thu, 05 Dec 2024 07:14:02 GMT] GET /movie/basic/248 304 99.941 ms
+
+2024-12-05 16:12:95 [Movie-Story] info : [Thu, 05 Dec 2024 07:14:02 GMT] GET /movie/basic/208 304 34.896 ms
+
+2024-12-05 16:12:06 [Movie-Story] info : [Thu, 05 Dec 2024 07:14:03 GMT] GET /movie/basic/235 304 61.764 ms
+
+2024-12-05 16:12:08 [Movie-Story] info : [Thu, 05 Dec 2024 07:14:03 GMT] GET /movie/basic/209 304 89.630 ms
+
+2024-12-05 16:12:09 [Movie-Story] info : [Thu, 05 Dec 2024 07:14:03 GMT] GET /movie/basic/234 304 88.161 ms
+
+2024-12-05 16:12:12 [Movie-Story] info : [Thu, 05 Dec 2024 07:14:03 GMT] GET /movie/basic/146 304 111.069 ms
+
+2024-12-05 16:12:14 [Movie-Story] info : [Thu, 05 Dec 2024 07:14:03 GMT] GET /movie/basic/251 304 101.869 ms
+
+2024-12-05 16:12:21 [Movie-Story] info : [Thu, 05 Dec 2024 07:14:03 GMT] GET /movie/basic/248 304 49.460 ms
+
+2024-12-05 16:12:24 [Movie-Story] info : [Thu, 05 Dec 2024 07:14:03 GMT] GET /movie/basic/194 304 79.713 ms
+
+2024-12-05 16:12:24 [Movie-Story] info : [Thu, 05 Dec 2024 07:14:03 GMT] GET /movie/basic/232 304 90.431 ms
+
+2024-12-05 16:12:62 [Movie-Story] info : [Thu, 05 Dec 2024 07:14:04 GMT] GET /user/info 401 1.232 ms
+
+2024-12-05 16:12:64 [Movie-Story] info : [Thu, 05 Dec 2024 07:14:04 GMT] GET /movie/chart 304 1.409 ms
+
+2024-12-05 16:12:10 [Movie-Story] info : [Thu, 05 Dec 2024 07:14:05 GMT] GET /movie/basic/146 304 17.651 ms
+
+2024-12-05 16:12:11 [Movie-Story] info : [Thu, 05 Dec 2024 07:14:05 GMT] GET /movie/basic/194 304 21.873 ms
+
+2024-12-05 16:12:11 [Movie-Story] info : [Thu, 05 Dec 2024 07:14:05 GMT] GET /movie/basic/232 304 25.864 ms
+
+2024-12-05 16:12:13 [Movie-Story] info : [Thu, 05 Dec 2024 07:14:05 GMT] GET /movie/basic/251 304 38.941 ms
+
+2024-12-05 16:12:14 [Movie-Story] info : [Thu, 05 Dec 2024 07:14:05 GMT] GET /movie/basic/248 304 42.791 ms
+
+2024-12-05 16:12:20 [Movie-Story] info : [Thu, 05 Dec 2024 07:14:05 GMT] GET /movie/basic/234 304 77.395 ms
+
+2024-12-05 16:12:23 [Movie-Story] info : [Thu, 05 Dec 2024 07:14:05 GMT] GET /movie/basic/233 304 90.822 ms
+
+2024-12-05 16:12:24 [Movie-Story] info : [Thu, 05 Dec 2024 07:14:05 GMT] GET /movie/basic/208 304 91.840 ms
+
+2024-12-05 16:12:25 [Movie-Story] info : [Thu, 05 Dec 2024 07:14:05 GMT] GET /movie/basic/209 304 94.410 ms
+
+2024-12-05 16:12:27 [Movie-Story] info : [Thu, 05 Dec 2024 07:14:05 GMT] GET /movie/basic/235 304 97.781 ms
+
+2024-12-05 16:12:32 [Movie-Story] info : [Thu, 05 Dec 2024 07:14:05 GMT] GET /movie/basic/232 304 29.621 ms
+
+2024-12-05 16:12:33 [Movie-Story] info : [Thu, 05 Dec 2024 07:14:05 GMT] GET /movie/basic/146 304 67.677 ms
+
+2024-12-05 16:12:35 [Movie-Story] info : [Thu, 05 Dec 2024 07:14:05 GMT] GET /movie/basic/194 304 63.433 ms
+
+2024-12-05 16:12:37 [Movie-Story] info : [Thu, 05 Dec 2024 07:14:05 GMT] GET /movie/basic/251 304 71.108 ms
+
+2024-12-05 16:12:40 [Movie-Story] info : [Thu, 05 Dec 2024 07:14:05 GMT] GET /movie/basic/248 304 74.831 ms
+
+2024-12-05 16:12:42 [Movie-Story] info : [Thu, 05 Dec 2024 07:14:05 GMT] GET /movie/basic/234 304 83.663 ms
+
+2024-12-05 16:12:44 [Movie-Story] info : [Thu, 05 Dec 2024 07:14:05 GMT] GET /movie/basic/233 304 48.648 ms
+
+2024-12-05 16:12:46 [Movie-Story] info : [Thu, 05 Dec 2024 07:14:05 GMT] GET /movie/basic/208 304 54.156 ms
+
+2024-12-05 16:12:47 [Movie-Story] info : [Thu, 05 Dec 2024 07:14:05 GMT] GET /movie/basic/209 304 55.470 ms
+
+2024-12-05 16:12:49 [Movie-Story] info : [Thu, 05 Dec 2024 07:14:05 GMT] GET /movie/basic/235 304 56.080 ms
+
+2024-12-05 16:12:51 [Movie-Story] info : [Thu, 05 Dec 2024 07:14:05 GMT] GET /movie/basic/232 304 48.700 ms
+
+2024-12-05 16:12:54 [Movie-Story] info : [Thu, 05 Dec 2024 07:14:05 GMT] GET /movie/basic/146 304 61.784 ms
+
+2024-12-05 16:12:55 [Movie-Story] info : [Thu, 05 Dec 2024 07:14:05 GMT] GET /movie/basic/194 304 64.272 ms
+
+2024-12-05 16:12:57 [Movie-Story] info : [Thu, 05 Dec 2024 07:14:05 GMT] GET /movie/basic/251 304 48.185 ms
+
+2024-12-05 16:12:59 [Movie-Story] info : [Thu, 05 Dec 2024 07:14:05 GMT] GET /movie/basic/248 304 67.673 ms
+
+2024-12-05 16:12:77 [Movie-Story] info : [Thu, 05 Dec 2024 07:58:05 GMT] GET /auth/naver 302 31.153 ms
+
+2024-12-05 16:12:11 [Movie-Story] info : [Thu, 05 Dec 2024 07:58:36 GMT] GET /auth/naver 302 1.575 ms
+
+2024-12-05 17:12:02 [Movie-Story] info : [Thu, 05 Dec 2024 08:13:21 GMT] GET /auth/naver 302 0.797 ms
+
+2024-12-05 17:12:41 [Movie-Story] info : [Thu, 05 Dec 2024 08:13:42 GMT] POST /user/login 200 138.001 ms
+
+2024-12-05 17:12:21 [Movie-Story] info : [Thu, 05 Dec 2024 08:13:45 GMT] GET /movie/chart 304 2.193 ms
+
+2024-12-05 17:12:38 [Movie-Story] info : [Thu, 05 Dec 2024 08:13:45 GMT] GET /movie/basic/146 304 17.660 ms
+
+2024-12-05 17:12:39 [Movie-Story] info : [Thu, 05 Dec 2024 08:13:45 GMT] GET /movie/basic/194 304 26.968 ms
+
+2024-12-05 17:12:40 [Movie-Story] info : [Thu, 05 Dec 2024 08:13:45 GMT] GET /movie/basic/232 304 20.520 ms
+
+2024-12-05 17:12:41 [Movie-Story] info : [Thu, 05 Dec 2024 08:13:45 GMT] GET /movie/basic/251 304 24.840 ms
+
+2024-12-05 17:12:42 [Movie-Story] info : [Thu, 05 Dec 2024 08:13:45 GMT] GET /movie/basic/248 304 27.321 ms
+
+2024-12-05 17:12:47 [Movie-Story] info : [Thu, 05 Dec 2024 08:13:45 GMT] GET /movie/basic/233 304 50.080 ms
+
+2024-12-05 17:12:47 [Movie-Story] info : [Thu, 05 Dec 2024 08:13:45 GMT] GET /movie/basic/234 304 75.141 ms
+
+2024-12-05 17:12:49 [Movie-Story] info : [Thu, 05 Dec 2024 08:13:45 GMT] GET /movie/basic/209 304 37.096 ms
+
+2024-12-05 17:12:49 [Movie-Story] info : [Thu, 05 Dec 2024 08:13:45 GMT] GET /movie/basic/208 304 49.658 ms
+
+2024-12-05 17:12:51 [Movie-Story] info : [Thu, 05 Dec 2024 08:13:45 GMT] GET /movie/basic/235 304 31.120 ms
+
+2024-12-05 17:12:52 [Movie-Story] info : [Thu, 05 Dec 2024 08:13:45 GMT] GET /movie/basic/146 304 34.365 ms
+
+2024-12-05 17:12:52 [Movie-Story] info : [Thu, 05 Dec 2024 08:13:45 GMT] GET /movie/basic/194 304 34.183 ms
+
+2024-12-05 17:12:56 [Movie-Story] info : [Thu, 05 Dec 2024 08:13:45 GMT] GET /movie/basic/251 304 17.294 ms
+
+2024-12-05 17:12:56 [Movie-Story] info : [Thu, 05 Dec 2024 08:13:45 GMT] GET /movie/basic/232 304 19.270 ms
+
+2024-12-05 17:12:57 [Movie-Story] info : [Thu, 05 Dec 2024 08:13:45 GMT] GET /movie/basic/248 304 19.794 ms
+
+2024-12-05 17:12:58 [Movie-Story] info : [Thu, 05 Dec 2024 08:13:45 GMT] GET /movie/basic/234 304 22.238 ms
+
+2024-12-05 17:12:58 [Movie-Story] info : [Thu, 05 Dec 2024 08:13:45 GMT] GET /movie/basic/233 304 24.814 ms
+
+2024-12-05 17:12:62 [Movie-Story] info : [Thu, 05 Dec 2024 08:13:45 GMT] GET /movie/basic/209 304 22.536 ms
+
+2024-12-05 17:12:63 [Movie-Story] info : [Thu, 05 Dec 2024 08:13:45 GMT] GET /movie/basic/208 304 27.586 ms
+
+2024-12-05 17:12:66 [Movie-Story] info : [Thu, 05 Dec 2024 08:13:45 GMT] GET /movie/basic/235 304 49.459 ms
+
+2024-12-05 17:12:67 [Movie-Story] info : [Thu, 05 Dec 2024 08:13:45 GMT] GET /movie/basic/194 304 53.093 ms
+
+2024-12-05 17:12:68 [Movie-Story] info : [Thu, 05 Dec 2024 08:13:45 GMT] GET /movie/basic/146 304 65.089 ms
+
+2024-12-05 17:12:72 [Movie-Story] info : [Thu, 05 Dec 2024 08:13:45 GMT] GET /movie/basic/251 304 16.214 ms
+
+2024-12-05 17:12:74 [Movie-Story] info : [Thu, 05 Dec 2024 08:13:45 GMT] GET /movie/basic/232 304 12.286 ms
+
+2024-12-05 17:12:75 [Movie-Story] info : [Thu, 05 Dec 2024 08:13:45 GMT] GET /movie/basic/248 304 19.248 ms
+
+2024-12-05 17:12:51 [Movie-Story] info : [Thu, 05 Dec 2024 08:14:22 GMT] POST /user/login 200 24.376 ms
+
+2024-12-05 17:12:79 [Movie-Story] info : [Thu, 05 Dec 2024 08:14:24 GMT] POST /user/login 200 21.425 ms
+
+2024-12-05 17:12:32 [Movie-Story] info : [Thu, 05 Dec 2024 08:15:41 GMT] GET /user/info 200 63.011 ms
+
+2024-12-05 17:12:82 [Movie-Story] info : [Thu, 05 Dec 2024 08:16:22 GMT] GET /user/info 304 45.036 ms
+
+2024-12-05 17:12:11 [Movie-Story] info : [Thu, 05 Dec 2024 08:17:39 GMT] GET /user/info 304 14.118 ms
+
+2024-12-05 17:12:20 [Movie-Story] info : [Thu, 05 Dec 2024 08:17:40 GMT] GET /user/info 304 10.505 ms
+
+2024-12-05 17:12:17 [Movie-Story] info : [Thu, 05 Dec 2024 08:18:25 GMT] POST /user/login 200 27.668 ms
+
+2024-12-05 17:12:68 [Movie-Story] info : [Thu, 05 Dec 2024 08:18:27 GMT] GET /user/info 304 19.423 ms
+
+2024-12-05 17:12:30 [Movie-Story] info : [Thu, 05 Dec 2024 08:18:58 GMT] GET /user/info 304 37.608 ms
+
+2024-12-05 17:12:39 [Movie-Story] info : [Thu, 05 Dec 2024 08:19:05 GMT] GET /user/info 304 10.571 ms
+
+2024-12-05 17:12:68 [Movie-Story] info : [Thu, 05 Dec 2024 08:19:05 GMT] GET /favicon.ico 404 5.442 ms
+
+2024-12-05 17:12:34 [Movie-Story] info : [Thu, 05 Dec 2024 08:19:43 GMT] POST /user/login 200 63.700 ms
+
+2024-12-05 17:12:40 [Movie-Story] info : [Thu, 05 Dec 2024 08:20:52 GMT] POST /user/login 200 30.589 ms
+
+2024-12-05 17:12:51 [Movie-Story] info : [Thu, 05 Dec 2024 08:22:23 GMT] POST /user/login 200 31.309 ms
+
+2024-12-05 17:12:28 [Movie-Story] info : [Thu, 05 Dec 2024 08:27:42 GMT] GET /user/info 401 20.173 ms
+
+2024-12-05 17:12:54 [Movie-Story] info : [Thu, 05 Dec 2024 08:27:42 GMT] GET /user/refresh 200 226.316 ms
+
+2024-12-05 17:12:59 [Movie-Story] info : [Thu, 05 Dec 2024 08:27:42 GMT] GET /user/info 200 25.193 ms
+
+2024-12-05 17:12:48 [Movie-Story] info : [Thu, 05 Dec 2024 08:28:59 GMT] GET /user/info 304 43.144 ms
+
+2024-12-05 17:12:04 [Movie-Story] info : [Thu, 05 Dec 2024 08:29:01 GMT] GET /user/logout 200 200.450 ms
+
+2024-12-05 17:12:73 [Movie-Story] info : [Thu, 05 Dec 2024 08:29:01 GMT] GET /user/info 401 1.748 ms
+
+2024-12-05 17:12:01 [Movie-Story] info : [Thu, 05 Dec 2024 08:29:15 GMT] GET /auth/naver 302 1.399 ms
+
+2024-12-05 17:12:73 [Movie-Story] info : [Thu, 05 Dec 2024 08:32:02 GMT] GET /auth/naver 302 19.677 ms
+
+2024-12-05 17:12:31 [Movie-Story] info : [Thu, 05 Dec 2024 08:32:17 GMT] GET /auth/naver/callback?code=MymjH7Wwwr4IfC4CPg&state=null 200 406.369 ms
+
+2024-12-05 17:12:09 [Movie-Story] info : [Thu, 05 Dec 2024 08:37:15 GMT] GET /auth/naver/callback?code=Ha0VPhQszMwhuecPrA&state=null 200 227.141 ms
+
+2024-12-05 17:12:40 [Movie-Story] info : [Thu, 05 Dec 2024 08:37:18 GMT] GET /user/logout 401 1.757 ms
+
+2024-12-05 17:12:64 [Movie-Story] info : [Thu, 05 Dec 2024 08:37:19 GMT] GET /user/info 401 0.994 ms
+
+2024-12-05 17:12:66 [Movie-Story] info : [Thu, 05 Dec 2024 08:37:19 GMT] GET /movie/chart 304 2.925 ms
+
+2024-12-05 17:12:87 [Movie-Story] info : [Thu, 05 Dec 2024 08:37:19 GMT] GET /movie/basic/146 304 29.892 ms
+
+2024-12-05 17:12:93 [Movie-Story] info : [Thu, 05 Dec 2024 08:37:19 GMT] GET /movie/basic/194 304 39.795 ms
+
+2024-12-05 17:12:98 [Movie-Story] info : [Thu, 05 Dec 2024 08:37:19 GMT] GET /movie/basic/234 304 39.143 ms
+
+2024-12-05 17:12:01 [Movie-Story] info : [Thu, 05 Dec 2024 08:37:20 GMT] GET /movie/basic/251 304 99.983 ms
+
+2024-12-05 17:12:02 [Movie-Story] info : [Thu, 05 Dec 2024 08:37:20 GMT] GET /movie/basic/232 304 125.518 ms
+
+2024-12-05 17:12:05 [Movie-Story] info : [Thu, 05 Dec 2024 08:37:20 GMT] GET /movie/basic/248 304 125.424 ms
+
+2024-12-05 17:12:10 [Movie-Story] info : [Thu, 05 Dec 2024 08:37:20 GMT] GET /movie/basic/208 304 88.447 ms
+
+2024-12-05 17:12:14 [Movie-Story] info : [Thu, 05 Dec 2024 08:37:20 GMT] GET /movie/basic/209 304 114.998 ms
+
+2024-12-05 17:12:15 [Movie-Story] info : [Thu, 05 Dec 2024 08:37:20 GMT] GET /movie/basic/233 304 204.406 ms
+
+2024-12-05 17:12:18 [Movie-Story] info : [Thu, 05 Dec 2024 08:37:20 GMT] GET /movie/basic/235 304 62.582 ms
+
+2024-12-05 17:12:18 [Movie-Story] info : [Thu, 05 Dec 2024 08:37:20 GMT] GET /movie/basic/146 304 63.012 ms
+
+2024-12-05 17:12:20 [Movie-Story] info : [Thu, 05 Dec 2024 08:37:20 GMT] GET /movie/basic/234 304 40.218 ms
+
+2024-12-05 17:12:21 [Movie-Story] info : [Thu, 05 Dec 2024 08:37:20 GMT] GET /movie/basic/194 304 59.464 ms
+
+2024-12-05 17:12:23 [Movie-Story] info : [Thu, 05 Dec 2024 08:37:20 GMT] GET /movie/basic/251 304 61.441 ms
+
+2024-12-05 17:12:26 [Movie-Story] info : [Thu, 05 Dec 2024 08:37:20 GMT] GET /movie/basic/248 304 35.618 ms
+
+2024-12-05 17:12:27 [Movie-Story] info : [Thu, 05 Dec 2024 08:37:20 GMT] GET /movie/basic/208 304 47.473 ms
+
+2024-12-05 17:12:28 [Movie-Story] info : [Thu, 05 Dec 2024 08:37:20 GMT] GET /movie/basic/209 304 39.591 ms
+
+2024-12-05 17:12:28 [Movie-Story] info : [Thu, 05 Dec 2024 08:37:20 GMT] GET /movie/basic/233 304 30.931 ms
+
+2024-12-05 17:12:30 [Movie-Story] info : [Thu, 05 Dec 2024 08:37:20 GMT] GET /movie/basic/232 304 125.446 ms
+
+2024-12-05 17:12:30 [Movie-Story] info : [Thu, 05 Dec 2024 08:37:20 GMT] GET /movie/basic/235 304 36.037 ms
+
+2024-12-05 17:12:30 [Movie-Story] info : [Thu, 05 Dec 2024 08:37:20 GMT] GET /movie/basic/146 304 19.065 ms
+
+2024-12-05 17:12:32 [Movie-Story] info : [Thu, 05 Dec 2024 08:37:20 GMT] GET /movie/basic/194 304 28.563 ms
+
+2024-12-05 17:12:33 [Movie-Story] info : [Thu, 05 Dec 2024 08:37:20 GMT] GET /movie/basic/248 304 30.354 ms
+
+2024-12-05 17:12:33 [Movie-Story] info : [Thu, 05 Dec 2024 08:37:20 GMT] GET /movie/basic/251 304 37.499 ms
+
+2024-12-05 17:12:36 [Movie-Story] info : [Thu, 05 Dec 2024 08:37:20 GMT] GET /movie/basic/232 304 48.572 ms
+
+2024-12-05 17:12:100 [Movie-Story] info : [Thu, 05 Dec 2024 08:37:21 GMT] GET /auth/naver 302 0.637 ms
+
+2024-12-05 17:12:56 [Movie-Story] info : [Thu, 05 Dec 2024 08:37:22 GMT] GET /auth/naver/callback?code=AGvAqRLvJGPM6wZQ7e&state=null 200 164.350 ms
+
+2024-12-05 17:12:43 [Movie-Story] info : [Thu, 05 Dec 2024 08:37:31 GMT] GET /auth/naver 302 1.027 ms
+
+2024-12-05 17:12:29 [Movie-Story] info : [Thu, 05 Dec 2024 08:37:32 GMT] GET /auth/naver/callback?code=RiOjH70xarFmL5WFwM&state=null 200 217.706 ms
+
+2024-12-05 17:12:57 [Movie-Story] info : [Thu, 05 Dec 2024 08:38:22 GMT] GET /auth/naver 302 1.268 ms
+
+2024-12-05 17:12:65 [Movie-Story] info : [Thu, 05 Dec 2024 08:38:23 GMT] GET /auth/naver/callback?code=sQ6buyk6gSCsgvI6Nk&state=null 200 214.166 ms
+
+2024-12-05 17:12:16 [Movie-Story] info : [Thu, 05 Dec 2024 08:42:20 GMT] GET /user/logout 401 0.771 ms
+
+2024-12-05 17:12:00 [Movie-Story] info : [Thu, 05 Dec 2024 08:42:21 GMT] GET /user/info 401 0.721 ms
+
+2024-12-05 17:12:97 [Movie-Story] info : [Thu, 05 Dec 2024 08:46:43 GMT] GET /user/info 401 7.258 ms
+
+2024-12-05 17:12:11 [Movie-Story] info : [Thu, 05 Dec 2024 08:46:46 GMT] GET /auth/naver?redirectUrl=http%3A%2F%2Flocalhost%3A3000%2Fsearch 500 4.089 ms
+
+2024-12-05 17:12:12 [Movie-Story] info : [Thu, 05 Dec 2024 08:46:46 GMT] GET /auth/naver 500 3.084 ms
+
+2024-12-05 17:12:04 [Movie-Story] info : [Thu, 05 Dec 2024 08:47:59 GMT] GET /user/info 401 5.744 ms
+
+2024-12-05 17:12:73 [Movie-Story] info : [Thu, 05 Dec 2024 08:48:01 GMT] GET /user/info 401 1.262 ms
+
+2024-12-05 17:12:87 [Movie-Story] info : [Thu, 05 Dec 2024 08:48:02 GMT] GET /auth/naver?redirectUrl=http%3A%2F%2Flocalhost%3A3000%2Fsearch 302 2.446 ms
+
+2024-12-05 17:12:88 [Movie-Story] info : [Thu, 05 Dec 2024 08:48:02 GMT] GET /auth/naver 302 1.010 ms
+
+2024-12-05 17:12:72 [Movie-Story] info : [Thu, 05 Dec 2024 08:48:03 GMT] GET /auth/naver/callback?code=Db9AkOJK1eXo1B9aWH&state=http%3A%2F%2Flocalhost%3A3000 302 396.659 ms
+
+2024-12-05 17:12:60 [Movie-Story] info : [Thu, 05 Dec 2024 08:48:04 GMT] GET /movie/chart 304 1.567 ms
+
+2024-12-05 17:12:62 [Movie-Story] info : [Thu, 05 Dec 2024 08:48:04 GMT] GET /user/info 200 29.855 ms
+
+2024-12-05 17:12:72 [Movie-Story] info : [Thu, 05 Dec 2024 08:48:04 GMT] GET /movie/basic/146 304 16.145 ms
+
+2024-12-05 17:12:76 [Movie-Story] info : [Thu, 05 Dec 2024 08:48:04 GMT] GET /movie/basic/232 304 29.580 ms
+
+2024-12-05 17:12:82 [Movie-Story] info : [Thu, 05 Dec 2024 08:48:04 GMT] GET /movie/basic/194 304 106.991 ms
+
+2024-12-05 17:12:86 [Movie-Story] info : [Thu, 05 Dec 2024 08:48:04 GMT] GET /movie/basic/248 304 124.436 ms
+
+2024-12-05 17:12:86 [Movie-Story] info : [Thu, 05 Dec 2024 08:48:04 GMT] GET /movie/basic/233 304 125.867 ms
+
+2024-12-05 17:12:87 [Movie-Story] info : [Thu, 05 Dec 2024 08:48:04 GMT] GET /movie/basic/251 304 142.268 ms
+
+2024-12-05 17:12:87 [Movie-Story] info : [Thu, 05 Dec 2024 08:48:04 GMT] GET /movie/basic/234 304 126.036 ms
+
+2024-12-05 17:12:88 [Movie-Story] info : [Thu, 05 Dec 2024 08:48:04 GMT] GET /movie/basic/208 304 53.417 ms
+
+2024-12-05 17:12:89 [Movie-Story] info : [Thu, 05 Dec 2024 08:48:04 GMT] GET /movie/basic/235 304 40.887 ms
+
+2024-12-05 17:12:92 [Movie-Story] info : [Thu, 05 Dec 2024 08:48:04 GMT] GET /movie/basic/146 304 25.005 ms
+
+2024-12-05 17:12:94 [Movie-Story] info : [Thu, 05 Dec 2024 08:48:04 GMT] GET /movie/basic/209 304 51.532 ms
+
+2024-12-05 17:12:96 [Movie-Story] info : [Thu, 05 Dec 2024 08:48:04 GMT] GET /movie/basic/232 304 72.626 ms
+
+2024-12-05 17:12:97 [Movie-Story] info : [Thu, 05 Dec 2024 08:48:04 GMT] GET /movie/basic/194 304 73.002 ms
+
+2024-12-05 17:12:97 [Movie-Story] info : [Thu, 05 Dec 2024 08:48:04 GMT] GET /movie/basic/248 304 74.719 ms
+
+2024-12-05 17:12:98 [Movie-Story] info : [Thu, 05 Dec 2024 08:48:04 GMT] GET /movie/basic/233 304 51.497 ms
+
+2024-12-05 17:12:99 [Movie-Story] info : [Thu, 05 Dec 2024 08:48:04 GMT] GET /movie/basic/251 304 41.204 ms
+
+2024-12-05 17:12:02 [Movie-Story] info : [Thu, 05 Dec 2024 08:48:05 GMT] GET /movie/basic/234 304 48.820 ms
+
+2024-12-05 17:12:05 [Movie-Story] info : [Thu, 05 Dec 2024 08:48:05 GMT] GET /movie/basic/235 304 39.401 ms
+
+2024-12-05 17:12:05 [Movie-Story] info : [Thu, 05 Dec 2024 08:48:05 GMT] GET /movie/basic/209 304 25.612 ms
+
+2024-12-05 17:12:06 [Movie-Story] info : [Thu, 05 Dec 2024 08:48:05 GMT] GET /movie/basic/232 304 33.839 ms
+
+2024-12-05 17:12:07 [Movie-Story] info : [Thu, 05 Dec 2024 08:48:05 GMT] GET /movie/basic/208 304 72.392 ms
+
+2024-12-05 17:12:07 [Movie-Story] info : [Thu, 05 Dec 2024 08:48:05 GMT] GET /movie/basic/146 304 66.333 ms
+
+2024-12-05 17:12:10 [Movie-Story] info : [Thu, 05 Dec 2024 08:48:05 GMT] GET /movie/basic/194 304 34.500 ms
+
+2024-12-05 17:12:10 [Movie-Story] info : [Thu, 05 Dec 2024 08:48:05 GMT] GET /movie/basic/248 304 26.386 ms
+
+2024-12-05 17:12:11 [Movie-Story] info : [Thu, 05 Dec 2024 08:48:05 GMT] GET /movie/basic/251 304 29.074 ms
+
+2024-12-05 17:12:15 [Movie-Story] info : [Thu, 05 Dec 2024 08:48:14 GMT] GET /user/info 304 8.908 ms
+
+2024-12-05 17:12:11 [Movie-Story] info : [Thu, 05 Dec 2024 08:48:53 GMT] GET /user/info 304 43.158 ms
+
+2024-12-05 17:12:96 [Movie-Story] info : [Thu, 05 Dec 2024 08:50:45 GMT] GET /auth/naver?redirectUrl=http%3A%2F%2Flocalhost%3A3000%2Fmovie 302 5.563 ms
+
+2024-12-05 17:12:97 [Movie-Story] info : [Thu, 05 Dec 2024 08:50:45 GMT] GET /auth/naver 302 1.210 ms
+
+2024-12-05 17:12:82 [Movie-Story] info : [Thu, 05 Dec 2024 08:50:46 GMT] GET /auth/naver/callback?code=wtesKHAmapNnL9v6QZ&state=http%3A%2F%2Flocalhost%3A3000 302 325.425 ms
+
+2024-12-05 17:12:07 [Movie-Story] info : [Thu, 05 Dec 2024 08:50:48 GMT] GET /movie/chart 304 4.857 ms
+
+2024-12-05 17:12:09 [Movie-Story] info : [Thu, 05 Dec 2024 08:50:48 GMT] GET /user/info 304 39.580 ms
+
+2024-12-05 17:12:21 [Movie-Story] info : [Thu, 05 Dec 2024 08:50:48 GMT] GET /movie/basic/146 304 28.537 ms
+
+2024-12-05 17:12:23 [Movie-Story] info : [Thu, 05 Dec 2024 08:50:48 GMT] GET /movie/basic/194 304 46.531 ms
+
+2024-12-05 17:12:24 [Movie-Story] info : [Thu, 05 Dec 2024 08:50:48 GMT] GET /movie/basic/234 304 35.483 ms
+
+2024-12-05 17:12:25 [Movie-Story] info : [Thu, 05 Dec 2024 08:50:48 GMT] GET /movie/basic/232 304 53.787 ms
+
+2024-12-05 17:12:26 [Movie-Story] info : [Thu, 05 Dec 2024 08:50:48 GMT] GET /movie/basic/233 304 30.780 ms
+
+2024-12-05 17:12:26 [Movie-Story] info : [Thu, 05 Dec 2024 08:50:48 GMT] GET /movie/basic/251 304 65.316 ms
+
+2024-12-05 17:12:27 [Movie-Story] info : [Thu, 05 Dec 2024 08:50:48 GMT] GET /movie/basic/248 304 63.090 ms
+
+2024-12-05 17:12:29 [Movie-Story] info : [Thu, 05 Dec 2024 08:50:48 GMT] GET /movie/basic/208 304 16.555 ms
+
+2024-12-05 17:12:30 [Movie-Story] info : [Thu, 05 Dec 2024 08:50:48 GMT] GET /movie/basic/209 304 17.663 ms
+
+2024-12-05 17:12:31 [Movie-Story] info : [Thu, 05 Dec 2024 08:50:48 GMT] GET /movie/basic/235 304 22.911 ms
+
+2024-12-05 17:12:31 [Movie-Story] info : [Thu, 05 Dec 2024 08:50:48 GMT] GET /movie/basic/234 304 23.537 ms
+
+2024-12-05 17:12:31 [Movie-Story] info : [Thu, 05 Dec 2024 08:50:48 GMT] GET /movie/basic/146 304 30.785 ms
+
+2024-12-05 17:12:32 [Movie-Story] info : [Thu, 05 Dec 2024 08:50:48 GMT] GET /movie/basic/194 304 33.192 ms
+
+2024-12-05 17:12:34 [Movie-Story] info : [Thu, 05 Dec 2024 08:50:48 GMT] GET /movie/basic/248 304 7.245 ms
+
+2024-12-05 17:12:35 [Movie-Story] info : [Thu, 05 Dec 2024 08:50:48 GMT] GET /movie/basic/232 304 20.535 ms
+
+2024-12-05 17:12:35 [Movie-Story] info : [Thu, 05 Dec 2024 08:50:48 GMT] GET /movie/basic/233 304 22.658 ms
+
+2024-12-05 17:12:36 [Movie-Story] info : [Thu, 05 Dec 2024 08:50:48 GMT] GET /movie/basic/209 304 24.310 ms
+
+2024-12-05 17:12:36 [Movie-Story] info : [Thu, 05 Dec 2024 08:50:48 GMT] GET /movie/basic/251 304 34.065 ms
+
+2024-12-05 17:12:37 [Movie-Story] info : [Thu, 05 Dec 2024 08:50:48 GMT] GET /movie/basic/208 304 39.646 ms
+
+2024-12-05 17:12:43 [Movie-Story] info : [Thu, 05 Dec 2024 08:50:48 GMT] GET /movie/basic/235 304 41.604 ms
+
+2024-12-05 17:12:43 [Movie-Story] info : [Thu, 05 Dec 2024 08:50:48 GMT] GET /movie/basic/146 304 45.294 ms
+
+2024-12-05 17:12:44 [Movie-Story] info : [Thu, 05 Dec 2024 08:50:48 GMT] GET /movie/basic/194 304 46.114 ms
+
+2024-12-05 17:12:46 [Movie-Story] info : [Thu, 05 Dec 2024 08:50:48 GMT] GET /movie/basic/248 304 64.035 ms
+
+2024-12-05 17:12:47 [Movie-Story] info : [Thu, 05 Dec 2024 08:50:48 GMT] GET /movie/basic/232 304 76.092 ms
+
+2024-12-05 17:12:49 [Movie-Story] info : [Thu, 05 Dec 2024 08:50:48 GMT] GET /movie/basic/251 304 82.014 ms
+
+2024-12-05 18:12:21 [Movie-Story] info : [Thu, 05 Dec 2024 09:04:23 GMT] GET / 404 7.941 ms
+

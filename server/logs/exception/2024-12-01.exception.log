@@ -1,0 +1,248 @@
+2024-12-01 01:12:21 [Movie-Story] error : uncaughtException: err is not defined
+ReferenceError: err is not defined
+    at refreshToken (file:///C:/workspace/project/Movie-Story/server/src/controllers/user.controller.js:60:7)
+2024-12-01 01:12:15 [Movie-Story] error : uncaughtException: err is not defined
+ReferenceError: err is not defined
+    at refreshToken (file:///C:/workspace/project/Movie-Story/server/src/controllers/user.controller.js:60:7)
+2024-12-01 01:12:82 [Movie-Story] error : uncaughtException: err is not defined
+ReferenceError: err is not defined
+    at refreshToken (file:///C:/workspace/project/Movie-Story/server/src/controllers/user.controller.js:60:7)
+2024-12-01 01:12:52 [Movie-Story] error : uncaughtException: err is not defined
+ReferenceError: err is not defined
+    at refreshToken (file:///C:/workspace/project/Movie-Story/server/src/controllers/user.controller.js:60:7)
+2024-12-01 01:12:65 [Movie-Story] error : uncaughtException: err is not defined
+ReferenceError: err is not defined
+    at refreshToken (file:///C:/workspace/project/Movie-Story/server/src/controllers/user.controller.js:60:7)
+2024-12-01 01:12:94 [Movie-Story] error : uncaughtException: err is not defined
+ReferenceError: err is not defined
+    at refreshToken (file:///C:/workspace/project/Movie-Story/server/src/controllers/user.controller.js:57:7)
+2024-12-01 01:12:01 [Movie-Story] error : uncaughtException: err is not defined
+ReferenceError: err is not defined
+    at refreshToken (file:///C:/workspace/project/Movie-Story/server/src/controllers/user.controller.js:57:7)
+2024-12-01 01:12:80 [Movie-Story] error : uncaughtException: server is not defined
+ReferenceError: server is not defined
+    at process.<anonymous> (file:///C:/workspace/project/Movie-Story/server/bin/www.js:32:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2024-12-01 01:12:32 [Movie-Story] error : uncaughtException: server is not defined
+ReferenceError: server is not defined
+    at process.<anonymous> (file:///C:/workspace/project/Movie-Story/server/bin/www.js:32:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2024-12-01 01:12:24 [Movie-Story] error : uncaughtException: RefreshToken 생성 실패
+Error: RefreshToken 생성 실패
+    at createTokenError (file:///C:/workspace/project/Movie-Story/server/src/utils/token.util.js:5:17)
+    at Object.generateRefreshToken (file:///C:/workspace/project/Movie-Story/server/src/utils/token.util.js:37:7)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async file:///C:/workspace/project/Movie-Story/server/src/controllers/user.controller.js:88:30
+2024-12-01 01:12:44 [Movie-Story] error : uncaughtException: RefreshToken 생성 실패
+Error: RefreshToken 생성 실패
+    at createTokenError (file:///C:/workspace/project/Movie-Story/server/src/utils/token.util.js:5:17)
+    at Object.generateRefreshToken (file:///C:/workspace/project/Movie-Story/server/src/utils/token.util.js:37:7)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async file:///C:/workspace/project/Movie-Story/server/src/controllers/user.controller.js:88:30
+2024-12-01 01:12:34 [Movie-Story] error : uncaughtException: RefreshToken 생성 실패
+Error: RefreshToken 생성 실패
+    at createTokenError (file:///C:/workspace/project/Movie-Story/server/src/utils/token.util.js:5:17)
+    at Object.generateRefreshToken (file:///C:/workspace/project/Movie-Story/server/src/utils/token.util.js:37:7)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async file:///C:/workspace/project/Movie-Story/server/src/controllers/user.controller.js:89:30
+2024-12-01 02:12:87 [Movie-Story] error : uncaughtException: RefreshToken 생성 실패
+Error: RefreshToken 생성 실패
+    at createTokenError (file:///C:/workspace/project/Movie-Story/server/src/utils/token.util.js:5:17)
+    at Object.generateRefreshToken (file:///C:/workspace/project/Movie-Story/server/src/utils/token.util.js:37:7)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async file:///C:/workspace/project/Movie-Story/server/src/controllers/user.controller.js:87:30
+2024-12-01 02:12:01 [Movie-Story] error : uncaughtException: RefreshToken 생성 실패
+Error: RefreshToken 생성 실패
+    at createTokenError (file:///C:/workspace/project/Movie-Story/server/src/utils/token.util.js:5:17)
+    at Object.generateRefreshToken (file:///C:/workspace/project/Movie-Story/server/src/utils/token.util.js:37:7)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async file:///C:/workspace/project/Movie-Story/server/src/controllers/user.controller.js:87:30
+2024-12-01 02:12:54 [Movie-Story] error : uncaughtException: RefreshToken 생성 실패
+Error: RefreshToken 생성 실패
+    at createTokenError (file:///C:/workspace/project/Movie-Story/server/src/utils/token.util.js:5:17)
+    at Object.generateRefreshToken (file:///C:/workspace/project/Movie-Story/server/src/utils/token.util.js:37:7)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async file:///C:/workspace/project/Movie-Story/server/src/controllers/user.controller.js:89:30
+2024-12-01 13:12:22 [Movie-Story] error : uncaughtException: read ECONNRESET
+Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:216:20)
+2024-12-01 13:12:13 [Movie-Story] error : uncaughtException: res.statue is not a function
+TypeError: res.statue is not a function
+    at refreshToken (file:///C:/workspace/project/Movie-Story/server/src/controllers/user.controller.js:54:20)
+2024-12-01 13:12:13 [Movie-Story] error : uncaughtException: res.statue is not a function
+TypeError: res.statue is not a function
+    at refreshToken (file:///C:/workspace/project/Movie-Story/server/src/controllers/user.controller.js:56:20)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2024-12-01 13:12:14 [Movie-Story] error : uncaughtException: res.statue is not a function
+TypeError: res.statue is not a function
+    at refreshToken (file:///C:/workspace/project/Movie-Story/server/src/controllers/user.controller.js:56:20)
+2024-12-01 13:12:58 [Movie-Story] error : uncaughtException: res.statue is not a function
+TypeError: res.statue is not a function
+    at refreshToken (file:///C:/workspace/project/Movie-Story/server/src/controllers/user.controller.js:55:20)
+2024-12-01 13:12:83 [Movie-Story] error : uncaughtException: res.statue is not a function
+TypeError: res.statue is not a function
+    at refreshToken (file:///C:/workspace/project/Movie-Story/server/src/controllers/user.controller.js:55:20)
+2024-12-01 13:12:84 [Movie-Story] error : uncaughtException: res.statue is not a function
+TypeError: res.statue is not a function
+    at refreshToken (file:///C:/workspace/project/Movie-Story/server/src/controllers/user.controller.js:55:20)
+2024-12-01 13:12:18 [Movie-Story] error : uncaughtException: res.statue is not a function
+TypeError: res.statue is not a function
+    at refreshToken (file:///C:/workspace/project/Movie-Story/server/src/controllers/user.controller.js:56:20)
+2024-12-01 13:12:46 [Movie-Story] error : uncaughtException: res.statue is not a function
+TypeError: res.statue is not a function
+    at refreshToken (file:///C:/workspace/project/Movie-Story/server/src/controllers/user.controller.js:54:20)
+2024-12-01 13:12:62 [Movie-Story] error : uncaughtException: res.statue is not a function
+TypeError: res.statue is not a function
+    at refreshToken (file:///C:/workspace/project/Movie-Story/server/src/controllers/user.controller.js:56:20)
+2024-12-01 13:12:19 [Movie-Story] error : uncaughtException: res.statue is not a function
+TypeError: res.statue is not a function
+    at refreshToken (file:///C:/workspace/project/Movie-Story/server/src/controllers/user.controller.js:54:20)
+2024-12-01 14:12:40 [Movie-Story] error : uncaughtException: res.statue is not a function
+TypeError: res.statue is not a function
+    at refreshToken (file:///C:/workspace/project/Movie-Story/server/src/controllers/user.controller.js:50:20)
+2024-12-01 14:12:83 [Movie-Story] error : uncaughtException: res.statue is not a function
+TypeError: res.statue is not a function
+    at refreshToken (file:///C:/workspace/project/Movie-Story/server/src/controllers/user.controller.js:50:20)
+2024-12-01 14:12:15 [Movie-Story] error : uncaughtException: res.statue is not a function
+TypeError: res.statue is not a function
+    at refreshToken (file:///C:/workspace/project/Movie-Story/server/src/controllers/user.controller.js:52:20)
+2024-12-01 14:12:57 [Movie-Story] error : uncaughtException: res.statue is not a function
+TypeError: res.statue is not a function
+    at refreshToken (file:///C:/workspace/project/Movie-Story/server/src/controllers/user.controller.js:52:20)
+2024-12-01 14:12:05 [Movie-Story] error : uncaughtException: res.statue is not a function
+TypeError: res.statue is not a function
+    at refreshToken (file:///C:/workspace/project/Movie-Story/server/src/controllers/user.controller.js:54:20)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2024-12-01 14:12:96 [Movie-Story] error : uncaughtException: res.statue is not a function
+TypeError: res.statue is not a function
+    at refreshToken (file:///C:/workspace/project/Movie-Story/server/src/controllers/user.controller.js:52:20)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2024-12-01 14:12:48 [Movie-Story] error : uncaughtException: res.statue is not a function
+TypeError: res.statue is not a function
+    at refreshToken (file:///C:/workspace/project/Movie-Story/server/src/controllers/user.controller.js:52:20)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2024-12-01 14:12:11 [Movie-Story] error : uncaughtException: res.statue is not a function
+TypeError: res.statue is not a function
+    at refreshToken (file:///C:/workspace/project/Movie-Story/server/src/controllers/user.controller.js:53:20)
+2024-12-01 14:12:47 [Movie-Story] error : uncaughtException: res.statue is not a function
+TypeError: res.statue is not a function
+    at refreshToken (file:///C:/workspace/project/Movie-Story/server/src/controllers/user.controller.js:53:20)
+2024-12-01 14:12:02 [Movie-Story] error : uncaughtException: res.statue is not a function
+TypeError: res.statue is not a function
+    at refreshToken (file:///C:/workspace/project/Movie-Story/server/src/controllers/user.controller.js:53:20)
+2024-12-01 14:12:89 [Movie-Story] error : uncaughtException: server is not defined
+ReferenceError: server is not defined
+    at process.<anonymous> (file:///C:/workspace/project/Movie-Story/server/bin/www.js:32:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2024-12-01 17:12:36 [Movie-Story] error : uncaughtException: user is not defined
+ReferenceError: user is not defined
+    at JwtStrategy._verify (file:///C:/workspace/project/Movie-Story/server/src/passport/jwtStrategy.js:32:9)
+    at C:\workspace\project\Movie-Story\server\node_modules\passport-jwt\lib\strategy.js:123:34
+    at C:\workspace\project\Movie-Story\server\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\workspace\project\Movie-Story\server\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\workspace\project\Movie-Story\server\node_modules\jsonwebtoken\verify.js:101:10)
+    at module.exports [as JwtVerifier] (C:\workspace\project\Movie-Story\server\node_modules\passport-jwt\lib\verify_jwt.js:4:16)
+    at C:\workspace\project\Movie-Story\server\node_modules\passport-jwt\lib\strategy.js:104:25
+    at JwtStrategy._secretOrKeyProvider (C:\workspace\project\Movie-Story\server\node_modules\passport-jwt\lib\strategy.js:40:13)
+    at JwtStrategy.authenticate (C:\workspace\project\Movie-Story\server\node_modules\passport-jwt\lib\strategy.js:99:10)
+    at attempt (C:\workspace\project\Movie-Story\server\node_modules\passport\lib\middleware\authenticate.js:378:16)
+2024-12-01 17:12:07 [Movie-Story] error : uncaughtException: user is not defined
+ReferenceError: user is not defined
+    at JwtStrategy._verify (file:///C:/workspace/project/Movie-Story/server/src/passport/jwtStrategy.js:32:9)
+    at C:\workspace\project\Movie-Story\server\node_modules\passport-jwt\lib\strategy.js:123:34
+    at C:\workspace\project\Movie-Story\server\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\workspace\project\Movie-Story\server\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\workspace\project\Movie-Story\server\node_modules\jsonwebtoken\verify.js:101:10)
+    at module.exports [as JwtVerifier] (C:\workspace\project\Movie-Story\server\node_modules\passport-jwt\lib\verify_jwt.js:4:16)
+    at C:\workspace\project\Movie-Story\server\node_modules\passport-jwt\lib\strategy.js:104:25
+    at JwtStrategy._secretOrKeyProvider (C:\workspace\project\Movie-Story\server\node_modules\passport-jwt\lib\strategy.js:40:13)
+    at JwtStrategy.authenticate (C:\workspace\project\Movie-Story\server\node_modules\passport-jwt\lib\strategy.js:99:10)
+    at attempt (C:\workspace\project\Movie-Story\server\node_modules\passport\lib\middleware\authenticate.js:378:16)
+2024-12-01 17:12:06 [Movie-Story] error : uncaughtException: user is not defined
+ReferenceError: user is not defined
+    at JwtStrategy._verify (file:///C:/workspace/project/Movie-Story/server/src/passport/jwtStrategy.js:32:9)
+    at C:\workspace\project\Movie-Story\server\node_modules\passport-jwt\lib\strategy.js:123:34
+    at C:\workspace\project\Movie-Story\server\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\workspace\project\Movie-Story\server\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\workspace\project\Movie-Story\server\node_modules\jsonwebtoken\verify.js:101:10)
+    at module.exports [as JwtVerifier] (C:\workspace\project\Movie-Story\server\node_modules\passport-jwt\lib\verify_jwt.js:4:16)
+    at C:\workspace\project\Movie-Story\server\node_modules\passport-jwt\lib\strategy.js:104:25
+    at JwtStrategy._secretOrKeyProvider (C:\workspace\project\Movie-Story\server\node_modules\passport-jwt\lib\strategy.js:40:13)
+    at JwtStrategy.authenticate (C:\workspace\project\Movie-Story\server\node_modules\passport-jwt\lib\strategy.js:99:10)
+    at attempt (C:\workspace\project\Movie-Story\server\node_modules\passport\lib\middleware\authenticate.js:378:16)
+2024-12-01 17:12:99 [Movie-Story] error : uncaughtException: user is not defined
+ReferenceError: user is not defined
+    at JwtStrategy._verify (file:///C:/workspace/project/Movie-Story/server/src/passport/jwtStrategy.js:32:9)
+    at C:\workspace\project\Movie-Story\server\node_modules\passport-jwt\lib\strategy.js:123:34
+    at C:\workspace\project\Movie-Story\server\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\workspace\project\Movie-Story\server\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\workspace\project\Movie-Story\server\node_modules\jsonwebtoken\verify.js:101:10)
+    at module.exports [as JwtVerifier] (C:\workspace\project\Movie-Story\server\node_modules\passport-jwt\lib\verify_jwt.js:4:16)
+    at C:\workspace\project\Movie-Story\server\node_modules\passport-jwt\lib\strategy.js:104:25
+    at JwtStrategy._secretOrKeyProvider (C:\workspace\project\Movie-Story\server\node_modules\passport-jwt\lib\strategy.js:40:13)
+    at JwtStrategy.authenticate (C:\workspace\project\Movie-Story\server\node_modules\passport-jwt\lib\strategy.js:99:10)
+    at attempt (C:\workspace\project\Movie-Story\server\node_modules\passport\lib\middleware\authenticate.js:378:16)
+2024-12-01 17:12:50 [Movie-Story] error : uncaughtException: user is not defined
+ReferenceError: user is not defined
+    at JwtStrategy._verify (file:///C:/workspace/project/Movie-Story/server/src/passport/jwtStrategy.js:32:9)
+    at C:\workspace\project\Movie-Story\server\node_modules\passport-jwt\lib\strategy.js:123:34
+    at C:\workspace\project\Movie-Story\server\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\workspace\project\Movie-Story\server\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\workspace\project\Movie-Story\server\node_modules\jsonwebtoken\verify.js:101:10)
+    at module.exports [as JwtVerifier] (C:\workspace\project\Movie-Story\server\node_modules\passport-jwt\lib\verify_jwt.js:4:16)
+    at C:\workspace\project\Movie-Story\server\node_modules\passport-jwt\lib\strategy.js:104:25
+    at JwtStrategy._secretOrKeyProvider (C:\workspace\project\Movie-Story\server\node_modules\passport-jwt\lib\strategy.js:40:13)
+    at JwtStrategy.authenticate (C:\workspace\project\Movie-Story\server\node_modules\passport-jwt\lib\strategy.js:99:10)
+    at attempt (C:\workspace\project\Movie-Story\server\node_modules\passport\lib\middleware\authenticate.js:378:16)
+2024-12-01 17:12:73 [Movie-Story] error : uncaughtException: user is not defined
+ReferenceError: user is not defined
+    at JwtStrategy._verify (file:///C:/workspace/project/Movie-Story/server/src/passport/jwtStrategy.js:32:9)
+    at C:\workspace\project\Movie-Story\server\node_modules\passport-jwt\lib\strategy.js:123:34
+    at C:\workspace\project\Movie-Story\server\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\workspace\project\Movie-Story\server\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\workspace\project\Movie-Story\server\node_modules\jsonwebtoken\verify.js:101:10)
+    at module.exports [as JwtVerifier] (C:\workspace\project\Movie-Story\server\node_modules\passport-jwt\lib\verify_jwt.js:4:16)
+    at C:\workspace\project\Movie-Story\server\node_modules\passport-jwt\lib\strategy.js:104:25
+    at JwtStrategy._secretOrKeyProvider (C:\workspace\project\Movie-Story\server\node_modules\passport-jwt\lib\strategy.js:40:13)
+    at JwtStrategy.authenticate (C:\workspace\project\Movie-Story\server\node_modules\passport-jwt\lib\strategy.js:99:10)
+    at attempt (C:\workspace\project\Movie-Story\server\node_modules\passport\lib\middleware\authenticate.js:378:16)
+2024-12-01 17:12:88 [Movie-Story] error : uncaughtException: user is not defined
+ReferenceError: user is not defined
+    at JwtStrategy._verify (file:///C:/workspace/project/Movie-Story/server/src/passport/jwtStrategy.js:32:9)
+    at C:\workspace\project\Movie-Story\server\node_modules\passport-jwt\lib\strategy.js:123:34
+    at C:\workspace\project\Movie-Story\server\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\workspace\project\Movie-Story\server\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\workspace\project\Movie-Story\server\node_modules\jsonwebtoken\verify.js:101:10)
+    at module.exports [as JwtVerifier] (C:\workspace\project\Movie-Story\server\node_modules\passport-jwt\lib\verify_jwt.js:4:16)
+    at C:\workspace\project\Movie-Story\server\node_modules\passport-jwt\lib\strategy.js:104:25
+    at JwtStrategy._secretOrKeyProvider (C:\workspace\project\Movie-Story\server\node_modules\passport-jwt\lib\strategy.js:40:13)
+    at JwtStrategy.authenticate (C:\workspace\project\Movie-Story\server\node_modules\passport-jwt\lib\strategy.js:99:10)
+    at attempt (C:\workspace\project\Movie-Story\server\node_modules\passport\lib\middleware\authenticate.js:378:16)
+2024-12-01 17:12:03 [Movie-Story] error : uncaughtException: user is not defined
+ReferenceError: user is not defined
+    at JwtStrategy._verify (file:///C:/workspace/project/Movie-Story/server/src/passport/jwtStrategy.js:34:9)
+    at C:\workspace\project\Movie-Story\server\node_modules\passport-jwt\lib\strategy.js:123:34
+    at C:\workspace\project\Movie-Story\server\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\workspace\project\Movie-Story\server\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\workspace\project\Movie-Story\server\node_modules\jsonwebtoken\verify.js:101:10)
+    at module.exports [as JwtVerifier] (C:\workspace\project\Movie-Story\server\node_modules\passport-jwt\lib\verify_jwt.js:4:16)
+    at C:\workspace\project\Movie-Story\server\node_modules\passport-jwt\lib\strategy.js:104:25
+    at JwtStrategy._secretOrKeyProvider (C:\workspace\project\Movie-Story\server\node_modules\passport-jwt\lib\strategy.js:40:13)
+    at JwtStrategy.authenticate (C:\workspace\project\Movie-Story\server\node_modules\passport-jwt\lib\strategy.js:99:10)
+    at attempt (C:\workspace\project\Movie-Story\server\node_modules\passport\lib\middleware\authenticate.js:378:16)
+2024-12-01 18:12:69 [Movie-Story] error : uncaughtException: user is not defined
+ReferenceError: user is not defined
+    at JwtStrategy._verify (file:///C:/workspace/project/Movie-Story/server/src/passport/jwtStrategy.js:33:9)
+    at C:\workspace\project\Movie-Story\server\node_modules\passport-jwt\lib\strategy.js:123:34
+    at C:\workspace\project\Movie-Story\server\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\workspace\project\Movie-Story\server\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\workspace\project\Movie-Story\server\node_modules\jsonwebtoken\verify.js:101:10)
+    at module.exports [as JwtVerifier] (C:\workspace\project\Movie-Story\server\node_modules\passport-jwt\lib\verify_jwt.js:4:16)
+    at C:\workspace\project\Movie-Story\server\node_modules\passport-jwt\lib\strategy.js:104:25
+    at JwtStrategy._secretOrKeyProvider (C:\workspace\project\Movie-Story\server\node_modules\passport-jwt\lib\strategy.js:40:13)
+    at JwtStrategy.authenticate (C:\workspace\project\Movie-Story\server\node_modules\passport-jwt\lib\strategy.js:99:10)
+    at attempt (C:\workspace\project\Movie-Story\server\node_modules\passport\lib\middleware\authenticate.js:378:16)
+2024-12-01 18:12:98 [Movie-Story] error : uncaughtException: server is not defined
+ReferenceError: server is not defined
+    at process.<anonymous> (file:///C:/workspace/project/Movie-Story/server/bin/www.js:32:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)

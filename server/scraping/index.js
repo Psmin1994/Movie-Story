@@ -1,16 +1,17 @@
-import getList from "./getList.js";
-import insertData from "./insertData.js";
-import getBoxOffice from "./getBoxOffice.js";
+import getPlayingList from "./getPlayingList.js";
+import insertPlayingMovie from "./insertPlayingMovie.js";
+import setBoxOffice from "./setBoxOffice.js";
 
 let scraping = async () => {
   try {
-    let [urlList, browser, page] = await getList();
+    // 현재 상영 중인 영화 리스트
+    let [urlList, browser, page] = await getPlayingList();
 
-    await insertData(urlList, page);
+    await insertPlayingMovie(urlList, page);
 
-    await getBoxOffice(browser, page);
+    await setBoxOffice(browser, page);
   } catch (err) {
-    throw err;
+    console.log(err);
   }
 };
 

@@ -1,0 +1,61 @@
+2024-12-03 18:12:70 [Movie-Story] error : uncaughtException: Cannot read properties of undefined (reading 'use')
+TypeError: Cannot read properties of undefined (reading 'use')
+    at default (file:///C:/workspace/project/Movie-Story/server/src/passport/naverStrategy.js:4:12)
+    at file:///C:/workspace/project/Movie-Story/server/src/passport/index.js:13:1
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2024-12-03 18:12:29 [Movie-Story] error : uncaughtException: Cannot read properties of undefined (reading 'use')
+TypeError: Cannot read properties of undefined (reading 'use')
+    at default (file:///C:/workspace/project/Movie-Story/server/src/passport/naverStrategy.js:4:12)
+    at file:///C:/workspace/project/Movie-Story/server/src/passport/index.js:13:1
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2024-12-03 18:12:88 [Movie-Story] error : uncaughtException: Cannot read properties of undefined (reading 'use')
+TypeError: Cannot read properties of undefined (reading 'use')
+    at default (file:///C:/workspace/project/Movie-Story/server/src/passport/naverStrategy.js:4:12)
+    at file:///C:/workspace/project/Movie-Story/server/src/passport/index.js:13:1
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2024-12-03 18:12:74 [Movie-Story] error : uncaughtException: Cannot read properties of undefined (reading 'use')
+TypeError: Cannot read properties of undefined (reading 'use')
+    at default (file:///C:/workspace/project/Movie-Story/server/src/passport/naverStrategy.js:4:12)
+    at file:///C:/workspace/project/Movie-Story/server/src/passport/index.js:13:1
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2024-12-03 18:12:72 [Movie-Story] error : uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (C:\workspace\project\Movie-Story\server\node_modules\express\lib\router\route.js:216:15)
+    at proto.<computed> [as get] (C:\workspace\project\Movie-Story\server\node_modules\express\lib\router\index.js:521:19)
+    at file:///C:/workspace/project/Movie-Story/server/src/routes/user.route.js:12:8
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2024-12-03 18:12:69 [Movie-Story] error : uncaughtException: consolelog is not defined
+ReferenceError: consolelog is not defined
+    at naver (file:///C:/workspace/project/Movie-Story/server/src/controllers/auth.controller.js:7:5)
+    at Layer.handle [as handle_request] (C:\workspace\project\Movie-Story\server\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\workspace\project\Movie-Story\server\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\workspace\project\Movie-Story\server\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\workspace\project\Movie-Story\server\node_modules\express\lib\router\layer.js:95:5)
+    at C:\workspace\project\Movie-Story\server\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\workspace\project\Movie-Story\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\workspace\project\Movie-Story\server\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\workspace\project\Movie-Story\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\workspace\project\Movie-Story\server\node_modules\express\lib\router\index.js:47:12)
+2024-12-03 19:12:28 [Movie-Story] error : uncaughtException: OAuth2Strategy requires a clientID option
+TypeError: OAuth2Strategy requires a clientID option
+    at Strategy.OAuth2Strategy (C:\workspace\project\Movie-Story\server\node_modules\passport-oauth2\lib\strategy.js:87:34)
+    at new Strategy (C:\workspace\project\Movie-Story\server\node_modules\passport-naver-v2\build\strategy.js:46:24)
+    at default (file:///C:/workspace/project/Movie-Story/server/src/passport/naverStrategy.js:6:5)
+    at file:///C:/workspace/project/Movie-Story/server/src/passport/index.js:13:1
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2024-12-03 20:12:88 [Movie-Story] error : uncaughtException: ctrl is not defined
+ReferenceError: ctrl is not defined
+    at file:///C:/workspace/project/Movie-Story/server/src/routes/auth.route.js:9:22
+    at ModuleJob.run (node:internal/modules/esm/module_job:268:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:543:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:116:5)
+2024-12-03 20:12:94 [Movie-Story] error : uncaughtException: ctrl is not defined
+ReferenceError: ctrl is not defined
+    at file:///C:/workspace/project/Movie-Story/server/src/routes/auth.route.js:9:22
+    at ModuleJob.run (node:internal/modules/esm/module_job:268:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:543:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:116:5)
+2024-12-03 20:12:20 [Movie-Story] error : uncaughtException: server is not defined
+ReferenceError: server is not defined
+    at process.<anonymous> (file:///C:/workspace/project/Movie-Story/server/bin/www.js:32:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)

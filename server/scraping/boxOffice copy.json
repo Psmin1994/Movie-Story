@@ -1,52 +1,62 @@
-{
-  "탈주": {
+[
+  {
+    "movieId": 34,
     "rank": 1,
     "change": 0,
     "new": false
   },
-  "인사이드 아웃 2": {
+  {
+    "movieId": 12,
     "rank": 2,
     "change": 0,
     "new": false
   },
-  "핸섬가이즈": {
+  {
+    "movieId": 78,
     "rank": 3,
     "change": 0,
     "new": false
   },
-  "하이재킹": {
+  {
+    "movieId": 43,
     "rank": 4,
     "change": 0,
     "new": false
   },
-  "콰이어트 플레이스: 첫째 날": {
+  {
+    "movieId": 127,
     "rank": 5,
     "change": 0,
     "new": false
   },
-  "탈출: 프로젝트 사일런스": {
+  {
+    "movieId": 55,
     "rank": 6,
     "change": 0,
     "new": false
   },
-  "퍼펙트 데이즈": {
+  {
+    "movieId": 66,
     "rank": 7,
     "change": 0,
     "new": false
   },
-  "존 오브 인터레스트": {
+  {
+    "movieId": 3,
     "rank": 8,
     "change": 0,
     "new": false
   },
-  "만천과해": {
+  {
+    "movieId": 120,
     "rank": 9,
     "change": 0,
     "new": false
   },
-  "듄: 파트2": {
+  {
+    "movieId": 1,
     "rank": 10,
     "change": 0,
     "new": false
   }
-}
+]

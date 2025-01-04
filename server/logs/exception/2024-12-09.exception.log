@@ -1,0 +1,20 @@
+error : uncaughtException: listen EADDRINUSE: address already in use :::5000
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (node:net:1907:16)
+    at listenInCluster (node:net:1964:12)
+    at Server.listen (node:net:2066:7)
+    at Function.listen (C:\workspace\project\Movie-Story\server\node_modules\express\lib\application.js:635:24)
+    at file:///C:/workspace/project/Movie-Story/server/bin/www.js:17:5
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+error : uncaughtException: The client is closed
+Error: The client is closed
+    at Commander._RedisClient_sendCommand (C:\workspace\project\Movie-Story\server\node_modules\@redis\client\dist\lib\client\index.js:520:31)
+    at Commander.commandsExecutor (C:\workspace\project\Movie-Story\server\node_modules\@redis\client\dist\lib\client\index.js:190:154)
+    at BaseClass.<computed> [as set] (C:\workspace\project\Movie-Story\server\node_modules\@redis\client\dist\lib\commander.js:8:29)
+    at Object.generateRefreshToken (file:///C:/workspace/project/Movie-Story/server/src/utils/token.util.js:31:19)
+    at file:///C:/workspace/project/Movie-Story/server/src/controllers/user.controller.js:87:46
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+error : uncaughtException: server is not defined
+ReferenceError: server is not defined
+    at process.<anonymous> (file:///C:/workspace/project/Movie-Story/server/bin/www.js:32:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)

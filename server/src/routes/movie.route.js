@@ -3,12 +3,15 @@ import ctrl from "../controllers/movie.controller.js";
 
 const router = express.Router();
 
-router.get("/", ctrl.getMovie); // 영화 목록 불러오기
-router.get("/:id", ctrl.getMovieById);
-router.get("/movie_genre/:id", ctrl.getGenreByMovieId);
-router.get("/movie_actor/:id", ctrl.getActorByMovieId);
-router.get("/movie_director/:id", ctrl.getDirectorByMovieId);
+router.get("/", ctrl.getMovie); // 영화 전체 목록 불러오기
+router.get("/search", ctrl.getMovieBySearch); // 영화 전체 목록 불러오기
+router.get("/chart", ctrl.getBoxOffice); // 영화 전체 목록 불러오기
+router.get("/basic/:id", ctrl.getMovieById); // 특정 영화 불러오기
+router.get("/:id", ctrl.getMovieDetailById); // 특정 영화 불러오기
+router.get("/genre/:id", ctrl.getGenreByMovieId); // 영화 장르 불러오기
+router.get("/actor/:id", ctrl.getActorByMovieId); // 영화 출연 배우 불러오기
+router.get("/director/:id", ctrl.getDirectorByMovieId); // 영화 연출 감독 불러오기
 
-router.get("/genre/:id", ctrl.getMovieByGenreId);
+router.get("/sort/genre/:id", ctrl.getMovieByGenreId); // 장르별 영화 불러오기
 
 export default router;

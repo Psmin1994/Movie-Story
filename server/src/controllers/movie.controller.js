@@ -1,49 +1,109 @@
 import movieStorage from "../models/movie.model.js";
 
 export default {
-  getMovie: async (req, res) => {
-    const data = await movieStorage.getMovie();
+  getMovie: async (req, res, next) => {
+    try {
+      const data = await movieStorage.getMovie();
 
-    res.json(data);
+      return res.json(data);
+    } catch (err) {
+      next(err);
+    }
   },
 
-  getMovieById: async (req, res) => {
-    let movieId = req.params.id;
+  getMovieById: async (req, res, next) => {
+    try {
+      let movieId = req.params.id;
 
-    const data = await movieStorage.getMovieById(movieId);
+      const data = await movieStorage.getMovieById(movieId);
 
-    res.json(data);
+      return res.json(data);
+    } catch (err) {
+      next(err);
+    }
   },
 
-  getGenreByMovieId: async (req, res) => {
-    let movieId = req.params.id;
+  getMovieBySearch: async (req, res, next) => {
+    try {
+      let searchStr = req.query.searchStr;
 
-    const data = await movieStorage.getGenreByMovieId(movieId);
+      console.log(req.query);
 
-    res.json(data);
+      const data = await movieStorage.getMovieBySearch(searchStr);
+
+      return res.json(data);
+    } catch (err) {
+      next(err);
+    }
   },
 
-  getActorByMovieId: async (req, res) => {
-    let movieId = req.params.id;
+  getMovieDetailById: async (req, res, next) => {
+    try {
+      let movieId = req.params.id;
 
-    const data = await movieStorage.getActorByMovieId(movieId);
+      const data = await movieStorage.getMovieDetailById(movieId);
 
-    res.json(data);
+      return res.json(data);
+    } catch (err) {
+      next(err);
+    }
   },
 
-  getDirectorByMovieId: async (req, res) => {
-    let movieId = req.params.id;
+  getGenreByMovieId: async (req, res, next) => {
+    try {
+      let movieId = req.params.id;
 
-    const data = await movieStorage.getDirectorByMovieId(movieId);
+      const data = await movieStorage.getGenreByMovieId(movieId);
 
-    res.json(data);
+      return res.json(data);
+    } catch (err) {
+      next(err);
+    }
   },
 
-  getMovieByGenreId: async (req, res) => {
-    let genreId = req.params.id;
+  getActorByMovieId: async (req, res, next) => {
+    try {
+      let movieId = req.params.id;
 
-    const data = await movieStorage.getMovieByGenreId(genreId);
+      const data = await movieStorage.getActorByMovieId(movieId);
 
-    res.json(data);
+      return res.json(data);
+    } catch (err) {
+      next(err);
+    }
+  },
+
+  getDirectorByMovieId: async (req, res, next) => {
+    try {
+      let movieId = req.params.id;
+
+      const data = await movieStorage.getDirectorByMovieId(movieId);
+
+      return res.json(data);
+    } catch (err) {
+      next(err);
+    }
+  },
+
+  getMovieByGenreId: async (req, res, next) => {
+    try {
+      let genreId = req.params.id;
+
+      const data = await movieStorage.getMovieByGenreId(genreId);
+
+      return res.json(data);
+    } catch (err) {
+      next(err);
+    }
+  },
+
+  getBoxOffice: async (req, res, next) => {
+    try {
+      const data = await movieStorage.getBoxOffice();
+
+      return res.json(data);
+    } catch (err) {
+      next(err);
+    }
   },
 };

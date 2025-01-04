@@ -1,8 +1,0 @@
-2024-07-10 04:07:33 [Movie-Story] error : uncaughtException: Route.get() requires a callback function but got a [object Undefined]
-Error: Route.get() requires a callback function but got a [object Undefined]
-    at Route.<computed> [as get] (C:\workspace\project\Movie-Story\server\node_modules\express\lib\router\route.js:216:15)
-    at proto.<computed> [as get] (C:\workspace\project\Movie-Story\server\node_modules\express\lib\router\index.js:521:19)
-    at file:///C:/workspace/project/Movie-Story/server/src/routes/movie.route.js:6:8
-2024-07-10 04:07:61 [Movie-Story] error : uncaughtException: job is not a function
-TypeError: job is not a function
-    at file:///C:/workspace/project/Movie-Story/server/app.js:8:1

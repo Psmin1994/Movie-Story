@@ -1,0 +1,438 @@
+info : [2024-12-10T12:41:25.795Z] GET /user/info 401 50.191 ms
+
+info : [2024-12-10T12:41:25.848Z] GET /user/refresh 401 9.106 ms
+
+info : [2024-12-10T12:41:52.405Z] GET /user/info 401 1.604 ms
+
+info : [2024-12-10T12:42:35.628Z] GET /user/info 401 1.008 ms
+
+info : [2024-12-10T12:45:20.160Z] GET /auth/google?redirectUrl=http%3A%2F%2Flocalhost%3A3000%2Fsearch%3FsearchStr%3D 302 8.774 ms
+
+info : [2024-12-10T12:55:28.215Z] GET /user/info 401 5.759 ms
+
+info : [2024-12-10T12:55:30.258Z] GET /auth/google?redirectUrl=http%3A%2F%2Flocalhost%3A3000%2Fsearch%3FsearchStr%3D 302 2.895 ms
+
+info : [2024-12-10T12:55:41.318Z] GET /user/info 401 3.187 ms
+
+info : [2024-12-10T13:18:54.781Z] GET /auth/google?redirectUrl=http%3A%2F%2Flocalhost%3A3000%2Fsearch%3FsearchStr%3D 302 1.232 ms
+
+info : [2024-12-10T13:19:07.370Z] GET /user/info 401 0.897 ms
+
+info : [2024-12-10T13:19:41.362Z] GET /auth/google?redirectUrl=http%3A%2F%2Flocalhost%3A3000%2Fsearch%3FsearchStr%3D 302 0.458 ms
+
+info : [2024-12-10T13:21:39.177Z] GET /auth/google?redirectUrl=http%3A%2F%2Flocalhost%3A3000%2Fsearch%3FsearchStr%3D 302 3.055 ms
+
+info : [2024-12-10T13:21:49.613Z] GET /auth/google/callback?state=http%253A%252F%252Flocalhost%253A3000%252Fsearch%253FsearchStr%253D&code=4%2F0AeanS0YtugOx2MJ6qmZYirjMh5A4T0CzDyzYLP7mAsYE4qud7vrTsQ-Q4XjflVr7Zg5dsg&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&authuser=0&prompt=consent 302 662.127 ms
+
+info : [2024-12-10T13:21:51.184Z] GET /user/info 401 6.130 ms
+
+info : [2024-12-10T13:23:10.986Z] GET /auth/google?redirectUrl=http%3A%2F%2Flocalhost%3A3000%2Fsearch%3FsearchStr%3D 302 2.833 ms
+
+info : [2024-12-10T13:23:12.136Z] GET /auth/google/callback?state=http%253A%252F%252Flocalhost%253A3000%252Fsearch%253FsearchStr%253D&code=4%2F0AeanS0bqhncVDKMISi8dKbs8p-VvglcJNk3EzDGwNky9LT6Ep8HglETJN8tZEandzkjVBw&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=none 302 891.410 ms
+
+info : [2024-12-10T13:23:13.095Z] GET /user/info 401 3.737 ms
+
+info : [2024-12-10T13:23:28.477Z] GET /user/info 401 4.461 ms
+
+info : [2024-12-10T13:23:29.955Z] GET /auth/google?redirectUrl=http%3A%2F%2Flocalhost%3A3000%2Fsearch%3FsearchStr%3D 302 2.004 ms
+
+info : [2024-12-10T13:23:30.875Z] GET /auth/google/callback?state=http%253A%252F%252Flocalhost%253A3000%252Fsearch%253FsearchStr%253D&code=4%2F0AeanS0awmS8-FrP41xHNcxuo_lAQhTOf1qPP-zwZMqCTEApekqPO-2b00jat0K0R58cOSA&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=none 302 632.789 ms
+
+info : [2024-12-10T13:23:31.590Z] GET /user/info 401 0.839 ms
+
+info : [2024-12-10T13:23:54.337Z] GET /user/info 401 7.072 ms
+
+info : [2024-12-10T13:23:56.797Z] GET /auth/google?redirectUrl=http%3A%2F%2Flocalhost%3A3000%2Fsearch%3FsearchStr%3D 302 2.352 ms
+
+info : [2024-12-10T13:23:57.816Z] GET /auth/google/callback?state=http%253A%252F%252Flocalhost%253A3000%252Fsearch%253FsearchStr%253D&code=4%2F0AeanS0YmYORUsnhYZ3heKMv1KfRpURmsgP3grDDsZ7Lgq4piaV2RdG0X8a5YRtJpBEubGA&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=none 302 686.993 ms
+
+info : [2024-12-10T13:23:58.881Z] GET /user/info 401 0.797 ms
+
+info : [2024-12-10T13:24:42.722Z] GET /auth/google?redirectUrl=http%3A%2F%2Flocalhost%3A3000%2Fsearch%3FsearchStr%3D 302 5.690 ms
+
+info : [2024-12-10T13:24:43.770Z] GET /auth/google/callback?state=http%253A%252F%252Flocalhost%253A3000%252Fsearch%253FsearchStr%253D&code=4%2F0AeanS0a4bOqrq2xNuBOzyqehbjUrpvbmsHtbyFRzUaS_1rTDXqqM4IWShfmRWyBo_hZq8w&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=none 302 623.477 ms
+
+info : [2024-12-10T13:24:44.504Z] GET /user/info 401 3.471 ms
+
+info : [2024-12-10T13:26:11.560Z] GET /auth/google?redirectUrl=http%3A%2F%2Flocalhost%3A3000%2Fsearch%3FsearchStr%3D 302 7.273 ms
+
+info : [2024-12-10T13:26:12.654Z] GET /auth/google/callback?state=http%253A%252F%252Flocalhost%253A3000%252Fsearch%253FsearchStr%253D&code=4%2F0AeanS0YXxcoPuVM0gFhJRSLtrAH-a2029Zl_lWUmBJGKjqFRzVoMxPr7DqSZbGYTjDB-2A&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile&authuser=0&prompt=none 302 566.439 ms
+
+info : [2024-12-10T13:26:13.434Z] GET /user/info 401 4.537 ms
+
+info : [2024-12-10T13:26:37.464Z] GET /auth/google?redirectUrl=http%3A%2F%2Flocalhost%3A3000%2Fsearch%3FsearchStr%3D 302 3.287 ms
+
+info : [2024-12-10T13:26:38.283Z] GET /auth/google/callback?state=http%253A%252F%252Flocalhost%253A3000%252Fsearch%253FsearchStr%253D&code=4%2F0AeanS0a3ATUlQihd5uZ6J4zQ9E7rZL4cVJl9vDXU2s8Hm_9voA3rVENC-b7vg_LG_VatYA&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile&authuser=0&prompt=none 302 507.911 ms
+
+info : [2024-12-10T13:26:38.941Z] GET /user/info 401 3.082 ms
+
+info : [2024-12-10T13:26:54.012Z] GET /auth/google?redirectUrl=http%3A%2F%2Flocalhost%3A3000%2Fsearch%3FsearchStr%3D 302 4.466 ms
+
+info : [2024-12-10T13:26:54.812Z] GET /auth/google/callback?state=http%253A%252F%252Flocalhost%253A3000%252Fsearch%253FsearchStr%253D&code=4%2F0AeanS0aEBPH5-03-p05S8l3LPtqTxBmaguVHohY2cAdnoSKIfAkCo15zkydx8K7PGKFPQQ&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=none 302 522.459 ms
+
+info : [2024-12-10T13:26:55.544Z] GET /user/info 401 3.367 ms
+
+info : [2024-12-10T13:27:09.871Z] GET /auth/google?redirectUrl=http%3A%2F%2Flocalhost%3A3000%2Fsearch%3FsearchStr%3D 302 5.158 ms
+
+info : [2024-12-10T13:27:10.734Z] GET /auth/google/callback?state=http%253A%252F%252Flocalhost%253A3000%252Fsearch%253FsearchStr%253D&code=4%2F0AeanS0aNkSXuiCT4emSnPIM6N39rKTQLkcm_bGUAAEgOLjU4JuDSQNEYrGoBKSDItmTJuw&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile&authuser=0&prompt=none 302 570.862 ms
+
+info : [2024-12-10T13:27:11.449Z] GET /user/info 401 3.402 ms
+
+info : [2024-12-10T13:36:48.182Z] GET /auth/naver?redirectUrl=http%3A%2F%2Flocalhost%3A3000%2Fsearch%3FsearchStr%3D 302 4.860 ms
+
+info : [2024-12-10T13:36:55.153Z] GET /auth/naver/callback?code=m0wt10gjZEgeqgJYAy&state=http%3A%2F%2Flocalhost%3A3000%2Fsearch%3FsearchStr%3D 302 280.033 ms
+
+info : [2024-12-10T13:36:56.433Z] GET /user/info 401 7.604 ms
+
+info : [2024-12-10T13:37:35.128Z] GET /auth/naver?redirectUrl=http%3A%2F%2Flocalhost%3A3000%2Fsearch%3FsearchStr%3D 302 2.424 ms
+
+info : [2024-12-10T13:37:35.971Z] GET /auth/naver/callback?code=UIZIQbV5KqB96UeSUO&state=http%3A%2F%2Flocalhost%3A3000%2Fsearch%3FsearchStr%3D 302 320.201 ms
+
+info : [2024-12-10T13:37:37.343Z] GET /user/info 401 6.555 ms
+
+info : [2024-12-10T13:38:56.808Z] GET /auth/naver?redirectUrl=http%3A%2F%2Flocalhost%3A3000%2Fsearch%3FsearchStr%3D 302 4.293 ms
+
+info : [2024-12-10T13:38:57.627Z] GET /auth/naver/callback?code=XTYRKrAdCim56uH6CJ&state=http%3A%2F%2Flocalhost%3A3000%2Fsearch%3FsearchStr%3D 302 319.505 ms
+
+info : [2024-12-10T13:38:58.996Z] GET /user/info 401 6.415 ms
+
+info : [2024-12-10T13:39:41.036Z] GET /auth/naver?redirectUrl=http%3A%2F%2Flocalhost%3A3000%2Fsearch%3FsearchStr%3D 302 3.772 ms
+
+info : [2024-12-10T13:39:41.851Z] GET /auth/naver/callback?code=vFFUq0F9OkhiVZILvh&state=http%3A%2F%2Flocalhost%3A3000%2Fsearch%3FsearchStr%3D 302 291.428 ms
+
+info : [2024-12-10T13:39:43.129Z] GET /user/info 401 5.093 ms
+
+info : [2024-12-10T13:40:03.104Z] GET /auth/naver?redirectUrl=http%3A%2F%2Flocalhost%3A3000%2Fsearch%3FsearchStr%3D 302 4.428 ms
+
+info : [2024-12-10T13:40:03.851Z] GET /auth/naver/callback?code=BfFlu6WRZZlxBNQame&state=http%3A%2F%2Flocalhost%3A3000%2Fsearch%3FsearchStr%3D 302 277.708 ms
+
+info : [2024-12-10T13:40:05.090Z] GET /user/info 401 5.439 ms
+
+info : [2024-12-10T13:40:49.094Z] GET /auth/naver?redirectUrl=http%3A%2F%2Flocalhost%3A3000%2Fsearch%3FsearchStr%3D 302 5.673 ms
+
+info : [2024-12-10T13:40:49.746Z] GET /auth/naver/callback?code=Hdlca2sbH458kelpAO&state=http%3A%2F%2Flocalhost%3A3000%2Fsearch%3FsearchStr%3D 302 269.656 ms
+
+info : [2024-12-10T13:40:50.628Z] GET /user/info 401 4.684 ms
+
+info : [2024-12-10T13:41:32.833Z] GET /auth/naver?redirectUrl=http%3A%2F%2Flocalhost%3A3000%2Fsearch%3FsearchStr%3D 302 3.386 ms
+
+info : [2024-12-10T13:41:33.554Z] GET /auth/naver/callback?code=7c4E2Tf9Kxja8vi5Tr&state=http%3A%2F%2Flocalhost%3A3000%2Fsearch%3FsearchStr%3D 302 302.536 ms
+
+info : [2024-12-10T13:41:34.789Z] GET /user/info 401 4.889 ms
+
+info : [2024-12-10T13:42:31.347Z] GET /auth/naver?redirectUrl=http%3A%2F%2Flocalhost%3A3000%2Fsearch%3FsearchStr%3D 302 6.625 ms
+
+info : [2024-12-10T13:42:32.161Z] GET /auth/naver/callback?code=L4TJk74SOM4npNC3bC&state=http%3A%2F%2Flocalhost%3A3000%2Fsearch%3FsearchStr%3D 302 335.986 ms
+
+info : [2024-12-10T13:42:33.153Z] GET /user/info 401 4.938 ms
+
+info : [2024-12-10T13:43:13.658Z] GET /auth/naver?redirectUrl=http%3A%2F%2Flocalhost%3A3000%2Fsearch%3FsearchStr%3D 302 4.537 ms
+
+info : [2024-12-10T13:43:14.355Z] GET /auth/naver/callback?code=HS8lGPp0vANWM6i3oN&state=http%3A%2F%2Flocalhost%3A3000%2Fsearch%3FsearchStr%3D 302 321.273 ms
+
+info : [2024-12-10T13:43:15.933Z] GET /user/info 401 4.976 ms
+
+info : [2024-12-10T13:45:30.891Z] GET /auth/naver?redirectUrl=http%3A%2F%2Flocalhost%3A3000%2Fsearch%3FsearchStr%3D 302 4.700 ms
+
+info : [2024-12-10T13:45:31.652Z] GET /auth/naver/callback?code=rjwFCDdiOfrg0IKpvY&state=http%3A%2F%2Flocalhost%3A3000%2Fsearch%3FsearchStr%3D 302 309.900 ms
+
+info : [2024-12-10T13:45:32.963Z] GET /user/info 401 4.242 ms
+
+info : [2024-12-10T13:46:11.998Z] GET /auth/naver?redirectUrl=http%3A%2F%2Flocalhost%3A3000%2Fsearch%3FsearchStr%3D 302 6.081 ms
+
+info : [2024-12-10T13:46:12.738Z] GET /auth/naver/callback?code=tlKPS3Tfh1xjop1UAn&state=http%3A%2F%2Flocalhost%3A3000%2Fsearch%3FsearchStr%3D 302 344.331 ms
+
+info : [2024-12-10T13:46:13.622Z] GET /user/info 401 4.535 ms
+
+info : [2024-12-10T13:48:50.223Z] GET /auth/naver?redirectUrl=http%3A%2F%2Flocalhost%3A3000%2Fsearch%3FsearchStr%3D 302 3.660 ms
+
+info : [2024-12-10T13:48:51.230Z] GET /auth/naver/callback?code=dJlC4u1BDAYmlCQNIQ&state=http%3A%2F%2Flocalhost%3A3000%2Fsearch%3FsearchStr%3D 302 362.323 ms
+
+info : [2024-12-10T13:48:52.561Z] GET /user/info 200 19.453 ms
+
+info : [2024-12-10T13:48:58.890Z] GET /user/logout 200 209.010 ms
+
+info : [2024-12-10T13:48:59.668Z] GET /user/info 401 2.125 ms
+
+info : [2024-12-10T13:49:04.254Z] GET /auth/google?redirectUrl=http%3A%2F%2Flocalhost%3A3000%2Fsearch%3FsearchStr%3D 302 1.007 ms
+
+info : [2024-12-10T13:49:05.090Z] GET /auth/google/callback?state=http%253A%252F%252Flocalhost%253A3000%252Fsearch%253FsearchStr%253D&code=4%2F0AeanS0ZH32Oc2N2exv6sA1MnoVzP-eK5ZLzPrLc-AAE-KQEAe32tVMMI9MBeHyl8_F87OA&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&authuser=0&prompt=none 302 530.675 ms
+
+info : [2024-12-10T13:49:05.503Z] GET /user/info 401 0.885 ms
+
+info : [2024-12-10T13:51:33.030Z] GET /auth/google?redirectUrl=http%3A%2F%2Flocalhost%3A3000%2Fsearch%3FsearchStr%3D 302 5.042 ms
+
+info : [2024-12-10T13:51:34.007Z] GET /auth/google/callback?state=http%253A%252F%252Flocalhost%253A3000%252Fsearch%253FsearchStr%253D&code=4%2F0AeanS0ZeVVgno57hEngCxkFnsELVFK60DlV6t82n1gkZHi5IlC_423gxOwx3WB4Zp6l2Xw&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=none 302 614.715 ms
+
+info : [2024-12-10T13:51:34.863Z] GET /user/info 401 2.630 ms
+
+info : [2024-12-10T13:52:02.001Z] GET /auth/google?redirectUrl=http%3A%2F%2Flocalhost%3A3000%2Fsearch%3FsearchStr%3D 302 4.971 ms
+
+info : [2024-12-10T13:52:02.864Z] GET /auth/google/callback?state=http%253A%252F%252Flocalhost%253A3000%252Fsearch%253FsearchStr%253D&code=4%2F0AeanS0ZtDo0V0tGCs89ZgMHTa9tRPDfQ-tuVQX1YasgEMum1_jihvqm0ilWgRQB--h9BWg&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile&authuser=0&prompt=none 302 590.053 ms
+
+info : [2024-12-10T13:52:03.330Z] GET /user/info 304 17.496 ms
+
+info : [2024-12-10T13:52:15.196Z] GET /user/logout 304 188.928 ms
+
+info : [2024-12-10T13:52:15.957Z] GET /user/info 401 1.579 ms
+
+info : [2024-12-10T13:52:18.379Z] GET /auth/google?redirectUrl=http%3A%2F%2Flocalhost%3A3000%2Fsearch%3FsearchStr%3D 302 0.585 ms
+
+info : [2024-12-10T13:52:19.145Z] GET /auth/google/callback?state=http%253A%252F%252Flocalhost%253A3000%252Fsearch%253FsearchStr%253D&code=4%2F0AeanS0ZM_Txt_MWjVXYPK9NfXJA4Bt8gTPoIv5FK1wRck8OtszjJEqWnOzYBYf9aXjCRNA&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&authuser=0&prompt=none 302 518.044 ms
+
+info : [2024-12-10T13:52:19.670Z] GET /user/info 304 8.310 ms
+
+info : [2024-12-10T13:52:39.511Z] GET /user/logout 304 193.733 ms
+
+info : [2024-12-10T13:52:39.933Z] GET /user/info 401 0.830 ms
+
+info : [2024-12-10T13:52:56.691Z] GET /auth/google?redirectUrl=http%3A%2F%2Flocalhost%3A3000%2Fsearch%3FsearchStr%3D 302 4.276 ms
+
+info : [2024-12-10T13:52:57.494Z] GET /auth/google/callback?state=http%253A%252F%252Flocalhost%253A3000%252Fsearch%253FsearchStr%253D&code=4%2F0AeanS0bYpPkjL6on3hCaNTA5k5SA_AqGiUi96bM0s7E8RoxFazkL8w0wbGFnYx13VFXlZw&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=none 302 558.750 ms
+
+info : [2024-12-10T13:52:58.524Z] GET /user/info 304 18.758 ms
+
+info : [2024-12-10T13:53:10.495Z] GET /movie/chart 200 4.028 ms
+
+info : [2024-12-10T13:53:10.502Z] GET /user/info 304 23.525 ms
+
+info : [2024-12-10T13:53:10.683Z] GET /movie/basic/146 200 56.626 ms
+
+info : [2024-12-10T13:53:10.718Z] GET /movie/basic/194 200 72.971 ms
+
+info : [2024-12-10T13:53:10.747Z] GET /movie/basic/232 200 83.185 ms
+
+info : [2024-12-10T13:53:10.756Z] GET /movie/basic/251 200 98.385 ms
+
+info : [2024-12-10T13:53:10.772Z] GET /movie/basic/234 200 60.972 ms
+
+info : [2024-12-10T13:53:10.783Z] GET /movie/basic/248 200 114.487 ms
+
+info : [2024-12-10T13:53:10.794Z] GET /movie/basic/233 200 25.058 ms
+
+info : [2024-12-10T13:53:10.804Z] GET /movie/basic/208 200 24.216 ms
+
+info : [2024-12-10T13:53:10.808Z] GET /movie/basic/209 200 26.029 ms
+
+info : [2024-12-10T13:53:10.817Z] GET /movie/basic/235 200 25.661 ms
+
+info : [2024-12-10T13:53:10.844Z] GET /movie/basic/146 304 44.731 ms
+
+info : [2024-12-10T13:53:10.871Z] GET /movie/basic/194 304 56.739 ms
+
+info : [2024-12-10T13:53:10.916Z] GET /movie/basic/232 304 85.131 ms
+
+info : [2024-12-10T13:53:10.994Z] GET /movie/basic/251 304 154.525 ms
+
+info : [2024-12-10T13:53:11.001Z] GET /movie/basic/234 304 140.033 ms
+
+info : [2024-12-10T13:53:11.013Z] GET /movie/basic/248 304 27.720 ms
+
+info : [2024-12-10T13:53:11.019Z] GET /movie/basic/233 304 29.160 ms
+
+info : [2024-12-10T13:53:11.044Z] GET /movie/basic/208 304 46.198 ms
+
+info : [2024-12-10T13:53:11.133Z] GET /movie/basic/209 304 123.425 ms
+
+info : [2024-12-10T13:53:11.150Z] GET /movie/basic/235 304 41.475 ms
+
+info : [2024-12-10T13:53:11.167Z] GET /movie/basic/146 304 28.414 ms
+
+info : [2024-12-10T13:53:11.178Z] GET /movie/basic/194 304 34.617 ms
+
+info : [2024-12-10T13:53:11.184Z] GET /movie/basic/251 304 36.104 ms
+
+info : [2024-12-10T13:53:11.186Z] GET /movie/basic/232 304 43.063 ms
+
+info : [2024-12-10T13:53:11.234Z] GET /movie/basic/248 304 37.270 ms
+
+info : [2024-12-10T13:53:29.440Z] GET /auth/google?redirectUrl=http%3A%2F%2Flocalhost%3A3000%2F 302 3.878 ms
+
+info : [2024-12-10T13:53:30.296Z] GET /auth/google/callback?state=http%253A%252F%252Flocalhost%253A3000%252F&code=4%2F0AeanS0aj0KBdV6Qzj7hfxCWQaVjl-AX9W4-NCNQcTy1ZzAvAm93YeKifjhdad8KuxpUH2w&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile&authuser=0&prompt=none 302 609.982 ms
+
+info : [2024-12-10T13:53:30.780Z] GET /movie/chart 304 3.857 ms
+
+info : [2024-12-10T13:53:30.785Z] GET /user/info 304 18.244 ms
+
+info : [2024-12-10T13:53:30.910Z] GET /movie/basic/146 304 29.302 ms
+
+info : [2024-12-10T13:53:30.942Z] GET /movie/basic/234 304 19.597 ms
+
+info : [2024-12-10T13:53:30.989Z] GET /movie/basic/194 304 103.884 ms
+
+info : [2024-12-10T13:53:31.047Z] GET /movie/basic/251 304 150.827 ms
+
+info : [2024-12-10T13:53:31.079Z] GET /movie/basic/232 304 186.070 ms
+
+info : [2024-12-10T13:53:31.096Z] GET /movie/basic/248 304 187.672 ms
+
+info : [2024-12-10T13:53:31.125Z] GET /movie/basic/208 304 37.097 ms
+
+info : [2024-12-10T13:53:31.130Z] GET /movie/basic/209 304 39.611 ms
+
+info : [2024-12-10T13:53:31.134Z] GET /movie/basic/235 304 33.299 ms
+
+info : [2024-12-10T13:53:31.147Z] GET /movie/basic/146 304 43.553 ms
+
+info : [2024-12-10T13:53:31.151Z] GET /movie/basic/233 304 216.686 ms
+
+info : [2024-12-10T13:53:31.154Z] GET /movie/basic/234 304 39.046 ms
+
+info : [2024-12-10T13:53:31.187Z] GET /movie/basic/194 304 21.312 ms
+
+info : [2024-12-10T13:53:31.204Z] GET /movie/basic/251 304 32.897 ms
+
+info : [2024-12-10T13:53:31.211Z] GET /movie/basic/248 304 33.026 ms
+
+info : [2024-12-10T13:53:31.232Z] GET /movie/basic/208 304 42.142 ms
+
+info : [2024-12-10T13:53:31.240Z] GET /movie/basic/232 304 65.173 ms
+
+info : [2024-12-10T13:53:31.256Z] GET /movie/basic/209 304 75.523 ms
+
+info : [2024-12-10T13:53:31.273Z] GET /movie/basic/233 304 12.135 ms
+
+info : [2024-12-10T13:53:31.279Z] GET /movie/basic/235 304 27.732 ms
+
+info : [2024-12-10T13:53:31.282Z] GET /movie/basic/146 304 22.296 ms
+
+info : [2024-12-10T13:53:31.290Z] GET /movie/basic/194 304 27.690 ms
+
+info : [2024-12-10T13:53:31.294Z] GET /movie/basic/248 304 29.799 ms
+
+info : [2024-12-10T13:53:31.298Z] GET /movie/basic/251 304 35.803 ms
+
+info : [2024-12-10T13:53:31.331Z] GET /movie/basic/232 304 18.904 ms
+
+info : [2024-12-10T13:53:33.383Z] GET /movie/chart 304 1.382 ms
+
+info : [2024-12-10T13:53:33.387Z] GET /user/info 304 9.573 ms
+
+info : [2024-12-10T13:53:33.490Z] GET /movie/basic/146 304 15.691 ms
+
+info : [2024-12-10T13:53:33.493Z] GET /movie/basic/194 304 18.782 ms
+
+info : [2024-12-10T13:53:33.501Z] GET /movie/basic/232 304 20.659 ms
+
+info : [2024-12-10T13:53:33.503Z] GET /movie/basic/251 304 21.486 ms
+
+info : [2024-12-10T13:53:33.506Z] GET /movie/basic/248 304 23.560 ms
+
+info : [2024-12-10T13:53:33.524Z] GET /movie/basic/234 304 31.762 ms
+
+info : [2024-12-10T13:53:33.574Z] GET /movie/basic/233 304 76.129 ms
+
+info : [2024-12-10T13:53:33.663Z] GET /movie/basic/208 304 152.452 ms
+
+info : [2024-12-10T13:53:33.678Z] GET /movie/basic/209 304 30.075 ms
+
+info : [2024-12-10T13:53:33.682Z] GET /movie/basic/235 304 32.376 ms
+
+info : [2024-12-10T13:53:33.707Z] GET /movie/basic/146 304 52.577 ms
+
+info : [2024-12-10T13:53:33.724Z] GET /movie/basic/194 304 64.124 ms
+
+info : [2024-12-10T13:53:33.737Z] GET /movie/basic/232 304 69.277 ms
+
+info : [2024-12-10T13:53:33.750Z] GET /movie/basic/251 304 33.576 ms
+
+info : [2024-12-10T13:53:33.772Z] GET /movie/basic/248 304 42.973 ms
+
+info : [2024-12-10T13:53:33.775Z] GET /movie/basic/234 304 45.896 ms
+
+info : [2024-12-10T13:53:33.778Z] GET /movie/basic/233 304 47.664 ms
+
+info : [2024-12-10T13:53:33.791Z] GET /movie/basic/208 304 52.013 ms
+
+info : [2024-12-10T13:53:33.798Z] GET /movie/basic/209 304 52.349 ms
+
+info : [2024-12-10T13:53:33.824Z] GET /movie/basic/235 304 24.413 ms
+
+info : [2024-12-10T13:53:33.832Z] GET /movie/basic/146 304 23.427 ms
+
+info : [2024-12-10T13:53:33.836Z] GET /movie/basic/194 304 24.635 ms
+
+info : [2024-12-10T13:53:33.841Z] GET /movie/basic/232 304 28.114 ms
+
+info : [2024-12-10T13:53:33.844Z] GET /movie/basic/251 304 29.681 ms
+
+info : [2024-12-10T13:53:33.858Z] GET /movie/basic/248 304 39.905 ms
+
+info : [2024-12-10T13:53:35.605Z] GET /user/logout 304 196.052 ms
+
+info : [2024-12-10T13:53:35.939Z] GET /user/info 401 1.027 ms
+
+info : [2024-12-10T13:53:35.943Z] GET /movie/chart 304 1.201 ms
+
+info : [2024-12-10T13:53:36.092Z] GET /movie/basic/146 304 14.310 ms
+
+info : [2024-12-10T13:53:36.100Z] GET /movie/basic/194 304 16.443 ms
+
+info : [2024-12-10T13:53:36.102Z] GET /movie/basic/232 304 17.425 ms
+
+info : [2024-12-10T13:53:36.104Z] GET /movie/basic/251 304 18.380 ms
+
+info : [2024-12-10T13:53:36.106Z] GET /movie/basic/248 304 19.110 ms
+
+info : [2024-12-10T13:53:36.109Z] GET /movie/basic/234 304 20.444 ms
+
+info : [2024-12-10T13:53:36.127Z] GET /movie/basic/233 304 19.109 ms
+
+info : [2024-12-10T13:53:36.136Z] GET /movie/basic/235 304 14.906 ms
+
+info : [2024-12-10T13:53:36.150Z] GET /movie/basic/208 304 33.369 ms
+
+info : [2024-12-10T13:53:36.177Z] GET /movie/basic/209 304 56.034 ms
+
+info : [2024-12-10T13:53:36.200Z] GET /movie/basic/146 304 53.407 ms
+
+info : [2024-12-10T13:53:36.220Z] GET /movie/basic/194 304 68.884 ms
+
+info : [2024-12-10T13:53:36.243Z] GET /movie/basic/251 304 43.164 ms
+
+info : [2024-12-10T13:53:36.251Z] GET /movie/basic/248 304 55.249 ms
+
+info : [2024-12-10T13:53:36.256Z] GET /movie/basic/234 304 59.618 ms
+
+info : [2024-12-10T13:53:36.261Z] GET /movie/basic/232 304 72.549 ms
+
+info : [2024-12-10T13:53:36.298Z] GET /movie/basic/233 304 70.779 ms
+
+info : [2024-12-10T13:53:36.311Z] GET /movie/basic/235 304 45.562 ms
+
+info : [2024-12-10T13:53:36.315Z] GET /movie/basic/209 304 31.676 ms
+
+info : [2024-12-10T13:53:36.322Z] GET /movie/basic/208 304 47.951 ms
+
+info : [2024-12-10T13:53:36.328Z] GET /movie/basic/146 304 42.537 ms
+
+info : [2024-12-10T13:53:36.337Z] GET /movie/basic/194 304 49.921 ms
+
+info : [2024-12-10T13:53:36.382Z] GET /movie/basic/251 304 35.311 ms
+
+info : [2024-12-10T13:53:36.388Z] GET /movie/basic/232 304 36.730 ms
+
+info : [2024-12-10T13:53:36.394Z] GET /movie/basic/248 304 46.280 ms
+
+info : [2024-12-10T14:08:37.900Z] GET /user/info 401 13.551 ms
+
+info : [2024-12-10T14:14:22.973Z] GET /user/info 401 1.293 ms
+
+info : [2024-12-10T14:30:01.617Z] GET /auth/github?redirectUrl=http%3A%2F%2Flocalhost%3A3000%2Fmovie 302 3.743 ms
+
+info : [2024-12-10T14:30:07.213Z] GET /auth/github/callback?code=962881760ad322429478&state=http%253A%252F%252Flocalhost%253A3000%252Fmovie 302 921.397 ms
+
+info : [2024-12-10T14:30:08.602Z] GET /user/info 401 5.589 ms
+
+info : [2024-12-10T14:38:36.932Z] GET /auth/github?redirectUrl=http%3A%2F%2Flocalhost%3A3000%2Fmovie 302 3.175 ms
+
+info : [2024-12-10T14:38:38.068Z] GET /auth/github/callback?code=f34092741f2706401921&state=http%253A%252F%252Flocalhost%253A3000%252Fmovie 302 780.424 ms
+
+info : [2024-12-10T14:38:39.012Z] GET /user/info 401 4.899 ms
+
+info : [2024-12-10T14:39:16.507Z] GET /auth/github?redirectUrl=http%3A%2F%2Flocalhost%3A3000%2Fmovie 302 3.732 ms
+
+info : [2024-12-10T14:39:17.552Z] GET /auth/github/callback?code=d6779bc7805db44b189e&state=http%253A%252F%252Flocalhost%253A3000%252Fmovie 302 725.978 ms
+
+info : [2024-12-10T14:39:18.488Z] GET /user/info 401 4.881 ms
+

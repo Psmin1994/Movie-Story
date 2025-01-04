@@ -1,0 +1,29 @@
+@import "slick-carousel/slick/slick.css";
+@import "slick-carousel/slick/slick-theme.css";
+
+/* Carousel.css */
+
+/* Arrows */
+.slick-prev,
+.slick-next {
+  width: 86px;
+  height: 86px;
+}
+
+.slick-prev {
+  left: -106px;
+}
+
+.slick-next {
+  right: -106px;
+}
+
+.slick-prev:before,
+.slick-next:before {
+  display: none;
+}
+
+/* item */
+.slick-slide > div {
+  padding: 20px 10px 20px 0;
+}

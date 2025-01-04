@@ -1,0 +1,1608 @@
+info : [Movie-Story] [2024-12-06T11:38:11.005Z] GET /user/info 401 7.585 ms
+
+info : [Movie-Story] [2024-12-06T11:38:24.697Z] GET /auth/naver?redirectUrl=http%3A%2F%2Flocalhost%3A3000%2Fmovie 302 2.700 ms
+
+info : [Movie-Story] [2024-12-06T11:38:25.549Z] GET /auth/naver/callback?code=iMrzUL9q51EDkhXhRw&state=http%3A%2F%2Flocalhost%3A3000%2Fmovie 302 362.800 ms
+
+info : [Movie-Story] [2024-12-06T11:38:26.691Z] GET /user/info 304 20.337 ms
+
+info : [Movie-Story] [2024-12-06T11:38:42.145Z] GET /user/logout 304 17.972 ms
+
+info : [Movie-Story] [2024-12-06T11:38:42.925Z] GET /user/info 401 2.074 ms
+
+info : [2024-12-06T11:39:22.456Z] GET /user/info 401 8.298 ms
+
+info : [2024-12-06T11:39:22.487Z] GET /movie/chart 304 9.165 ms
+
+info : [2024-12-06T11:39:22.685Z] GET /movie/basic/146 304 70.043 ms
+
+info : [2024-12-06T11:39:22.771Z] GET /movie/basic/251 304 98.589 ms
+
+info : [2024-12-06T11:39:22.854Z] GET /movie/basic/234 304 119.517 ms
+
+info : [2024-12-06T11:39:22.868Z] GET /movie/basic/248 304 195.518 ms
+
+info : [2024-12-06T11:39:22.892Z] GET /movie/basic/232 304 236.332 ms
+
+info : [2024-12-06T11:39:22.921Z] GET /movie/basic/194 304 292.012 ms
+
+info : [2024-12-06T11:39:22.950Z] GET /movie/basic/233 304 114.346 ms
+
+info : [2024-12-06T11:39:22.986Z] GET /movie/basic/208 304 46.404 ms
+
+info : [2024-12-06T11:39:22.993Z] GET /movie/basic/209 304 58.120 ms
+
+info : [2024-12-06T11:39:23.000Z] GET /movie/basic/235 304 42.918 ms
+
+info : [2024-12-06T11:39:23.019Z] GET /movie/basic/146 304 56.613 ms
+
+info : [2024-12-06T11:39:23.040Z] GET /movie/basic/251 304 72.158 ms
+
+info : [2024-12-06T11:39:23.083Z] GET /movie/basic/248 304 44.878 ms
+
+info : [2024-12-06T11:39:23.158Z] GET /movie/basic/232 304 104.477 ms
+
+info : [2024-12-06T11:39:23.190Z] GET /movie/basic/194 304 134.283 ms
+
+info : [2024-12-06T11:39:23.226Z] GET /movie/basic/234 304 197.892 ms
+
+info : [2024-12-06T11:39:23.271Z] GET /movie/basic/233 304 177.808 ms
+
+info : [2024-12-06T11:39:23.297Z] GET /movie/basic/209 304 57.647 ms
+
+info : [2024-12-06T11:39:23.307Z] GET /movie/basic/208 304 83.221 ms
+
+info : [2024-12-06T11:39:23.343Z] GET /movie/basic/235 304 93.946 ms
+
+info : [2024-12-06T11:39:23.355Z] GET /movie/basic/146 304 96.313 ms
+
+info : [2024-12-06T11:39:23.376Z] GET /movie/basic/251 304 48.382 ms
+
+info : [2024-12-06T11:39:23.379Z] GET /movie/basic/248 304 49.970 ms
+
+info : [2024-12-06T11:39:23.394Z] GET /movie/basic/232 304 46.452 ms
+
+info : [2024-12-06T11:39:23.443Z] GET /movie/basic/194 304 63.590 ms
+
+info : [2024-12-06T11:42:43.319Z] GET /user/info 401 4.565 ms
+
+info : [2024-12-06T11:42:43.333Z] GET /movie/chart 304 2.378 ms
+
+info : [2024-12-06T11:42:43.535Z] GET /movie/basic/146 304 64.675 ms
+
+info : [2024-12-06T11:42:43.578Z] GET /movie/basic/232 304 72.663 ms
+
+info : [2024-12-06T11:42:43.680Z] GET /movie/basic/248 304 138.393 ms
+
+info : [2024-12-06T11:42:43.685Z] GET /movie/basic/194 304 190.230 ms
+
+info : [2024-12-06T11:42:43.693Z] GET /movie/basic/233 304 94.522 ms
+
+info : [2024-12-06T11:42:43.738Z] GET /movie/basic/251 304 208.289 ms
+
+info : [2024-12-06T11:42:43.786Z] GET /movie/basic/208 304 110.588 ms
+
+info : [2024-12-06T11:42:43.859Z] GET /movie/basic/234 304 289.188 ms
+
+info : [2024-12-06T11:42:43.931Z] GET /movie/basic/209 304 132.156 ms
+
+info : [2024-12-06T11:42:43.945Z] GET /movie/basic/235 304 59.320 ms
+
+info : [2024-12-06T11:42:43.951Z] GET /movie/basic/146 304 49.612 ms
+
+info : [2024-12-06T11:42:43.968Z] GET /movie/basic/232 304 61.724 ms
+
+info : [2024-12-06T11:42:43.997Z] GET /movie/basic/248 304 75.626 ms
+
+info : [2024-12-06T11:42:44.044Z] GET /movie/basic/233 304 41.228 ms
+
+info : [2024-12-06T11:42:44.068Z] GET /movie/basic/194 304 133.224 ms
+
+info : [2024-12-06T11:42:44.099Z] GET /movie/basic/234 304 36.329 ms
+
+info : [2024-12-06T11:42:44.102Z] GET /movie/basic/209 304 36.749 ms
+
+info : [2024-12-06T11:42:44.108Z] GET /movie/basic/251 304 55.818 ms
+
+info : [2024-12-06T11:42:44.111Z] GET /movie/basic/208 304 51.506 ms
+
+info : [2024-12-06T11:42:44.155Z] GET /movie/basic/235 304 75.534 ms
+
+info : [2024-12-06T11:42:44.169Z] GET /movie/basic/146 304 46.913 ms
+
+info : [2024-12-06T11:42:44.182Z] GET /movie/basic/248 304 47.903 ms
+
+info : [2024-12-06T11:42:44.196Z] GET /movie/basic/232 304 64.173 ms
+
+info : [2024-12-06T11:42:44.206Z] GET /movie/basic/194 304 63.281 ms
+
+info : [2024-12-06T11:42:44.226Z] GET /movie/basic/251 304 69.269 ms
+
+info : [2024-12-06T11:44:07.338Z] GET /user/info 401 12.516 ms
+
+info : [2024-12-06T11:44:07.356Z] GET /movie/chart 304 5.092 ms
+
+info : [2024-12-06T11:44:07.534Z] GET /movie/basic/146 304 46.259 ms
+
+info : [2024-12-06T11:44:07.641Z] GET /movie/basic/194 304 138.663 ms
+
+info : [2024-12-06T11:44:07.649Z] GET /movie/basic/251 304 87.304 ms
+
+info : [2024-12-06T11:44:07.722Z] GET /movie/basic/232 304 215.622 ms
+
+info : [2024-12-06T11:44:07.817Z] GET /movie/basic/248 304 248.948 ms
+
+info : [2024-12-06T11:44:07.822Z] GET /movie/basic/208 304 25.451 ms
+
+info : [2024-12-06T11:44:07.835Z] GET /movie/basic/234 304 265.822 ms
+
+info : [2024-12-06T11:44:07.842Z] GET /movie/basic/209 304 42.374 ms
+
+info : [2024-12-06T11:44:07.857Z] GET /movie/basic/233 304 256.984 ms
+
+info : [2024-12-06T11:44:07.892Z] GET /movie/basic/235 304 81.072 ms
+
+info : [2024-12-06T11:44:07.912Z] GET /movie/basic/194 304 35.930 ms
+
+info : [2024-12-06T11:44:07.922Z] GET /movie/basic/146 304 49.453 ms
+
+info : [2024-12-06T11:44:07.927Z] GET /movie/basic/251 304 41.631 ms
+
+info : [2024-12-06T11:44:07.932Z] GET /movie/basic/232 304 28.904 ms
+
+info : [2024-12-06T11:44:07.936Z] GET /movie/basic/248 304 31.055 ms
+
+info : [2024-12-06T11:44:07.950Z] GET /movie/basic/208 304 42.167 ms
+
+info : [2024-12-06T11:44:07.968Z] GET /movie/basic/234 304 26.980 ms
+
+info : [2024-12-06T11:44:07.979Z] GET /movie/basic/209 304 21.706 ms
+
+info : [2024-12-06T11:44:07.985Z] GET /movie/basic/233 304 27.747 ms
+
+info : [2024-12-06T11:44:08.000Z] GET /movie/basic/235 304 42.436 ms
+
+info : [2024-12-06T11:44:08.005Z] GET /movie/basic/194 304 47.689 ms
+
+info : [2024-12-06T11:44:08.022Z] GET /movie/basic/146 304 61.035 ms
+
+info : [2024-12-06T11:44:08.042Z] GET /movie/basic/251 304 26.105 ms
+
+info : [2024-12-06T11:44:08.046Z] GET /movie/basic/232 304 27.539 ms
+
+info : [2024-12-06T11:44:08.051Z] GET /movie/basic/248 304 24.537 ms
+
+info : [2024-12-06T11:45:03.754Z] GET /user/info 401 1.365 ms
+
+info : [2024-12-06T11:45:22.075Z] GET /user/info 401 0.813 ms
+
+info : [2024-12-06T11:46:13.384Z] GET /user/info 401 3.993 ms
+
+info : [2024-12-06T11:46:16.791Z] GET /auth/naver?redirectUrl=http%3A%2F%2Flocalhost%3A3000%2Fmovie 302 5.203 ms
+
+info : [2024-12-06T11:46:17.967Z] GET /auth/naver/callback?code=XSoGAb485xXQmCKc2Z&state=http%3A%2F%2Flocalhost%3A3000%2Fmovie 302 418.697 ms
+
+info : [2024-12-06T11:46:19.321Z] GET /user/info 304 14.909 ms
+
+info : [2024-12-06T11:46:22.152Z] GET /user/logout 304 6.440 ms
+
+info : [2024-12-06T11:46:22.972Z] GET /user/info 401 1.022 ms
+
+info : [2024-12-06T11:46:31.066Z] POST /user/login 200 11.917 ms
+
+info : [2024-12-06T11:46:31.666Z] GET /user/info 304 19.139 ms
+
+info : [2024-12-06T11:46:34.431Z] GET /movie/chart 304 2.463 ms
+
+info : [2024-12-06T11:46:34.439Z] GET /user/info 304 16.937 ms
+
+info : [2024-12-06T11:46:34.600Z] GET /movie/basic/146 304 21.829 ms
+
+info : [2024-12-06T11:46:34.623Z] GET /movie/basic/194 304 27.139 ms
+
+info : [2024-12-06T11:46:34.638Z] GET /movie/basic/232 304 38.817 ms
+
+info : [2024-12-06T11:46:34.660Z] GET /movie/basic/251 304 51.798 ms
+
+info : [2024-12-06T11:46:34.680Z] GET /movie/basic/248 304 67.676 ms
+
+info : [2024-12-06T11:46:34.690Z] GET /movie/basic/234 304 73.957 ms
+
+info : [2024-12-06T11:46:34.730Z] GET /movie/basic/208 304 63.146 ms
+
+info : [2024-12-06T11:46:34.771Z] GET /movie/basic/209 304 100.504 ms
+
+info : [2024-12-06T11:46:34.782Z] GET /movie/basic/233 304 133.359 ms
+
+info : [2024-12-06T11:46:34.820Z] GET /movie/basic/235 304 98.743 ms
+
+info : [2024-12-06T11:46:34.827Z] GET /movie/basic/194 304 106.533 ms
+
+info : [2024-12-06T11:46:34.834Z] GET /movie/basic/146 304 108.626 ms
+
+info : [2024-12-06T11:46:34.848Z] GET /movie/basic/232 304 40.273 ms
+
+info : [2024-12-06T11:46:34.879Z] GET /movie/basic/251 304 56.467 ms
+
+info : [2024-12-06T11:46:34.891Z] GET /movie/basic/248 304 71.730 ms
+
+info : [2024-12-06T11:46:34.903Z] GET /movie/basic/208 304 44.805 ms
+
+info : [2024-12-06T11:46:34.934Z] GET /movie/basic/234 304 76.250 ms
+
+info : [2024-12-06T11:46:34.938Z] GET /movie/basic/233 304 50.442 ms
+
+info : [2024-12-06T11:46:34.941Z] GET /movie/basic/209 304 75.885 ms
+
+info : [2024-12-06T11:46:34.968Z] GET /movie/basic/235 304 69.351 ms
+
+info : [2024-12-06T11:46:34.972Z] GET /movie/basic/194 304 61.611 ms
+
+info : [2024-12-06T11:46:34.976Z] GET /movie/basic/146 304 30.697 ms
+
+info : [2024-12-06T11:46:34.983Z] GET /movie/basic/232 304 23.620 ms
+
+info : [2024-12-06T11:46:35.059Z] GET /movie/basic/251 304 94.999 ms
+
+info : [2024-12-06T11:46:35.121Z] GET /movie/basic/248 304 150.502 ms
+
+info : [2024-12-06T11:46:38.074Z] GET /movie/chart 304 1.841 ms
+
+info : [2024-12-06T11:46:38.085Z] GET /user/info 304 18.935 ms
+
+info : [2024-12-06T11:46:38.221Z] GET /movie/basic/146 304 3.972 ms
+
+info : [2024-12-06T11:46:38.361Z] GET /movie/basic/232 304 20.885 ms
+
+info : [2024-12-06T11:46:38.377Z] GET /movie/basic/194 304 38.579 ms
+
+info : [2024-12-06T11:46:38.391Z] GET /movie/basic/251 304 49.848 ms
+
+info : [2024-12-06T11:46:38.433Z] GET /movie/basic/248 304 89.710 ms
+
+info : [2024-12-06T11:46:38.441Z] GET /movie/basic/233 304 84.967 ms
+
+info : [2024-12-06T11:46:38.453Z] GET /movie/basic/234 304 106.843 ms
+
+info : [2024-12-06T11:46:38.552Z] GET /movie/basic/208 304 65.881 ms
+
+info : [2024-12-06T11:46:38.656Z] GET /movie/basic/235 304 166.477 ms
+
+info : [2024-12-06T11:46:38.685Z] GET /movie/basic/209 304 195.795 ms
+
+info : [2024-12-06T11:46:38.725Z] GET /movie/basic/232 304 51.662 ms
+
+info : [2024-12-06T11:46:38.742Z] GET /movie/basic/146 304 119.631 ms
+
+info : [2024-12-06T11:46:38.800Z] GET /movie/basic/194 304 125.164 ms
+
+info : [2024-12-06T11:46:38.821Z] GET /movie/basic/251 304 145.683 ms
+
+info : [2024-12-06T11:46:38.833Z] GET /movie/basic/248 304 55.882 ms
+
+info : [2024-12-06T11:46:38.872Z] GET /movie/basic/233 304 80.546 ms
+
+info : [2024-12-06T11:46:38.892Z] GET /movie/basic/234 304 100.541 ms
+
+info : [2024-12-06T11:46:38.911Z] GET /movie/basic/208 304 59.803 ms
+
+info : [2024-12-06T11:46:38.940Z] GET /movie/basic/235 304 81.197 ms
+
+info : [2024-12-06T11:46:38.954Z] GET /movie/basic/209 304 93.816 ms
+
+info : [2024-12-06T11:46:38.989Z] GET /movie/basic/194 304 25.725 ms
+
+info : [2024-12-06T11:46:39.025Z] GET /movie/basic/232 304 66.369 ms
+
+info : [2024-12-06T11:46:39.055Z] GET /movie/basic/146 304 94.789 ms
+
+info : [2024-12-06T11:46:39.058Z] GET /movie/basic/251 304 91.844 ms
+
+info : [2024-12-06T11:46:39.082Z] GET /movie/basic/248 304 65.098 ms
+
+info : [2024-12-06T11:49:58.362Z] GET /movie/chart 304 2.250 ms
+
+info : [2024-12-06T11:49:58.374Z] GET /user/info 304 32.350 ms
+
+info : [2024-12-06T11:49:58.508Z] GET /movie/basic/146 304 6.926 ms
+
+info : [2024-12-06T11:49:58.542Z] GET /movie/basic/194 304 15.022 ms
+
+info : [2024-12-06T11:49:58.592Z] GET /movie/basic/232 304 13.010 ms
+
+info : [2024-12-06T11:49:58.793Z] GET /movie/basic/251 304 209.297 ms
+
+info : [2024-12-06T11:49:58.844Z] GET /movie/basic/234 304 143.025 ms
+
+info : [2024-12-06T11:49:58.864Z] GET /movie/basic/233 304 155.712 ms
+
+info : [2024-12-06T11:49:58.936Z] GET /movie/basic/248 304 228.110 ms
+
+info : [2024-12-06T11:49:58.966Z] GET /movie/basic/208 304 257.343 ms
+
+info : [2024-12-06T11:49:58.983Z] GET /movie/basic/209 304 273.298 ms
+
+info : [2024-12-06T11:49:59.054Z] GET /movie/basic/146 304 36.234 ms
+
+info : [2024-12-06T11:49:59.063Z] GET /movie/basic/235 304 52.958 ms
+
+info : [2024-12-06T11:49:59.069Z] GET /movie/basic/194 304 52.549 ms
+
+info : [2024-12-06T11:49:59.073Z] GET /movie/basic/232 304 47.778 ms
+
+info : [2024-12-06T11:49:59.078Z] GET /movie/basic/251 304 44.856 ms
+
+info : [2024-12-06T11:49:59.082Z] GET /movie/basic/234 304 39.667 ms
+
+info : [2024-12-06T11:49:59.108Z] GET /movie/basic/233 304 14.186 ms
+
+info : [2024-12-06T11:49:59.138Z] GET /movie/basic/248 304 39.314 ms
+
+info : [2024-12-06T11:49:59.172Z] GET /movie/basic/208 304 41.188 ms
+
+info : [2024-12-06T11:49:59.198Z] GET /movie/basic/235 304 66.467 ms
+
+info : [2024-12-06T11:49:59.203Z] GET /movie/basic/209 304 74.245 ms
+
+info : [2024-12-06T11:49:59.216Z] GET /movie/basic/146 304 82.266 ms
+
+info : [2024-12-06T11:49:59.227Z] GET /movie/basic/194 304 42.581 ms
+
+info : [2024-12-06T11:49:59.245Z] GET /movie/basic/251 304 22.152 ms
+
+info : [2024-12-06T11:49:59.249Z] GET /movie/basic/232 304 41.429 ms
+
+info : [2024-12-06T11:49:59.259Z] GET /movie/basic/248 304 26.512 ms
+
+info : [2024-12-06T12:08:30.081Z] GET /user/info 401 3.164 ms
+
+info : [2024-12-06T12:08:30.289Z] GET /user/refresh 200 190.982 ms
+
+info : [2024-12-06T12:08:30.320Z] GET /user/info 304 11.900 ms
+
+info : [2024-12-06T12:09:05.074Z] GET /user/info 304 9.113 ms
+
+info : [2024-12-06T12:09:05.087Z] GET /user/info 304 8.458 ms
+
+info : [2024-12-06T12:10:19.572Z] GET /user/logout 304 204.327 ms
+
+info : [2024-12-06T12:10:20.650Z] GET /user/info 401 0.868 ms
+
+info : [2024-12-06T12:10:20.657Z] GET /movie/chart 304 2.423 ms
+
+info : [2024-12-06T12:10:20.773Z] GET /movie/basic/146 304 5.907 ms
+
+info : [2024-12-06T12:10:20.782Z] GET /movie/basic/194 304 12.259 ms
+
+info : [2024-12-06T12:10:20.792Z] GET /movie/basic/232 304 15.815 ms
+
+info : [2024-12-06T12:10:20.815Z] GET /movie/basic/248 304 28.522 ms
+
+info : [2024-12-06T12:10:20.827Z] GET /movie/basic/251 304 39.896 ms
+
+info : [2024-12-06T12:10:20.834Z] GET /movie/basic/234 304 45.562 ms
+
+info : [2024-12-06T12:10:20.840Z] GET /movie/basic/233 304 45.339 ms
+
+info : [2024-12-06T12:10:20.847Z] GET /movie/basic/208 304 44.849 ms
+
+info : [2024-12-06T12:10:20.919Z] GET /movie/basic/209 304 109.799 ms
+
+info : [2024-12-06T12:10:21.038Z] GET /movie/basic/235 304 32.879 ms
+
+info : [2024-12-06T12:10:21.042Z] GET /movie/basic/146 304 36.215 ms
+
+info : [2024-12-06T12:10:21.080Z] GET /movie/basic/194 304 72.766 ms
+
+info : [2024-12-06T12:10:21.095Z] GET /movie/basic/232 304 85.738 ms
+
+info : [2024-12-06T12:10:21.103Z] GET /movie/basic/248 304 85.518 ms
+
+info : [2024-12-06T12:10:21.110Z] GET /movie/basic/251 304 64.163 ms
+
+info : [2024-12-06T12:10:21.128Z] GET /movie/basic/234 304 60.612 ms
+
+info : [2024-12-06T12:10:21.186Z] GET /movie/basic/233 304 91.742 ms
+
+info : [2024-12-06T12:10:21.218Z] GET /movie/basic/209 304 79.648 ms
+
+info : [2024-12-06T12:10:21.228Z] GET /movie/basic/235 304 79.158 ms
+
+info : [2024-12-06T12:10:21.236Z] GET /movie/basic/208 304 101.296 ms
+
+info : [2024-12-06T12:10:21.239Z] GET /movie/basic/146 304 90.067 ms
+
+info : [2024-12-06T12:10:21.250Z] GET /movie/basic/194 304 86.794 ms
+
+info : [2024-12-06T12:10:21.266Z] GET /movie/basic/248 304 20.250 ms
+
+info : [2024-12-06T12:10:21.278Z] GET /movie/basic/232 304 33.747 ms
+
+info : [2024-12-06T12:10:21.285Z] GET /movie/basic/251 304 25.054 ms
+
+info : [2024-12-06T12:35:10.425Z] GET /movie/233 200 14.470 ms
+
+info : [2024-12-06T12:35:10.682Z] GET /movie/genre/233 200 263.930 ms
+
+info : [2024-12-06T12:35:10.686Z] GET /movie/director/233 200 269.529 ms
+
+info : [2024-12-06T12:35:10.690Z] GET /movie/actor/233 200 275.309 ms
+
+info : [2024-12-06T12:35:15.690Z] GET /auth/naver?redirectUrl=http%3A%2F%2Flocalhost%3A3000%2Fmovie%2F233 302 0.574 ms
+
+info : [2024-12-06T12:35:16.536Z] GET /auth/naver/callback?code=g8qsu6P4MrJDceJC3l&state=http%3A%2F%2Flocalhost%3A3000%2Fmovie%2F233 302 224.775 ms
+
+info : [2024-12-06T12:35:17.309Z] GET /user/info 304 13.335 ms
+
+info : [2024-12-06T12:35:17.318Z] GET /movie/233 304 14.303 ms
+
+info : [2024-12-06T12:35:17.321Z] GET /movie/actor/233 304 15.947 ms
+
+info : [2024-12-06T12:35:17.323Z] GET /movie/director/233 304 10.554 ms
+
+info : [2024-12-06T12:35:17.326Z] GET /movie/genre/233 304 10.388 ms
+
+info : [2024-12-06T12:35:50.155Z] GET /movie/chart 304 1.910 ms
+
+info : [2024-12-06T12:35:50.164Z] GET /user/info 304 14.699 ms
+
+info : [2024-12-06T12:35:50.225Z] GET /movie/basic/194 304 8.578 ms
+
+info : [2024-12-06T12:35:50.234Z] GET /movie/basic/146 304 17.270 ms
+
+info : [2024-12-06T12:35:50.247Z] GET /movie/basic/232 304 26.046 ms
+
+info : [2024-12-06T12:35:50.272Z] GET /movie/basic/233 304 29.853 ms
+
+info : [2024-12-06T12:35:50.297Z] GET /movie/basic/248 304 56.602 ms
+
+info : [2024-12-06T12:35:50.339Z] GET /movie/basic/234 304 95.431 ms
+
+info : [2024-12-06T12:35:50.354Z] GET /movie/basic/251 304 117.360 ms
+
+info : [2024-12-06T12:35:50.371Z] GET /movie/basic/208 304 76.068 ms
+
+info : [2024-12-06T12:35:50.387Z] GET /movie/basic/194 304 17.955 ms
+
+info : [2024-12-06T12:35:50.405Z] GET /movie/basic/209 304 41.383 ms
+
+info : [2024-12-06T12:35:50.417Z] GET /movie/basic/235 304 58.167 ms
+
+info : [2024-12-06T12:35:50.426Z] GET /movie/basic/146 304 60.894 ms
+
+info : [2024-12-06T12:35:50.437Z] GET /movie/basic/232 304 69.028 ms
+
+info : [2024-12-06T12:35:50.457Z] GET /movie/basic/233 304 29.319 ms
+
+info : [2024-12-06T12:35:50.463Z] GET /movie/basic/248 304 20.306 ms
+
+info : [2024-12-06T12:35:50.466Z] GET /movie/basic/234 304 22.443 ms
+
+info : [2024-12-06T12:35:50.470Z] GET /movie/basic/251 304 25.514 ms
+
+info : [2024-12-06T12:35:50.488Z] GET /movie/basic/208 304 30.452 ms
+
+info : [2024-12-06T12:35:50.509Z] GET /movie/basic/194 304 47.813 ms
+
+info : [2024-12-06T12:35:50.549Z] GET /movie/basic/209 304 72.810 ms
+
+info : [2024-12-06T12:35:50.569Z] GET /movie/basic/146 304 51.058 ms
+
+info : [2024-12-06T12:35:50.584Z] GET /movie/basic/235 304 78.885 ms
+
+info : [2024-12-06T12:35:50.618Z] GET /movie/basic/232 304 88.642 ms
+
+info : [2024-12-06T12:35:50.664Z] GET /movie/basic/248 304 82.036 ms
+
+info : [2024-12-06T12:35:50.669Z] GET /movie/basic/251 304 58.696 ms
+
+info : [2024-12-06T12:36:18.619Z] GET /movie/chart 304 2.151 ms
+
+info : [2024-12-06T12:36:18.624Z] GET /user/info 304 14.117 ms
+
+info : [2024-12-06T12:36:18.729Z] GET /movie/basic/146 304 5.034 ms
+
+info : [2024-12-06T12:36:18.757Z] GET /movie/basic/194 304 12.144 ms
+
+info : [2024-12-06T12:36:18.760Z] GET /movie/basic/232 304 13.746 ms
+
+info : [2024-12-06T12:36:18.762Z] GET /movie/basic/251 304 15.182 ms
+
+info : [2024-12-06T12:36:18.768Z] GET /movie/basic/248 304 15.266 ms
+
+info : [2024-12-06T12:36:18.771Z] GET /movie/basic/234 304 17.736 ms
+
+info : [2024-12-06T12:36:18.794Z] GET /movie/basic/233 304 27.848 ms
+
+info : [2024-12-06T12:36:18.816Z] GET /movie/basic/235 304 25.171 ms
+
+info : [2024-12-06T12:36:18.821Z] GET /movie/basic/146 304 33.822 ms
+
+info : [2024-12-06T12:36:18.823Z] GET /movie/basic/208 304 33.426 ms
+
+info : [2024-12-06T12:36:18.824Z] GET /movie/basic/209 304 34.155 ms
+
+info : [2024-12-06T12:36:18.855Z] GET /movie/basic/194 304 63.508 ms
+
+info : [2024-12-06T12:36:18.927Z] GET /movie/basic/232 304 56.902 ms
+
+info : [2024-12-06T12:36:18.958Z] GET /movie/basic/251 304 95.586 ms
+
+info : [2024-12-06T12:36:18.975Z] GET /movie/basic/248 304 109.522 ms
+
+info : [2024-12-06T12:36:18.979Z] GET /movie/basic/234 304 110.195 ms
+
+info : [2024-12-06T12:36:18.986Z] GET /movie/basic/233 304 115.811 ms
+
+info : [2024-12-06T12:36:18.996Z] GET /movie/basic/235 304 122.882 ms
+
+info : [2024-12-06T12:36:19.016Z] GET /movie/basic/146 304 28.029 ms
+
+info : [2024-12-06T12:36:19.027Z] GET /movie/basic/208 304 22.311 ms
+
+info : [2024-12-06T12:36:19.035Z] GET /movie/basic/209 304 27.776 ms
+
+info : [2024-12-06T12:36:19.060Z] GET /movie/basic/194 304 20.186 ms
+
+info : [2024-12-06T12:36:19.067Z] GET /movie/basic/251 304 17.192 ms
+
+info : [2024-12-06T12:36:19.071Z] GET /movie/basic/232 304 26.704 ms
+
+info : [2024-12-06T12:36:19.082Z] GET /movie/basic/248 304 27.208 ms
+
+info : [2024-12-06T12:36:20.374Z] GET /movie/234 200 7.270 ms
+
+info : [2024-12-06T12:36:20.379Z] GET /movie/actor/234 200 10.794 ms
+
+info : [2024-12-06T12:36:20.381Z] GET /movie/director/234 200 8.555 ms
+
+info : [2024-12-06T12:36:20.385Z] GET /movie/genre/234 200 10.909 ms
+
+info : [2024-12-06T12:36:43.098Z] GET /movie/chart 304 3.195 ms
+
+info : [2024-12-06T12:36:43.149Z] GET /movie/basic/146 304 10.134 ms
+
+info : [2024-12-06T12:36:43.155Z] GET /movie/basic/194 304 12.603 ms
+
+info : [2024-12-06T12:36:43.164Z] GET /movie/basic/232 304 17.578 ms
+
+info : [2024-12-06T12:36:43.176Z] GET /movie/basic/251 304 15.390 ms
+
+info : [2024-12-06T12:36:43.180Z] GET /movie/basic/248 304 17.357 ms
+
+info : [2024-12-06T12:36:43.184Z] GET /movie/basic/234 304 15.992 ms
+
+info : [2024-12-06T12:36:43.189Z] GET /movie/basic/233 304 21.227 ms
+
+info : [2024-12-06T12:36:43.194Z] GET /movie/basic/209 304 22.581 ms
+
+info : [2024-12-06T12:36:43.200Z] GET /movie/basic/208 304 30.156 ms
+
+info : [2024-12-06T12:36:43.224Z] GET /movie/basic/235 304 18.080 ms
+
+info : [2024-12-06T12:36:43.230Z] GET /movie/basic/251 304 14.266 ms
+
+info : [2024-12-06T12:36:43.233Z] GET /movie/basic/146 304 25.820 ms
+
+info : [2024-12-06T12:36:43.242Z] GET /movie/basic/194 304 33.361 ms
+
+info : [2024-12-06T12:36:43.244Z] GET /movie/basic/232 304 34.899 ms
+
+info : [2024-12-06T12:36:43.249Z] GET /movie/basic/248 304 29.912 ms
+
+info : [2024-12-06T12:36:43.302Z] GET /movie/basic/208 304 38.645 ms
+
+info : [2024-12-06T12:36:43.349Z] GET /movie/basic/233 304 94.737 ms
+
+info : [2024-12-06T12:36:43.361Z] GET /movie/basic/234 304 107.854 ms
+
+info : [2024-12-06T12:36:43.364Z] GET /movie/basic/209 304 101.840 ms
+
+info : [2024-12-06T12:36:43.387Z] GET /movie/basic/235 304 19.630 ms
+
+info : [2024-12-06T12:36:43.430Z] GET /movie/basic/232 304 43.110 ms
+
+info : [2024-12-06T12:36:43.434Z] GET /movie/basic/146 304 60.841 ms
+
+info : [2024-12-06T12:36:43.437Z] GET /movie/basic/194 304 62.871 ms
+
+info : [2024-12-06T12:36:43.442Z] GET /movie/basic/248 304 62.014 ms
+
+info : [2024-12-06T12:36:43.448Z] GET /movie/basic/251 304 78.939 ms
+
+info : [2024-12-06T12:36:44.380Z] GET /movie/234 304 6.404 ms
+
+info : [2024-12-06T12:36:44.390Z] GET /movie/actor/234 304 6.577 ms
+
+info : [2024-12-06T12:36:44.392Z] GET /movie/director/234 304 7.633 ms
+
+info : [2024-12-06T12:36:44.394Z] GET /movie/genre/234 304 9.136 ms
+
+info : [2024-12-06T12:37:43.871Z] GET /movie/chart 304 2.240 ms
+
+info : [2024-12-06T12:37:43.922Z] GET /movie/basic/146 304 4.549 ms
+
+info : [2024-12-06T12:37:43.930Z] GET /movie/basic/194 304 5.770 ms
+
+info : [2024-12-06T12:37:43.964Z] GET /movie/basic/232 304 22.551 ms
+
+info : [2024-12-06T12:37:43.972Z] GET /movie/basic/251 304 28.564 ms
+
+info : [2024-12-06T12:37:43.987Z] GET /movie/basic/233 304 39.801 ms
+
+info : [2024-12-06T12:37:44.031Z] GET /movie/basic/248 304 86.610 ms
+
+info : [2024-12-06T12:37:44.046Z] GET /movie/basic/234 304 99.519 ms
+
+info : [2024-12-06T12:37:44.093Z] GET /movie/basic/208 304 142.803 ms
+
+info : [2024-12-06T12:37:44.150Z] GET /movie/basic/235 304 21.950 ms
+
+info : [2024-12-06T12:37:44.182Z] GET /movie/basic/209 304 54.721 ms
+
+info : [2024-12-06T12:37:44.195Z] GET /movie/basic/146 304 65.818 ms
+
+info : [2024-12-06T12:37:44.199Z] GET /movie/basic/232 304 66.410 ms
+
+info : [2024-12-06T12:37:44.204Z] GET /movie/basic/194 304 72.304 ms
+
+info : [2024-12-06T12:37:44.228Z] GET /movie/basic/251 304 88.122 ms
+
+info : [2024-12-06T12:37:44.251Z] GET /movie/basic/234 304 29.813 ms
+
+info : [2024-12-06T12:37:44.259Z] GET /movie/basic/208 304 34.439 ms
+
+info : [2024-12-06T12:37:44.265Z] GET /movie/basic/235 304 37.352 ms
+
+info : [2024-12-06T12:37:44.267Z] GET /movie/basic/233 304 52.442 ms
+
+info : [2024-12-06T12:37:44.277Z] GET /movie/basic/248 304 58.224 ms
+
+info : [2024-12-06T12:37:44.305Z] GET /movie/basic/209 304 21.351 ms
+
+info : [2024-12-06T12:37:44.312Z] GET /movie/basic/146 304 24.544 ms
+
+info : [2024-12-06T12:37:44.326Z] GET /movie/basic/232 304 27.263 ms
+
+info : [2024-12-06T12:37:44.336Z] GET /movie/basic/194 304 43.969 ms
+
+info : [2024-12-06T12:37:44.338Z] GET /movie/basic/251 304 40.990 ms
+
+info : [2024-12-06T12:37:44.344Z] GET /movie/basic/248 304 50.963 ms
+
+info : [2024-12-06T12:37:45.066Z] GET /movie/233 304 13.042 ms
+
+info : [2024-12-06T12:37:45.069Z] GET /movie/actor/233 304 11.249 ms
+
+info : [2024-12-06T12:37:45.072Z] GET /movie/genre/233 304 12.816 ms
+
+info : [2024-12-06T12:37:45.077Z] GET /movie/director/233 304 15.287 ms
+
+info : [2024-12-06T12:40:11.055Z] GET /movie/chart 304 1.309 ms
+
+info : [2024-12-06T12:40:11.095Z] GET /movie/basic/146 304 4.341 ms
+
+info : [2024-12-06T12:40:11.111Z] GET /movie/basic/194 304 11.749 ms
+
+info : [2024-12-06T12:40:11.117Z] GET /movie/basic/232 304 16.278 ms
+
+info : [2024-12-06T12:40:11.128Z] GET /movie/basic/251 304 25.991 ms
+
+info : [2024-12-06T12:40:11.185Z] GET /movie/basic/234 304 76.057 ms
+
+info : [2024-12-06T12:40:11.233Z] GET /movie/basic/233 304 125.018 ms
+
+info : [2024-12-06T12:40:11.280Z] GET /movie/basic/248 304 171.501 ms
+
+info : [2024-12-06T12:40:11.322Z] GET /movie/basic/208 304 109.642 ms
+
+info : [2024-12-06T12:40:11.341Z] GET /movie/basic/146 304 63.919 ms
+
+info : [2024-12-06T12:40:11.348Z] GET /movie/basic/209 304 72.177 ms
+
+info : [2024-12-06T12:40:11.351Z] GET /movie/basic/235 304 63.585 ms
+
+info : [2024-12-06T12:40:11.366Z] GET /movie/basic/194 304 77.285 ms
+
+info : [2024-12-06T12:40:11.388Z] GET /movie/basic/232 304 52.298 ms
+
+info : [2024-12-06T12:40:11.425Z] GET /movie/basic/251 304 62.901 ms
+
+info : [2024-12-06T12:40:11.459Z] GET /movie/basic/234 304 54.255 ms
+
+info : [2024-12-06T12:40:11.470Z] GET /movie/basic/233 304 62.770 ms
+
+info : [2024-12-06T12:40:11.477Z] GET /movie/basic/208 304 41.564 ms
+
+info : [2024-12-06T12:40:11.488Z] GET /movie/basic/248 304 54.906 ms
+
+info : [2024-12-06T12:40:11.514Z] GET /movie/basic/146 304 60.235 ms
+
+info : [2024-12-06T12:40:11.533Z] GET /movie/basic/209 304 77.490 ms
+
+info : [2024-12-06T12:40:11.597Z] GET /movie/basic/232 304 85.813 ms
+
+info : [2024-12-06T12:40:11.622Z] GET /movie/basic/235 304 121.464 ms
+
+info : [2024-12-06T12:40:11.626Z] GET /movie/basic/194 304 115.916 ms
+
+info : [2024-12-06T12:40:11.631Z] GET /movie/basic/251 304 118.253 ms
+
+info : [2024-12-06T12:40:11.640Z] GET /movie/basic/248 304 47.135 ms
+
+info : [2024-12-06T12:40:12.160Z] GET /movie/234 304 4.954 ms
+
+info : [2024-12-06T12:40:12.171Z] GET /movie/actor/234 304 6.394 ms
+
+info : [2024-12-06T12:40:12.175Z] GET /movie/director/234 304 9.021 ms
+
+info : [2024-12-06T12:40:12.179Z] GET /movie/genre/234 304 12.104 ms
+
+info : [2024-12-06T12:40:19.146Z] GET /movie/chart 304 2.401 ms
+
+info : [2024-12-06T12:40:19.198Z] GET /movie/basic/146 304 7.036 ms
+
+info : [2024-12-06T12:40:19.210Z] GET /movie/basic/194 304 14.564 ms
+
+info : [2024-12-06T12:40:19.230Z] GET /movie/basic/251 304 16.669 ms
+
+info : [2024-12-06T12:40:19.235Z] GET /movie/basic/232 304 19.839 ms
+
+info : [2024-12-06T12:40:19.240Z] GET /movie/basic/248 304 23.713 ms
+
+info : [2024-12-06T12:40:19.269Z] GET /movie/basic/234 304 47.298 ms
+
+info : [2024-12-06T12:40:19.295Z] GET /movie/basic/208 304 58.707 ms
+
+info : [2024-12-06T12:40:19.300Z] GET /movie/basic/233 304 76.143 ms
+
+info : [2024-12-06T12:40:19.357Z] GET /movie/basic/209 304 90.391 ms
+
+info : [2024-12-06T12:40:19.363Z] GET /movie/basic/235 304 35.094 ms
+
+info : [2024-12-06T12:40:19.373Z] GET /movie/basic/194 304 24.674 ms
+
+info : [2024-12-06T12:40:19.381Z] GET /movie/basic/146 304 55.398 ms
+
+info : [2024-12-06T12:40:19.417Z] GET /movie/basic/251 304 66.941 ms
+
+info : [2024-12-06T12:40:19.437Z] GET /movie/basic/232 304 87.218 ms
+
+info : [2024-12-06T12:40:19.495Z] GET /movie/basic/248 304 40.365 ms
+
+info : [2024-12-06T12:40:19.524Z] GET /movie/basic/209 304 37.560 ms
+
+info : [2024-12-06T12:40:19.552Z] GET /movie/basic/235 304 64.151 ms
+
+info : [2024-12-06T12:40:19.570Z] GET /movie/basic/234 304 114.620 ms
+
+info : [2024-12-06T12:40:19.580Z] GET /movie/basic/208 304 123.061 ms
+
+info : [2024-12-06T12:40:19.605Z] GET /movie/basic/233 304 121.498 ms
+
+info : [2024-12-06T12:40:19.626Z] GET /movie/basic/194 304 11.006 ms
+
+info : [2024-12-06T12:40:19.683Z] GET /movie/basic/146 304 21.715 ms
+
+info : [2024-12-06T12:40:19.700Z] GET /movie/basic/251 304 83.021 ms
+
+info : [2024-12-06T12:40:19.725Z] GET /movie/basic/248 304 103.800 ms
+
+info : [2024-12-06T12:40:19.733Z] GET /movie/basic/232 304 112.730 ms
+
+info : [2024-12-06T12:40:20.168Z] GET /movie/234 304 10.047 ms
+
+info : [2024-12-06T12:40:20.172Z] GET /movie/director/234 304 8.190 ms
+
+info : [2024-12-06T12:40:20.178Z] GET /movie/actor/234 304 15.450 ms
+
+info : [2024-12-06T12:40:20.181Z] GET /movie/genre/234 304 14.765 ms
+
+info : [2024-12-06T12:40:28.341Z] GET /user/info 401 3.622 ms
+
+info : [2024-12-06T12:40:28.346Z] GET /movie/chart 304 1.591 ms
+
+info : [2024-12-06T12:40:28.488Z] GET /user/refresh 401 1.874 ms
+
+info : [2024-12-06T12:40:28.501Z] GET /movie/basic/146 304 9.656 ms
+
+info : [2024-12-06T12:40:28.517Z] GET /movie/basic/194 304 21.718 ms
+
+info : [2024-12-06T12:40:28.523Z] GET /movie/basic/232 304 18.734 ms
+
+info : [2024-12-06T12:40:28.527Z] GET /movie/basic/251 304 21.117 ms
+
+info : [2024-12-06T12:40:28.535Z] GET /movie/basic/248 304 23.921 ms
+
+info : [2024-12-06T12:40:28.545Z] GET /movie/basic/234 304 30.559 ms
+
+info : [2024-12-06T12:40:28.569Z] GET /movie/basic/233 304 54.562 ms
+
+info : [2024-12-06T12:40:28.603Z] GET /movie/basic/208 304 61.736 ms
+
+info : [2024-12-06T12:40:28.612Z] GET /movie/basic/209 304 39.649 ms
+
+info : [2024-12-06T12:40:28.628Z] GET /movie/basic/235 304 53.526 ms
+
+info : [2024-12-06T12:40:28.633Z] GET /movie/basic/146 304 56.529 ms
+
+info : [2024-12-06T12:40:28.643Z] GET /movie/basic/194 304 54.447 ms
+
+info : [2024-12-06T12:40:28.655Z] GET /movie/basic/232 304 70.242 ms
+
+info : [2024-12-06T12:40:28.692Z] GET /movie/basic/251 304 52.793 ms
+
+info : [2024-12-06T12:40:28.708Z] GET /movie/basic/248 304 47.839 ms
+
+info : [2024-12-06T12:40:28.723Z] GET /movie/basic/234 304 61.033 ms
+
+info : [2024-12-06T12:40:28.732Z] GET /movie/basic/233 304 60.260 ms
+
+info : [2024-12-06T12:40:28.735Z] GET /movie/basic/208 304 60.968 ms
+
+info : [2024-12-06T12:40:28.755Z] GET /movie/basic/209 304 55.997 ms
+
+info : [2024-12-06T12:40:28.771Z] GET /movie/basic/235 304 44.999 ms
+
+info : [2024-12-06T12:40:28.789Z] GET /movie/basic/146 304 44.482 ms
+
+info : [2024-12-06T12:40:28.805Z] GET /movie/basic/194 304 23.785 ms
+
+info : [2024-12-06T12:40:28.811Z] GET /movie/basic/232 304 24.537 ms
+
+info : [2024-12-06T12:40:28.895Z] GET /movie/basic/251 304 21.858 ms
+
+info : [2024-12-06T12:40:28.901Z] GET /movie/basic/248 304 104.424 ms
+
+info : [2024-12-06T12:41:11.921Z] GET /user/info 401 0.609 ms
+
+info : [2024-12-06T12:41:11.926Z] GET /movie/chart 304 1.412 ms
+
+info : [2024-12-06T12:41:12.022Z] GET /movie/basic/146 304 3.726 ms
+
+info : [2024-12-06T12:41:12.028Z] GET /movie/basic/194 304 6.962 ms
+
+info : [2024-12-06T12:41:12.040Z] GET /movie/basic/232 304 13.583 ms
+
+info : [2024-12-06T12:41:12.046Z] GET /movie/basic/251 304 15.636 ms
+
+info : [2024-12-06T12:41:12.057Z] GET /movie/basic/248 304 20.804 ms
+
+info : [2024-12-06T12:41:12.073Z] GET /movie/basic/234 304 34.953 ms
+
+info : [2024-12-06T12:41:12.083Z] GET /movie/basic/233 304 34.835 ms
+
+info : [2024-12-06T12:41:12.136Z] GET /movie/basic/208 304 83.452 ms
+
+info : [2024-12-06T12:41:12.199Z] GET /movie/basic/194 304 145.819 ms
+
+info : [2024-12-06T12:41:12.227Z] GET /movie/basic/209 304 172.681 ms
+
+info : [2024-12-06T12:41:12.244Z] GET /movie/basic/235 304 111.186 ms
+
+info : [2024-12-06T12:41:12.265Z] GET /movie/basic/146 304 41.243 ms
+
+info : [2024-12-06T12:41:12.283Z] GET /movie/basic/232 304 58.573 ms
+
+info : [2024-12-06T12:41:12.289Z] GET /movie/basic/251 304 50.973 ms
+
+info : [2024-12-06T12:41:12.310Z] GET /movie/basic/248 304 69.607 ms
+
+info : [2024-12-06T12:41:12.325Z] GET /movie/basic/234 304 66.804 ms
+
+info : [2024-12-06T12:41:12.368Z] GET /movie/basic/233 304 69.691 ms
+
+info : [2024-12-06T12:41:12.391Z] GET /movie/basic/208 304 18.327 ms
+
+info : [2024-12-06T12:41:12.401Z] GET /movie/basic/194 304 26.342 ms
+
+info : [2024-12-06T12:41:12.404Z] GET /movie/basic/146 304 23.835 ms
+
+info : [2024-12-06T12:41:12.409Z] GET /movie/basic/209 304 30.382 ms
+
+info : [2024-12-06T12:41:12.420Z] GET /movie/basic/235 304 40.502 ms
+
+info : [2024-12-06T12:41:12.424Z] GET /movie/basic/232 304 40.932 ms
+
+info : [2024-12-06T12:41:12.440Z] GET /movie/basic/248 304 13.039 ms
+
+info : [2024-12-06T12:41:12.446Z] GET /movie/basic/251 304 23.263 ms
+
+info : [2024-12-06T12:41:13.135Z] GET /movie/234 304 10.869 ms
+
+info : [2024-12-06T12:41:13.138Z] GET /movie/actor/234 304 12.256 ms
+
+info : [2024-12-06T12:41:13.141Z] GET /movie/genre/234 304 9.655 ms
+
+info : [2024-12-06T12:41:13.144Z] GET /movie/director/234 304 14.209 ms
+
+info : [2024-12-06T12:41:22.893Z] GET /movie/chart 304 2.443 ms
+
+info : [2024-12-06T12:41:22.957Z] GET /movie/basic/146 304 5.035 ms
+
+info : [2024-12-06T12:41:22.973Z] GET /movie/basic/194 304 6.961 ms
+
+info : [2024-12-06T12:41:22.975Z] GET /movie/basic/232 304 6.690 ms
+
+info : [2024-12-06T12:41:22.978Z] GET /movie/basic/251 304 9.658 ms
+
+info : [2024-12-06T12:41:22.987Z] GET /movie/basic/248 304 6.203 ms
+
+info : [2024-12-06T12:41:23.006Z] GET /movie/basic/234 304 14.491 ms
+
+info : [2024-12-06T12:41:23.018Z] GET /movie/basic/233 304 23.890 ms
+
+info : [2024-12-06T12:41:23.031Z] GET /movie/basic/235 304 18.873 ms
+
+info : [2024-12-06T12:41:23.061Z] GET /movie/basic/208 304 57.459 ms
+
+info : [2024-12-06T12:41:23.114Z] GET /movie/basic/209 304 108.916 ms
+
+info : [2024-12-06T12:41:23.165Z] GET /movie/basic/146 304 34.357 ms
+
+info : [2024-12-06T12:41:23.171Z] GET /movie/basic/251 304 11.868 ms
+
+info : [2024-12-06T12:41:23.186Z] GET /movie/basic/194 304 30.048 ms
+
+info : [2024-12-06T12:41:23.192Z] GET /movie/basic/232 304 34.898 ms
+
+info : [2024-12-06T12:41:23.202Z] GET /movie/basic/248 304 41.645 ms
+
+info : [2024-12-06T12:41:23.208Z] GET /movie/basic/234 304 47.408 ms
+
+info : [2024-12-06T12:41:23.258Z] GET /movie/basic/233 304 36.416 ms
+
+info : [2024-12-06T12:41:23.274Z] GET /movie/basic/235 304 52.696 ms
+
+info : [2024-12-06T12:41:23.289Z] GET /movie/basic/208 304 60.960 ms
+
+info : [2024-12-06T12:41:23.315Z] GET /movie/basic/209 304 86.650 ms
+
+info : [2024-12-06T12:41:23.322Z] GET /movie/basic/146 304 89.436 ms
+
+info : [2024-12-06T12:41:23.330Z] GET /movie/basic/251 304 89.796 ms
+
+info : [2024-12-06T12:41:23.382Z] GET /movie/basic/194 304 64.032 ms
+
+info : [2024-12-06T12:41:23.451Z] GET /movie/basic/232 304 104.546 ms
+
+info : [2024-12-06T12:41:23.522Z] GET /movie/basic/248 304 143.808 ms
+
+info : [2024-12-06T12:41:24.107Z] GET /movie/234 304 10.913 ms
+
+info : [2024-12-06T12:41:24.109Z] GET /movie/actor/234 304 11.336 ms
+
+info : [2024-12-06T12:41:24.115Z] GET /movie/director/234 304 12.334 ms
+
+info : [2024-12-06T12:41:24.118Z] GET /movie/genre/234 304 15.059 ms
+
+info : [2024-12-06T12:42:55.843Z] GET /movie/234 304 12.515 ms
+
+info : [2024-12-06T12:42:55.849Z] GET /movie/actor/234 304 17.040 ms
+
+info : [2024-12-06T12:42:55.852Z] GET /movie/genre/234 304 17.690 ms
+
+info : [2024-12-06T12:42:55.856Z] GET /movie/director/234 304 22.288 ms
+
+info : [2024-12-06T12:43:04.992Z] GET /movie/234 304 5.504 ms
+
+info : [2024-12-06T12:43:05.003Z] GET /movie/director/234 304 5.954 ms
+
+info : [2024-12-06T12:43:05.010Z] GET /movie/actor/234 304 19.080 ms
+
+info : [2024-12-06T12:43:05.013Z] GET /movie/genre/234 304 13.155 ms
+
+info : [2024-12-06T12:43:19.762Z] GET /movie/234 304 10.016 ms
+
+info : [2024-12-06T12:43:19.767Z] GET /movie/actor/234 304 12.472 ms
+
+info : [2024-12-06T12:43:19.770Z] GET /movie/director/234 304 12.661 ms
+
+info : [2024-12-06T12:43:19.775Z] GET /movie/genre/234 304 13.665 ms
+
+info : [2024-12-06T12:43:55.108Z] GET /movie/234 304 4.978 ms
+
+info : [2024-12-06T12:43:55.117Z] GET /movie/actor/234 304 10.636 ms
+
+info : [2024-12-06T12:43:55.125Z] GET /movie/director/234 304 9.780 ms
+
+info : [2024-12-06T12:43:55.128Z] GET /movie/genre/234 304 12.777 ms
+
+info : [2024-12-06T12:44:02.927Z] GET /movie/234 304 8.610 ms
+
+info : [2024-12-06T12:44:02.932Z] GET /movie/actor/234 304 11.514 ms
+
+info : [2024-12-06T12:44:02.936Z] GET /movie/director/234 304 10.060 ms
+
+info : [2024-12-06T12:44:02.938Z] GET /movie/genre/234 304 7.577 ms
+
+info : [2024-12-06T12:44:11.371Z] GET /user/info 401 0.827 ms
+
+info : [2024-12-06T12:44:11.387Z] GET /movie/chart 304 1.489 ms
+
+info : [2024-12-06T12:44:11.520Z] GET /movie/basic/146 304 10.930 ms
+
+info : [2024-12-06T12:44:11.532Z] GET /movie/basic/194 304 18.696 ms
+
+info : [2024-12-06T12:44:11.546Z] GET /movie/basic/232 304 22.440 ms
+
+info : [2024-12-06T12:44:11.552Z] GET /movie/basic/251 304 23.697 ms
+
+info : [2024-12-06T12:44:11.574Z] GET /movie/basic/234 304 40.530 ms
+
+info : [2024-12-06T12:44:11.597Z] GET /movie/basic/248 304 54.103 ms
+
+info : [2024-12-06T12:44:11.671Z] GET /movie/basic/233 304 120.773 ms
+
+info : [2024-12-06T12:44:11.699Z] GET /movie/basic/208 304 103.434 ms
+
+info : [2024-12-06T12:44:11.706Z] GET /movie/basic/209 304 23.593 ms
+
+info : [2024-12-06T12:44:11.787Z] GET /movie/basic/235 304 97.692 ms
+
+info : [2024-12-06T12:44:11.810Z] GET /movie/basic/146 304 119.085 ms
+
+info : [2024-12-06T12:44:11.840Z] GET /movie/basic/194 304 144.443 ms
+
+info : [2024-12-06T12:44:11.873Z] GET /movie/basic/232 304 63.763 ms
+
+info : [2024-12-06T12:44:11.912Z] GET /movie/basic/234 304 49.170 ms
+
+info : [2024-12-06T12:44:11.921Z] GET /movie/basic/251 304 73.704 ms
+
+info : [2024-12-06T12:44:11.945Z] GET /movie/basic/248 304 54.907 ms
+
+info : [2024-12-06T12:44:12.020Z] GET /movie/basic/233 304 127.131 ms
+
+info : [2024-12-06T12:44:12.074Z] GET /movie/basic/208 304 163.358 ms
+
+info : [2024-12-06T12:44:12.172Z] GET /movie/basic/209 304 184.550 ms
+
+info : [2024-12-06T12:44:12.208Z] GET /movie/basic/235 304 114.525 ms
+
+info : [2024-12-06T12:44:12.220Z] GET /movie/basic/232 304 12.000 ms
+
+info : [2024-12-06T12:44:12.231Z] GET /movie/basic/194 304 26.331 ms
+
+info : [2024-12-06T12:44:12.235Z] GET /movie/basic/146 304 126.923 ms
+
+info : [2024-12-06T12:44:12.271Z] GET /movie/basic/248 304 23.446 ms
+
+info : [2024-12-06T12:44:12.274Z] GET /movie/basic/251 304 60.788 ms
+
+info : [2024-12-06T12:45:34.964Z] GET /movie/chart 304 2.350 ms
+
+info : [2024-12-06T12:45:35.132Z] GET /movie/basic/146 304 3.668 ms
+
+info : [2024-12-06T12:45:35.144Z] GET /movie/basic/194 304 7.389 ms
+
+info : [2024-12-06T12:45:35.147Z] GET /movie/basic/232 304 8.922 ms
+
+info : [2024-12-06T12:45:35.150Z] GET /movie/basic/251 304 9.944 ms
+
+info : [2024-12-06T12:45:35.152Z] GET /movie/basic/248 304 11.538 ms
+
+info : [2024-12-06T12:45:35.156Z] GET /movie/basic/234 304 13.846 ms
+
+info : [2024-12-06T12:45:35.174Z] GET /movie/basic/233 304 14.250 ms
+
+info : [2024-12-06T12:45:35.227Z] GET /movie/basic/208 304 65.478 ms
+
+info : [2024-12-06T12:45:35.245Z] GET /movie/basic/209 304 82.417 ms
+
+info : [2024-12-06T12:45:35.247Z] GET /movie/basic/235 304 83.684 ms
+
+info : [2024-12-06T12:45:35.283Z] GET /movie/basic/146 304 110.894 ms
+
+info : [2024-12-06T12:45:35.291Z] GET /movie/basic/194 304 117.915 ms
+
+info : [2024-12-06T12:45:35.330Z] GET /movie/basic/251 304 48.979 ms
+
+info : [2024-12-06T12:45:35.351Z] GET /movie/basic/232 304 71.242 ms
+
+info : [2024-12-06T12:45:35.359Z] GET /movie/basic/248 304 39.080 ms
+
+info : [2024-12-06T12:45:35.363Z] GET /movie/basic/234 304 41.216 ms
+
+info : [2024-12-06T12:45:35.366Z] GET /movie/basic/233 304 39.445 ms
+
+info : [2024-12-06T12:45:35.390Z] GET /movie/basic/208 304 55.450 ms
+
+info : [2024-12-06T12:45:35.429Z] GET /movie/basic/209 304 64.277 ms
+
+info : [2024-12-06T12:45:35.449Z] GET /movie/basic/251 304 44.285 ms
+
+info : [2024-12-06T12:45:35.470Z] GET /movie/basic/235 304 75.349 ms
+
+info : [2024-12-06T12:45:35.474Z] GET /movie/basic/146 304 72.126 ms
+
+info : [2024-12-06T12:45:35.477Z] GET /movie/basic/194 304 73.344 ms
+
+info : [2024-12-06T12:45:35.479Z] GET /movie/basic/232 304 72.138 ms
+
+info : [2024-12-06T12:45:35.485Z] GET /movie/basic/248 304 4.431 ms
+
+info : [2024-12-06T12:46:06.289Z] GET /movie/basic/146 304 4.414 ms
+
+info : [2024-12-06T12:46:06.309Z] GET /movie/basic/234 304 6.808 ms
+
+info : [2024-12-06T12:46:06.312Z] GET /movie/basic/248 304 13.923 ms
+
+info : [2024-12-06T12:46:06.314Z] GET /movie/basic/232 304 20.001 ms
+
+info : [2024-12-06T12:46:06.316Z] GET /movie/basic/251 304 21.343 ms
+
+info : [2024-12-06T12:46:06.320Z] GET /movie/basic/233 304 14.044 ms
+
+info : [2024-12-06T12:46:06.322Z] GET /movie/basic/194 304 31.297 ms
+
+info : [2024-12-06T12:46:06.327Z] GET /movie/basic/208 304 3.696 ms
+
+info : [2024-12-06T12:46:06.343Z] GET /movie/basic/209 304 12.940 ms
+
+info : [2024-12-06T12:46:06.348Z] GET /movie/basic/235 304 17.398 ms
+
+info : [2024-12-06T12:46:06.351Z] GET /movie/basic/146 304 17.995 ms
+
+info : [2024-12-06T12:46:06.357Z] GET /movie/basic/234 304 17.928 ms
+
+info : [2024-12-06T12:46:06.365Z] GET /movie/basic/248 304 19.038 ms
+
+info : [2024-12-06T12:46:06.375Z] GET /movie/basic/232 304 28.152 ms
+
+info : [2024-12-06T12:46:06.382Z] GET /movie/basic/251 304 22.625 ms
+
+info : [2024-12-06T12:46:06.388Z] GET /movie/basic/233 304 26.846 ms
+
+info : [2024-12-06T12:46:06.391Z] GET /movie/basic/194 304 29.032 ms
+
+info : [2024-12-06T12:46:06.397Z] GET /movie/basic/208 304 28.512 ms
+
+info : [2024-12-06T12:46:06.408Z] GET /movie/chart 304 1.493 ms
+
+info : [2024-12-06T12:46:06.422Z] GET /movie/basic/209 304 37.045 ms
+
+info : [2024-12-06T12:46:06.427Z] GET /movie/basic/235 304 32.850 ms
+
+info : [2024-12-06T12:46:06.438Z] GET /movie/basic/146 304 28.182 ms
+
+info : [2024-12-06T12:46:06.444Z] GET /movie/basic/248 304 31.278 ms
+
+info : [2024-12-06T12:46:06.458Z] GET /movie/basic/251 304 31.704 ms
+
+info : [2024-12-06T12:46:06.473Z] GET /movie/basic/232 304 48.875 ms
+
+info : [2024-12-06T12:46:06.478Z] GET /movie/basic/194 304 28.300 ms
+
+info : [2024-12-06T12:46:06.507Z] GET /movie/basic/146 304 5.394 ms
+
+info : [2024-12-06T12:46:06.512Z] GET /movie/basic/194 304 6.178 ms
+
+info : [2024-12-06T12:46:06.541Z] GET /movie/basic/232 304 3.851 ms
+
+info : [2024-12-06T12:46:06.562Z] GET /movie/basic/251 304 13.385 ms
+
+info : [2024-12-06T12:46:06.569Z] GET /movie/basic/248 304 18.857 ms
+
+info : [2024-12-06T12:46:06.573Z] GET /movie/basic/234 304 17.302 ms
+
+info : [2024-12-06T12:46:06.577Z] GET /movie/basic/233 304 20.803 ms
+
+info : [2024-12-06T12:46:06.582Z] GET /movie/basic/208 304 24.523 ms
+
+info : [2024-12-06T12:46:06.592Z] GET /movie/basic/209 304 32.785 ms
+
+info : [2024-12-06T12:46:06.615Z] GET /movie/basic/235 304 26.987 ms
+
+info : [2024-12-06T12:46:06.623Z] GET /movie/basic/146 304 24.984 ms
+
+info : [2024-12-06T12:46:06.626Z] GET /movie/basic/194 304 20.765 ms
+
+info : [2024-12-06T12:46:06.628Z] GET /movie/basic/232 304 17.640 ms
+
+info : [2024-12-06T12:46:06.638Z] GET /movie/basic/251 304 27.461 ms
+
+info : [2024-12-06T12:46:06.645Z] GET /movie/basic/248 304 31.623 ms
+
+info : [2024-12-06T12:46:06.693Z] GET /movie/basic/234 304 50.876 ms
+
+info : [2024-12-06T12:46:06.705Z] GET /movie/basic/208 304 42.330 ms
+
+info : [2024-12-06T12:46:06.708Z] GET /movie/basic/209 304 45.039 ms
+
+info : [2024-12-06T12:46:06.714Z] GET /movie/basic/233 304 52.570 ms
+
+info : [2024-12-06T12:46:06.720Z] GET /movie/basic/235 304 56.283 ms
+
+info : [2024-12-06T12:46:06.728Z] GET /movie/basic/146 304 38.156 ms
+
+info : [2024-12-06T12:46:06.742Z] GET /movie/basic/194 304 18.693 ms
+
+info : [2024-12-06T12:46:06.744Z] GET /movie/basic/232 304 19.045 ms
+
+info : [2024-12-06T12:46:06.747Z] GET /movie/basic/251 304 21.490 ms
+
+info : [2024-12-06T12:46:06.751Z] GET /movie/basic/248 304 12.603 ms
+
+info : [2024-12-06T12:46:14.711Z] GET /movie/chart 304 1.028 ms
+
+info : [2024-12-06T12:46:14.767Z] GET /movie/basic/146 304 4.705 ms
+
+info : [2024-12-06T12:46:14.777Z] GET /movie/basic/194 304 6.071 ms
+
+info : [2024-12-06T12:46:14.782Z] GET /movie/basic/232 304 3.763 ms
+
+info : [2024-12-06T12:46:14.847Z] GET /movie/basic/251 304 5.389 ms
+
+info : [2024-12-06T12:46:14.862Z] GET /movie/basic/146 304 2.825 ms
+
+info : [2024-12-06T12:46:14.896Z] GET /movie/basic/248 304 4.417 ms
+
+info : [2024-12-06T12:46:14.925Z] GET /movie/basic/234 304 21.575 ms
+
+info : [2024-12-06T12:46:14.928Z] GET /movie/basic/233 304 23.426 ms
+
+info : [2024-12-06T12:46:14.937Z] GET /movie/basic/208 304 30.166 ms
+
+info : [2024-12-06T12:46:14.952Z] GET /movie/basic/235 304 37.916 ms
+
+info : [2024-12-06T12:46:14.974Z] GET /movie/basic/209 304 64.762 ms
+
+info : [2024-12-06T12:46:14.979Z] GET /movie/basic/194 304 68.004 ms
+
+info : [2024-12-06T12:46:15.019Z] GET /movie/basic/251 304 28.407 ms
+
+info : [2024-12-06T12:46:15.025Z] GET /movie/basic/146 304 32.376 ms
+
+info : [2024-12-06T12:46:15.035Z] GET /movie/basic/232 304 45.885 ms
+
+info : [2024-12-06T12:46:15.048Z] GET /movie/basic/248 304 54.216 ms
+
+info : [2024-12-06T12:46:15.054Z] GET /movie/basic/233 304 25.823 ms
+
+info : [2024-12-06T12:46:15.057Z] GET /movie/basic/234 304 61.936 ms
+
+info : [2024-12-06T12:46:15.108Z] GET /movie/basic/208 304 65.231 ms
+
+info : [2024-12-06T12:46:15.114Z] GET /movie/basic/235 304 68.209 ms
+
+info : [2024-12-06T12:46:15.131Z] GET /movie/basic/209 304 66.005 ms
+
+info : [2024-12-06T12:46:15.145Z] GET /movie/basic/194 304 38.206 ms
+
+info : [2024-12-06T12:46:15.149Z] GET /movie/basic/251 304 49.434 ms
+
+info : [2024-12-06T12:46:15.153Z] GET /movie/basic/232 304 49.625 ms
+
+info : [2024-12-06T12:46:15.160Z] GET /movie/basic/248 304 9.238 ms
+
+info : [2024-12-06T12:46:22.969Z] GET /movie/chart 304 0.690 ms
+
+info : [2024-12-06T12:46:23.040Z] GET /movie/basic/146 304 5.426 ms
+
+info : [2024-12-06T12:46:23.055Z] GET /movie/basic/194 304 8.559 ms
+
+info : [2024-12-06T12:46:23.065Z] GET /movie/basic/251 304 15.941 ms
+
+info : [2024-12-06T12:46:23.067Z] GET /movie/basic/232 304 16.549 ms
+
+info : [2024-12-06T12:46:23.082Z] GET /movie/basic/248 304 23.045 ms
+
+info : [2024-12-06T12:46:23.086Z] GET /movie/basic/234 304 21.788 ms
+
+info : [2024-12-06T12:46:23.096Z] GET /movie/basic/233 304 24.992 ms
+
+info : [2024-12-06T12:46:23.105Z] GET /movie/basic/208 304 24.486 ms
+
+info : [2024-12-06T12:46:23.118Z] GET /movie/basic/209 304 35.989 ms
+
+info : [2024-12-06T12:46:23.144Z] GET /movie/basic/235 304 50.590 ms
+
+info : [2024-12-06T12:46:23.150Z] GET /movie/basic/146 304 48.160 ms
+
+info : [2024-12-06T12:46:23.157Z] GET /movie/basic/194 304 55.408 ms
+
+info : [2024-12-06T12:46:23.171Z] GET /movie/basic/232 304 55.945 ms
+
+info : [2024-12-06T12:46:23.189Z] GET /movie/basic/251 304 43.923 ms
+
+info : [2024-12-06T12:46:23.197Z] GET /movie/basic/248 304 30.013 ms
+
+info : [2024-12-06T12:46:23.202Z] GET /movie/basic/234 304 26.360 ms
+
+info : [2024-12-06T12:46:23.204Z] GET /movie/basic/233 304 27.056 ms
+
+info : [2024-12-06T12:46:23.209Z] GET /movie/basic/208 304 27.661 ms
+
+info : [2024-12-06T12:46:23.229Z] GET /movie/basic/209 304 33.210 ms
+
+info : [2024-12-06T12:46:23.246Z] GET /movie/basic/235 304 37.578 ms
+
+info : [2024-12-06T12:46:23.276Z] GET /movie/basic/146 304 51.470 ms
+
+info : [2024-12-06T12:46:23.283Z] GET /movie/basic/232 304 60.326 ms
+
+info : [2024-12-06T12:46:23.290Z] GET /movie/basic/194 304 67.930 ms
+
+info : [2024-12-06T12:46:23.326Z] GET /movie/basic/251 304 87.404 ms
+
+info : [2024-12-06T12:46:23.330Z] GET /movie/basic/248 304 61.392 ms
+
+info : [2024-12-06T12:46:56.415Z] GET /movie/actor/234 304 8.500 ms
+
+info : [2024-12-06T12:46:56.421Z] GET /movie/234 304 13.182 ms
+
+info : [2024-12-06T12:46:56.425Z] GET /movie/director/234 304 16.249 ms
+
+info : [2024-12-06T12:46:56.436Z] GET /movie/genre/234 304 9.646 ms
+
+info : [2024-12-06T12:47:25.884Z] GET /movie/234 304 8.207 ms
+
+info : [2024-12-06T12:47:25.897Z] GET /movie/genre/234 304 5.531 ms
+
+info : [2024-12-06T12:47:25.899Z] GET /movie/director/234 304 5.956 ms
+
+info : [2024-12-06T12:47:25.903Z] GET /movie/actor/234 304 9.982 ms
+
+info : [2024-12-06T12:48:15.457Z] GET /user/info 401 1.056 ms
+
+info : [2024-12-06T12:48:15.465Z] GET /movie/chart 304 1.471 ms
+
+info : [2024-12-06T12:48:15.665Z] GET /movie/basic/146 304 4.398 ms
+
+info : [2024-12-06T12:48:15.690Z] GET /movie/basic/232 304 3.494 ms
+
+info : [2024-12-06T12:48:15.692Z] GET /movie/basic/194 304 4.462 ms
+
+info : [2024-12-06T12:48:15.697Z] GET /movie/basic/251 304 2.414 ms
+
+info : [2024-12-06T12:48:15.704Z] GET /movie/basic/248 304 4.633 ms
+
+info : [2024-12-06T12:48:15.706Z] GET /movie/basic/234 304 5.336 ms
+
+info : [2024-12-06T12:48:15.735Z] GET /movie/basic/233 304 19.569 ms
+
+info : [2024-12-06T12:48:15.743Z] GET /movie/basic/208 304 20.445 ms
+
+info : [2024-12-06T12:48:15.748Z] GET /movie/basic/209 304 25.029 ms
+
+info : [2024-12-06T12:48:15.753Z] GET /movie/basic/235 304 26.871 ms
+
+info : [2024-12-06T12:48:15.758Z] GET /movie/basic/146 304 29.014 ms
+
+info : [2024-12-06T12:48:15.765Z] GET /movie/basic/232 304 34.942 ms
+
+info : [2024-12-06T12:48:15.842Z] GET /movie/basic/251 304 21.692 ms
+
+info : [2024-12-06T12:48:15.849Z] GET /movie/basic/194 304 30.825 ms
+
+info : [2024-12-06T12:48:15.851Z] GET /movie/basic/248 304 29.836 ms
+
+info : [2024-12-06T12:48:15.868Z] GET /movie/basic/234 304 42.984 ms
+
+info : [2024-12-06T12:48:15.884Z] GET /movie/basic/233 304 54.081 ms
+
+info : [2024-12-06T12:48:15.908Z] GET /movie/basic/208 304 71.141 ms
+
+info : [2024-12-06T12:48:15.932Z] GET /movie/basic/209 304 15.430 ms
+
+info : [2024-12-06T12:48:15.934Z] GET /movie/basic/235 304 16.411 ms
+
+info : [2024-12-06T12:48:15.938Z] GET /movie/basic/146 304 17.678 ms
+
+info : [2024-12-06T12:48:15.941Z] GET /movie/basic/232 304 17.536 ms
+
+info : [2024-12-06T12:48:15.969Z] GET /movie/basic/194 304 40.434 ms
+
+info : [2024-12-06T12:48:15.987Z] GET /movie/basic/251 304 48.169 ms
+
+info : [2024-12-06T12:48:16.157Z] GET /movie/basic/248 304 114.355 ms
+
+info : [2024-12-06T12:48:42.551Z] GET /movie/chart 304 1.036 ms
+
+info : [2024-12-06T12:48:42.597Z] GET /movie/basic/146 304 3.786 ms
+
+info : [2024-12-06T12:48:42.603Z] GET /movie/basic/194 304 6.370 ms
+
+info : [2024-12-06T12:48:42.611Z] GET /movie/basic/232 304 5.259 ms
+
+info : [2024-12-06T12:48:42.625Z] GET /movie/basic/251 304 15.272 ms
+
+info : [2024-12-06T12:48:42.631Z] GET /movie/basic/248 304 14.583 ms
+
+info : [2024-12-06T12:48:42.636Z] GET /movie/basic/234 304 18.566 ms
+
+info : [2024-12-06T12:48:42.646Z] GET /movie/basic/208 304 23.985 ms
+
+info : [2024-12-06T12:48:42.648Z] GET /movie/basic/233 304 24.796 ms
+
+info : [2024-12-06T12:48:42.655Z] GET /movie/basic/209 304 26.520 ms
+
+info : [2024-12-06T12:48:42.681Z] GET /movie/basic/194 304 28.572 ms
+
+info : [2024-12-06T12:48:42.689Z] GET /movie/basic/235 304 44.943 ms
+
+info : [2024-12-06T12:48:42.697Z] GET /movie/basic/146 304 46.725 ms
+
+info : [2024-12-06T12:48:42.710Z] GET /movie/basic/232 304 27.392 ms
+
+info : [2024-12-06T12:48:42.714Z] GET /movie/basic/251 304 30.311 ms
+
+info : [2024-12-06T12:48:42.716Z] GET /movie/basic/248 304 31.376 ms
+
+info : [2024-12-06T12:48:42.723Z] GET /movie/basic/234 304 28.433 ms
+
+info : [2024-12-06T12:48:42.748Z] GET /movie/basic/208 304 36.176 ms
+
+info : [2024-12-06T12:48:42.761Z] GET /movie/basic/233 304 42.284 ms
+
+info : [2024-12-06T12:48:42.766Z] GET /movie/basic/209 304 45.513 ms
+
+info : [2024-12-06T12:48:42.783Z] GET /movie/basic/194 304 40.869 ms
+
+info : [2024-12-06T12:48:42.793Z] GET /movie/basic/235 304 47.492 ms
+
+info : [2024-12-06T12:48:42.801Z] GET /movie/basic/146 304 37.193 ms
+
+info : [2024-12-06T12:48:42.810Z] GET /movie/basic/232 304 30.759 ms
+
+info : [2024-12-06T12:48:42.814Z] GET /movie/basic/251 304 23.177 ms
+
+info : [2024-12-06T12:48:42.817Z] GET /movie/basic/248 304 19.971 ms
+
+info : [2024-12-06T12:49:07.984Z] GET /movie/chart 304 1.133 ms
+
+info : [2024-12-06T12:49:08.050Z] GET /movie/basic/146 304 4.256 ms
+
+info : [2024-12-06T12:49:08.065Z] GET /movie/basic/194 304 11.302 ms
+
+info : [2024-12-06T12:49:08.070Z] GET /movie/basic/232 304 14.603 ms
+
+info : [2024-12-06T12:49:08.072Z] GET /movie/basic/251 304 15.212 ms
+
+info : [2024-12-06T12:49:08.083Z] GET /movie/basic/248 304 20.723 ms
+
+info : [2024-12-06T12:49:08.088Z] GET /movie/basic/234 304 25.249 ms
+
+info : [2024-12-06T12:49:08.093Z] GET /movie/basic/233 304 25.850 ms
+
+info : [2024-12-06T12:49:08.107Z] GET /movie/basic/146 304 16.186 ms
+
+info : [2024-12-06T12:49:08.162Z] GET /movie/basic/209 304 70.933 ms
+
+info : [2024-12-06T12:49:08.211Z] GET /movie/basic/208 304 132.476 ms
+
+info : [2024-12-06T12:49:08.227Z] GET /movie/basic/235 304 115.867 ms
+
+info : [2024-12-06T12:49:08.266Z] GET /movie/basic/194 304 151.513 ms
+
+info : [2024-12-06T12:49:08.270Z] GET /movie/basic/232 304 57.328 ms
+
+info : [2024-12-06T12:49:08.275Z] GET /movie/basic/251 304 55.598 ms
+
+info : [2024-12-06T12:49:08.281Z] GET /movie/basic/248 304 59.075 ms
+
+info : [2024-12-06T12:49:08.300Z] GET /movie/basic/234 304 36.806 ms
+
+info : [2024-12-06T12:49:08.312Z] GET /movie/basic/233 304 32.790 ms
+
+info : [2024-12-06T12:49:08.319Z] GET /movie/basic/209 304 30.346 ms
+
+info : [2024-12-06T12:49:08.325Z] GET /movie/basic/146 304 39.416 ms
+
+info : [2024-12-06T12:49:08.332Z] GET /movie/basic/208 304 38.879 ms
+
+info : [2024-12-06T12:49:08.339Z] GET /movie/basic/235 304 45.446 ms
+
+info : [2024-12-06T12:49:08.351Z] GET /movie/basic/194 304 21.121 ms
+
+info : [2024-12-06T12:49:08.377Z] GET /movie/basic/232 304 34.957 ms
+
+info : [2024-12-06T12:49:08.380Z] GET /movie/basic/251 304 36.246 ms
+
+info : [2024-12-06T12:49:08.387Z] GET /movie/basic/248 304 42.081 ms
+
+info : [2024-12-06T12:49:12.512Z] GET /movie/chart 304 0.774 ms
+
+info : [2024-12-06T12:49:12.561Z] GET /movie/basic/146 304 8.573 ms
+
+info : [2024-12-06T12:49:12.566Z] GET /movie/basic/194 304 9.399 ms
+
+info : [2024-12-06T12:49:12.572Z] GET /movie/basic/232 304 8.272 ms
+
+info : [2024-12-06T12:49:12.577Z] GET /movie/basic/251 304 3.613 ms
+
+info : [2024-12-06T12:49:12.580Z] GET /movie/basic/248 304 4.809 ms
+
+info : [2024-12-06T12:49:12.618Z] GET /movie/basic/234 304 4.821 ms
+
+info : [2024-12-06T12:49:12.627Z] GET /movie/basic/146 304 9.849 ms
+
+info : [2024-12-06T12:49:12.631Z] GET /movie/basic/233 304 10.792 ms
+
+info : [2024-12-06T12:49:12.637Z] GET /movie/basic/194 304 12.986 ms
+
+info : [2024-12-06T12:49:12.639Z] GET /movie/basic/208 304 13.942 ms
+
+info : [2024-12-06T12:49:12.641Z] GET /movie/basic/232 304 14.799 ms
+
+info : [2024-12-06T12:49:12.645Z] GET /movie/basic/209 304 9.149 ms
+
+info : [2024-12-06T12:49:12.647Z] GET /movie/basic/235 304 10.448 ms
+
+info : [2024-12-06T12:49:12.673Z] GET /movie/basic/251 304 4.793 ms
+
+info : [2024-12-06T12:49:12.686Z] GET /movie/basic/248 304 14.999 ms
+
+info : [2024-12-06T12:49:12.693Z] GET /movie/basic/234 304 13.322 ms
+
+info : [2024-12-06T12:49:12.695Z] GET /movie/basic/146 304 14.071 ms
+
+info : [2024-12-06T12:49:12.697Z] GET /movie/basic/233 304 15.545 ms
+
+info : [2024-12-06T12:49:12.707Z] GET /movie/basic/194 304 16.310 ms
+
+info : [2024-12-06T12:49:12.713Z] GET /movie/basic/208 304 21.684 ms
+
+info : [2024-12-06T12:49:12.754Z] GET /movie/basic/232 304 53.831 ms
+
+info : [2024-12-06T12:49:12.804Z] GET /movie/basic/251 304 29.968 ms
+
+info : [2024-12-06T12:49:12.814Z] GET /movie/basic/209 304 103.893 ms
+
+info : [2024-12-06T12:49:12.824Z] GET /movie/basic/235 304 52.774 ms
+
+info : [2024-12-06T12:49:12.843Z] GET /movie/basic/248 304 61.015 ms
+
+info : [2024-12-06T12:49:18.423Z] GET /movie/chart 304 1.003 ms
+
+info : [2024-12-06T12:49:18.507Z] GET /movie/basic/146 304 11.796 ms
+
+info : [2024-12-06T12:49:18.510Z] GET /movie/basic/232 304 9.949 ms
+
+info : [2024-12-06T12:49:18.512Z] GET /movie/basic/194 304 10.447 ms
+
+info : [2024-12-06T12:49:18.513Z] GET /movie/basic/251 304 10.614 ms
+
+info : [2024-12-06T12:49:18.517Z] GET /movie/basic/248 304 12.348 ms
+
+info : [2024-12-06T12:49:18.527Z] GET /movie/basic/234 304 7.067 ms
+
+info : [2024-12-06T12:49:18.530Z] GET /movie/basic/233 304 7.121 ms
+
+info : [2024-12-06T12:49:18.547Z] GET /movie/basic/208 304 13.216 ms
+
+info : [2024-12-06T12:49:18.554Z] GET /movie/basic/209 304 15.079 ms
+
+info : [2024-12-06T12:49:18.562Z] GET /movie/basic/235 304 22.762 ms
+
+info : [2024-12-06T12:49:18.576Z] GET /movie/basic/146 304 35.279 ms
+
+info : [2024-12-06T12:49:18.581Z] GET /movie/basic/194 304 39.593 ms
+
+info : [2024-12-06T12:49:18.593Z] GET /movie/basic/232 304 47.794 ms
+
+info : [2024-12-06T12:49:18.656Z] GET /movie/basic/251 304 63.401 ms
+
+info : [2024-12-06T12:49:18.671Z] GET /movie/basic/248 304 54.604 ms
+
+info : [2024-12-06T12:49:18.687Z] GET /movie/basic/232 304 23.307 ms
+
+info : [2024-12-06T12:49:18.694Z] GET /movie/basic/234 304 30.017 ms
+
+info : [2024-12-06T12:49:18.698Z] GET /movie/basic/233 304 29.907 ms
+
+info : [2024-12-06T12:49:18.708Z] GET /movie/basic/208 304 35.029 ms
+
+info : [2024-12-06T12:49:18.717Z] GET /movie/basic/209 304 31.701 ms
+
+info : [2024-12-06T12:49:18.741Z] GET /movie/basic/235 304 29.691 ms
+
+info : [2024-12-06T12:49:18.744Z] GET /movie/basic/146 304 19.543 ms
+
+info : [2024-12-06T12:49:18.765Z] GET /movie/basic/194 304 34.617 ms
+
+info : [2024-12-06T12:49:18.768Z] GET /movie/basic/251 304 37.532 ms
+
+info : [2024-12-06T12:49:18.775Z] GET /movie/basic/248 304 43.414 ms
+

@@ -2,8 +2,9 @@ import mysql from "mysql2/promise";
 import dotenv from "dotenv";
 
 // dotenv는 현재 Node.js 프로세스의 루트 디렉토리
-// console.log(process.cwd());
-dotenv.config({ path: "./server/.env" });
+// console.log(process.cwd())
+dotenv.config();
+// console.log(process.env.DB_USER);
 
 // 새로운 Pool 생성
 let pool = await mysql.createPool({
@@ -19,31 +20,21 @@ let pool = await mysql.createPool({
   enableKeepAlive: true, // false by default
 });
 
-// getConnection을 사용하여 Connection을 가져오는 함수
-const getConnection = async () => {
+// MySQL 연결 확인 함수
+const testConnection = async () => {
   try {
-    const connection = await pool.getConnection(); // getConnection()은 Promise를 반환합니다.
-    return connection;
+    const conn = await pool.getConnection();
+
+    console.log("Database connection successful");
+
+    conn.release();
   } catch (err) {
-    console.error("getConnection error:\n", err);
-
-    if (err.code === "PROTOCOL_CONNECTION_LOST") {
-      console.log("Connection lost. Reconnecting...");
-
-      try {
-        // 연결이 끊긴 경우 재시도
-        const newConnection = await pool.getConnection();
-
-        return newConnection;
-      } catch (reConnErr) {
-        console.error("Reconnection failed:", reConnErr);
-
-        throw reConnErr; // 재시도도 실패하면 에러를 다시 throw하여 상위로 전파
-      }
-    } else {
-      throw err; // 다른 에러는 그대로 상위로 전파
-    }
+    console.error("Database connection failed:", err);
+    throw err;
   }
 };
 
-export default getConnection;
+// 테스트 실행
+await testConnection();
+
+export default pool;

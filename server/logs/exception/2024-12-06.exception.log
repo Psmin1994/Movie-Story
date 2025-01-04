@@ -1,0 +1,39 @@
+2024-12-06 00:12:09 [Movie-Story] error : uncaughtException: se is not defined
+ReferenceError: se is not defined
+    at file:///C:/workspace/project/Movie-Story/server/src/controllers/auth.controller.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2024-12-06 00:12:03 [Movie-Story] error : uncaughtException: Cannot read properties of undefined (reading 'id')
+TypeError: Cannot read properties of undefined (reading 'id')
+    at file:///C:/workspace/project/Movie-Story/server/src/controllers/auth.controller.js:30:72
+    at strategy.error (C:\workspace\project\Movie-Story\server\node_modules\passport\lib\middleware\authenticate.js:370:18)
+    at C:\workspace\project\Movie-Story\server\node_modules\passport-oauth2\lib\strategy.js:178:43
+    at C:\workspace\project\Movie-Story\server\node_modules\oauth\lib\oauth2.js:214:7
+    at passBackControl (C:\workspace\project\Movie-Story\server\node_modules\oauth\lib\oauth2.js:134:9)
+    at IncomingMessage.<anonymous> (C:\workspace\project\Movie-Story\server\node_modules\oauth\lib\oauth2.js:157:7)
+    at IncomingMessage.emit (node:events:530:35)
+    at endReadableNT (node:internal/streams/readable:1698:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+2024-12-06 01:12:26 [Movie-Story] error : uncaughtException: Generate access token fail
+Error: Generate access token fail
+    at createTokenError (file:///C:/workspace/project/Movie-Story/server/src/utils/token.util.js:5:17)
+    at Object.generateAccessToken (file:///C:/workspace/project/Movie-Story/server/src/utils/token.util.js:19:7)
+    at file:///C:/workspace/project/Movie-Story/server/src/controllers/auth.controller.js:34:47
+    at strategy.success (C:\workspace\project\Movie-Story\server\node_modules\passport\lib\middleware\authenticate.js:222:18)
+    at verified (C:\workspace\project\Movie-Story\server\node_modules\passport-oauth2\lib\strategy.js:189:20)
+    at Strategy._verify (file:///C:/workspace/project/Movie-Story/server/src/passport/naverStrategy.js:26:16)
+    at C:\workspace\project\Movie-Story\server\node_modules\passport-oauth2\lib\strategy.js:205:24
+    at C:\workspace\project\Movie-Story\server\node_modules\passport-naver-v2\build\strategy.js:87:17
+    at passBackControl (C:\workspace\project\Movie-Story\server\node_modules\oauth\lib\oauth2.js:134:9)
+    at IncomingMessage.<anonymous> (C:\workspace\project\Movie-Story\server\node_modules\oauth\lib\oauth2.js:157:7)
+2024-12-06 02:12:17 [Movie-Story] error : uncaughtException: server is not defined
+ReferenceError: server is not defined
+    at process.<anonymous> (file:///C:/workspace/project/Movie-Story/server/bin/www.js:32:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2024-12-06 18:12:15 [Movie-Story] error : uncaughtException: server is not defined
+ReferenceError: server is not defined
+    at process.<anonymous> (file:///C:/workspace/project/Movie-Story/server/bin/www.js:32:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+error : uncaughtException: server is not defined
+ReferenceError: server is not defined
+    at process.<anonymous> (file:///C:/workspace/project/Movie-Story/server/bin/www.js:32:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)

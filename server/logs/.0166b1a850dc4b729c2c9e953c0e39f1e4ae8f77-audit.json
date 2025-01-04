@@ -6,34 +6,74 @@
     "auditLog": "C:\\workspace\\project\\Movie-Story\\server\\logs\\.0166b1a850dc4b729c2c9e953c0e39f1e4ae8f77-audit.json",
     "files": [
         {
-            "date": 1715039053344,
-            "name": "C:\\workspace\\project\\Movie-Story\\server\\logs\\2024-05-07.info.log",
-            "hash": "8b272446b0c097307d93ee61cb2b42fbebd94f887cd33559b1111365ed6d6f9f"
+            "date": 1732722192279,
+            "name": "C:\\workspace\\project\\Movie-Story\\server\\logs\\2024-11-28.info.log",
+            "hash": "cffb4b1d32bcb0866722920021b6d0919a3a1344f0e62a57a0863222fa69d197"
         },
         {
-            "date": 1720117085743,
-            "name": "C:\\workspace\\project\\Movie-Story\\server\\logs\\2024-07-05.info.log",
-            "hash": "6e2156744417660a78fcaa68b4515a89d1165e75ecff2d9755724f8af0d9079e"
+            "date": 1732956149413,
+            "name": "C:\\workspace\\project\\Movie-Story\\server\\logs\\2024-11-30.info.log",
+            "hash": "aa54c1deca6956b1934f94415bfa8bd13dd7cf2d5db45de513234b3f155a984e"
         },
         {
-            "date": 1720554191649,
-            "name": "C:\\workspace\\project\\Movie-Story\\server\\logs\\2024-07-10.info.log",
-            "hash": "9ae8542641ad02721e00c2f8e1c39bb92b2731041af66cdbc5abbb1f1232dafd"
+            "date": 1732983168689,
+            "name": "C:\\workspace\\project\\Movie-Story\\server\\logs\\2024-12-01.info.log",
+            "hash": "d923312906f1e19fa858e266c018deb85805a930df93dcda71626a8799cc0000"
         },
         {
-            "date": 1721487461693,
-            "name": "C:\\workspace\\project\\Movie-Story\\server\\logs\\2024-07-20.info.log",
-            "hash": "a11115f0edfef31ef2e32deca56de3dc6bdfee99fc0a46741e40b23d8b87b06f"
+            "date": 1733129242529,
+            "name": "C:\\workspace\\project\\Movie-Story\\server\\logs\\2024-12-02.info.log",
+            "hash": "8a8e326ee1f4e8dbf46e8feac7027f5a6366aec383c99fff14cf39ebd2ce58a6"
         },
         {
-            "date": 1721487602275,
-            "name": "C:\\workspace\\project\\Movie-Story\\server\\logs\\2024-07-21.info.log",
-            "hash": "464de0e863d930b9297dd6accae8c25a18bcb945300f538e30a89bd7139b8e74"
+            "date": 1733217883279,
+            "name": "C:\\workspace\\project\\Movie-Story\\server\\logs\\2024-12-03.info.log",
+            "hash": "54c640b0b5a1b78bd842f273fb8636906beb134ff336ff95a073a3edf3bc8b06"
         },
         {
-            "date": 1721584559938,
-            "name": "C:\\workspace\\project\\Movie-Story\\server\\logs\\2024-07-22.info.log",
-            "hash": "1b3dd8c88a5fff7969f934ef2f06f8e6576cecb7291e208c7e6f40f196179561"
+            "date": 1733341005445,
+            "name": "C:\\workspace\\project\\Movie-Story\\server\\logs\\2024-12-05.info.log",
+            "hash": "c401365d4a4043b79bd2b85e6774ececa43cce6c8dfdcf801c63deba110fdca9"
+        },
+        {
+            "date": 1733411418679,
+            "name": "C:\\workspace\\project\\Movie-Story\\server\\logs\\2024-12-06.info.log",
+            "hash": "d463f100d7ab1d7ead0e745ee089b438e47d61dc5876d20d85a2927cb4332a29"
+        },
+        {
+            "date": 1733744372998,
+            "name": "C:\\workspace\\project\\Movie-Story\\server\\logs\\2024-12-09.info.log",
+            "hash": "6cce4ce4546a07ded4cccecec24c53c72023684650165707200fa448061273f3"
+        },
+        {
+            "date": 1733832495681,
+            "name": "C:\\workspace\\project\\Movie-Story\\server\\logs\\2024-12-10.info.log",
+            "hash": "5dc522a45bb203575a065a6b0da3bdf9e963b1d18a756ba7e9ca24d9846bbe7e"
+        },
+        {
+            "date": 1733849387042,
+            "name": "C:\\workspace\\project\\Movie-Story\\server\\logs\\2024-12-11.info.log",
+            "hash": "5ed81abef1b349dc39daf96453a591ee88f86d38d8510701ea9953b33546f210"
+        },
+        {
+            "date": 1734449339318,
+            "name": "C:\\workspace\\project\\Movie-Story\\server\\logs\\2024-12-18.info.log",
+            "hash": "3727883fd1021f9587b5034a519e114c3b85e90a59378bd0c58d5c385dc6e93f"
+        },
+        {
+            "date": 1734560996681,
+            "name": "C:\\workspace\\project\\Movie-Story\\server\\logs\\2024-12-19.info.log",
+            "hash": "0f22bbd37fcdb6ee55c0a68fee9c589699c15d43bad310538aa042b95127964a"
+        },
+        {
+            "date": 1734640403574,
+            "name": "C:\\workspace\\project\\Movie-Story\\server\\logs\\2024-12-20.info.log",
+            "hash": "76eb518ed52e3942342bb4fc32c9546d026dc1e7d135336e91367681a233c392"
+        },
+        {
+            "date": 1734897245168,
+            "name": "C:\\workspace\\project\\Movie-Story\\server\\logs\\2024-12-23.info.log",
+            "hash": "8894146d4b7ffa2499434017549c58e25b95bf05a072a1bd4c9d98fb2d7db654"
         }
     ],
     "hashType": "sha256"

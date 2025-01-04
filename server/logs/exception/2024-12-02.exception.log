@@ -1,0 +1,76 @@
+2024-12-02 17:12:88 [Movie-Story] error : uncaughtException: user is not defined
+ReferenceError: user is not defined
+    at file:///C:/workspace/project/Movie-Story/server/src/middleware/token.verify.js:9:5
+    at allFailed (C:\workspace\project\Movie-Story\server\node_modules\passport\lib\middleware\authenticate.js:110:18)
+    at attempt (C:\workspace\project\Movie-Story\server\node_modules\passport\lib\middleware\authenticate.js:183:28)
+    at strategy.fail (C:\workspace\project\Movie-Story\server\node_modules\passport\lib\middleware\authenticate.js:314:9)
+    at C:\workspace\project\Movie-Story\server\node_modules\passport-jwt\lib\strategy.js:106:33
+    at C:\workspace\project\Movie-Story\server\node_modules\jsonwebtoken\verify.js:190:16
+    at getSecret (C:\workspace\project\Movie-Story\server\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\workspace\project\Movie-Story\server\node_modules\jsonwebtoken\verify.js:101:10)
+    at module.exports [as JwtVerifier] (C:\workspace\project\Movie-Story\server\node_modules\passport-jwt\lib\verify_jwt.js:4:16)
+    at C:\workspace\project\Movie-Story\server\node_modules\passport-jwt\lib\strategy.js:104:25
+2024-12-02 17:12:11 [Movie-Story] error : uncaughtException: user is not defined
+ReferenceError: user is not defined
+    at file:///C:/workspace/project/Movie-Story/server/src/middleware/token.verify.js:9:5
+    at allFailed (C:\workspace\project\Movie-Story\server\node_modules\passport\lib\middleware\authenticate.js:110:18)
+    at attempt (C:\workspace\project\Movie-Story\server\node_modules\passport\lib\middleware\authenticate.js:183:28)
+    at strategy.fail (C:\workspace\project\Movie-Story\server\node_modules\passport\lib\middleware\authenticate.js:314:9)
+    at C:\workspace\project\Movie-Story\server\node_modules\passport-jwt\lib\strategy.js:106:33
+    at C:\workspace\project\Movie-Story\server\node_modules\jsonwebtoken\verify.js:190:16
+    at getSecret (C:\workspace\project\Movie-Story\server\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\workspace\project\Movie-Story\server\node_modules\jsonwebtoken\verify.js:101:10)
+    at module.exports [as JwtVerifier] (C:\workspace\project\Movie-Story\server\node_modules\passport-jwt\lib\verify_jwt.js:4:16)
+    at C:\workspace\project\Movie-Story\server\node_modules\passport-jwt\lib\strategy.js:104:25
+2024-12-02 17:12:81 [Movie-Story] error : uncaughtException: user is not defined
+ReferenceError: user is not defined
+    at file:///C:/workspace/project/Movie-Story/server/src/middleware/token.verify.js:9:5
+    at allFailed (C:\workspace\project\Movie-Story\server\node_modules\passport\lib\middleware\authenticate.js:110:18)
+    at attempt (C:\workspace\project\Movie-Story\server\node_modules\passport\lib\middleware\authenticate.js:183:28)
+    at strategy.fail (C:\workspace\project\Movie-Story\server\node_modules\passport\lib\middleware\authenticate.js:314:9)
+    at C:\workspace\project\Movie-Story\server\node_modules\passport-jwt\lib\strategy.js:106:33
+    at C:\workspace\project\Movie-Story\server\node_modules\jsonwebtoken\verify.js:190:16
+    at getSecret (C:\workspace\project\Movie-Story\server\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\workspace\project\Movie-Story\server\node_modules\jsonwebtoken\verify.js:101:10)
+    at module.exports [as JwtVerifier] (C:\workspace\project\Movie-Story\server\node_modules\passport-jwt\lib\verify_jwt.js:4:16)
+    at C:\workspace\project\Movie-Story\server\node_modules\passport-jwt\lib\strategy.js:104:25
+2024-12-02 17:12:94 [Movie-Story] error : uncaughtException: user is not defined
+ReferenceError: user is not defined
+    at file:///C:/workspace/project/Movie-Story/server/src/middleware/token.verify.js:9:5
+    at allFailed (C:\workspace\project\Movie-Story\server\node_modules\passport\lib\middleware\authenticate.js:110:18)
+    at attempt (C:\workspace\project\Movie-Story\server\node_modules\passport\lib\middleware\authenticate.js:183:28)
+    at strategy.fail (C:\workspace\project\Movie-Story\server\node_modules\passport\lib\middleware\authenticate.js:314:9)
+    at C:\workspace\project\Movie-Story\server\node_modules\passport-jwt\lib\strategy.js:106:33
+    at C:\workspace\project\Movie-Story\server\node_modules\jsonwebtoken\verify.js:190:16
+    at getSecret (C:\workspace\project\Movie-Story\server\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\workspace\project\Movie-Story\server\node_modules\jsonwebtoken\verify.js:101:10)
+    at module.exports [as JwtVerifier] (C:\workspace\project\Movie-Story\server\node_modules\passport-jwt\lib\verify_jwt.js:4:16)
+    at C:\workspace\project\Movie-Story\server\node_modules\passport-jwt\lib\strategy.js:104:25
+2024-12-02 17:12:03 [Movie-Story] error : uncaughtException: user is not defined
+ReferenceError: user is not defined
+    at file:///C:/workspace/project/Movie-Story/server/src/middleware/token.verify.js:9:5
+    at allFailed (C:\workspace\project\Movie-Story\server\node_modules\passport\lib\middleware\authenticate.js:110:18)
+    at attempt (C:\workspace\project\Movie-Story\server\node_modules\passport\lib\middleware\authenticate.js:183:28)
+    at strategy.fail (C:\workspace\project\Movie-Story\server\node_modules\passport\lib\middleware\authenticate.js:314:9)
+    at C:\workspace\project\Movie-Story\server\node_modules\passport-jwt\lib\strategy.js:106:33
+    at C:\workspace\project\Movie-Story\server\node_modules\jsonwebtoken\verify.js:190:16
+    at getSecret (C:\workspace\project\Movie-Story\server\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\workspace\project\Movie-Story\server\node_modules\jsonwebtoken\verify.js:101:10)
+    at module.exports [as JwtVerifier] (C:\workspace\project\Movie-Story\server\node_modules\passport-jwt\lib\verify_jwt.js:4:16)
+    at C:\workspace\project\Movie-Story\server\node_modules\passport-jwt\lib\strategy.js:104:25
+2024-12-02 17:12:04 [Movie-Story] error : uncaughtException: server is not defined
+ReferenceError: server is not defined
+    at process.<anonymous> (file:///C:/workspace/project/Movie-Story/server/bin/www.js:32:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2024-12-02 18:12:35 [Movie-Story] error : uncaughtException: server is not defined
+ReferenceError: server is not defined
+    at process.<anonymous> (file:///C:/workspace/project/Movie-Story/server/bin/www.js:32:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2024-12-02 19:12:84 [Movie-Story] error : uncaughtException: server is not defined
+ReferenceError: server is not defined
+    at process.<anonymous> (file:///C:/workspace/project/Movie-Story/server/bin/www.js:32:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2024-12-02 20:12:21 [Movie-Story] error : uncaughtException: server is not defined
+ReferenceError: server is not defined
+    at process.<anonymous> (file:///C:/workspace/project/Movie-Story/server/bin/www.js:32:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)

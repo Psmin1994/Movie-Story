@@ -1,0 +1,66 @@
+error : uncaughtException: read ECONNRESET
+Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:216:20)
+error : uncaughtException: server is not defined
+ReferenceError: server is not defined
+    at process.<anonymous> (file:///C:/workspace/project/Movie-Story/server/bin/www.js:32:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+error : uncaughtException: Invalid argument type
+TypeError: Invalid argument type
+    at encodeCommand (C:\workspace\project\Movie-Story\server\node_modules\@redis\client\dist\lib\client\RESP2\encoder.js:17:19)
+    at RedisCommandsQueue.getCommandToSend (C:\workspace\project\Movie-Story\server\node_modules\@redis\client\dist\lib\client\commands-queue.js:138:45)
+    at Commander._RedisClient_tick (C:\workspace\project\Movie-Story\server\node_modules\@redis\client\dist\lib\client\index.js:545:76)
+    at Commander._RedisClient_sendCommand (C:\workspace\project\Movie-Story\server\node_modules\@redis\client\dist\lib\client\index.js:532:82)
+    at Commander.commandsExecutor (C:\workspace\project\Movie-Story\server\node_modules\@redis\client\dist\lib\client\index.js:190:154)
+    at BaseClass.<computed> [as set] (C:\workspace\project\Movie-Story\server\node_modules\@redis\client\dist\lib\commander.js:8:29)
+    at Object.generateRefreshToken (file:///C:/workspace/project/Movie-Story/server/src/utils/token.util.js:31:19)
+    at file:///C:/workspace/project/Movie-Story/server/src/controllers/auth.controller.js:85:48
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+error : uncaughtException: Invalid argument type
+TypeError: Invalid argument type
+    at encodeCommand (C:\workspace\project\Movie-Story\server\node_modules\@redis\client\dist\lib\client\RESP2\encoder.js:17:19)
+    at RedisCommandsQueue.getCommandToSend (C:\workspace\project\Movie-Story\server\node_modules\@redis\client\dist\lib\client\commands-queue.js:138:45)
+    at Commander._RedisClient_tick (C:\workspace\project\Movie-Story\server\node_modules\@redis\client\dist\lib\client\index.js:545:76)
+    at Commander._RedisClient_sendCommand (C:\workspace\project\Movie-Story\server\node_modules\@redis\client\dist\lib\client\index.js:532:82)
+    at Commander.commandsExecutor (C:\workspace\project\Movie-Story\server\node_modules\@redis\client\dist\lib\client\index.js:190:154)
+    at BaseClass.<computed> [as set] (C:\workspace\project\Movie-Story\server\node_modules\@redis\client\dist\lib\commander.js:8:29)
+    at Object.generateRefreshToken (file:///C:/workspace/project/Movie-Story/server/src/utils/token.util.js:31:19)
+    at file:///C:/workspace/project/Movie-Story/server/src/controllers/auth.controller.js:85:48
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+error : uncaughtException: Invalid argument type
+TypeError: Invalid argument type
+    at encodeCommand (C:\workspace\project\Movie-Story\server\node_modules\@redis\client\dist\lib\client\RESP2\encoder.js:17:19)
+    at RedisCommandsQueue.getCommandToSend (C:\workspace\project\Movie-Story\server\node_modules\@redis\client\dist\lib\client\commands-queue.js:138:45)
+    at Commander._RedisClient_tick (C:\workspace\project\Movie-Story\server\node_modules\@redis\client\dist\lib\client\index.js:545:76)
+    at Commander._RedisClient_sendCommand (C:\workspace\project\Movie-Story\server\node_modules\@redis\client\dist\lib\client\index.js:532:82)
+    at Commander.commandsExecutor (C:\workspace\project\Movie-Story\server\node_modules\@redis\client\dist\lib\client\index.js:190:154)
+    at BaseClass.<computed> [as set] (C:\workspace\project\Movie-Story\server\node_modules\@redis\client\dist\lib\commander.js:8:29)
+    at Object.generateRefreshToken (file:///C:/workspace/project/Movie-Story/server/src/utils/token.util.js:31:19)
+    at file:///C:/workspace/project/Movie-Story/server/src/controllers/auth.controller.js:89:48
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+error : uncaughtException: Invalid argument type
+TypeError: Invalid argument type
+    at encodeCommand (C:\workspace\project\Movie-Story\server\node_modules\@redis\client\dist\lib\client\RESP2\encoder.js:17:19)
+    at RedisCommandsQueue.getCommandToSend (C:\workspace\project\Movie-Story\server\node_modules\@redis\client\dist\lib\client\commands-queue.js:138:45)
+    at Commander._RedisClient_tick (C:\workspace\project\Movie-Story\server\node_modules\@redis\client\dist\lib\client\index.js:545:76)
+    at Commander._RedisClient_sendCommand (C:\workspace\project\Movie-Story\server\node_modules\@redis\client\dist\lib\client\index.js:532:82)
+    at Commander.commandsExecutor (C:\workspace\project\Movie-Story\server\node_modules\@redis\client\dist\lib\client\index.js:190:154)
+    at BaseClass.<computed> [as set] (C:\workspace\project\Movie-Story\server\node_modules\@redis\client\dist\lib\commander.js:8:29)
+    at Object.generateRefreshToken (file:///C:/workspace/project/Movie-Story/server/src/utils/token.util.js:31:19)
+    at file:///C:/workspace/project/Movie-Story/server/src/controllers/auth.controller.js:85:48
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+error : uncaughtException: Invalid argument type
+TypeError: Invalid argument type
+    at encodeCommand (C:\workspace\project\Movie-Story\server\node_modules\@redis\client\dist\lib\client\RESP2\encoder.js:17:19)
+    at RedisCommandsQueue.getCommandToSend (C:\workspace\project\Movie-Story\server\node_modules\@redis\client\dist\lib\client\commands-queue.js:138:45)
+    at Commander._RedisClient_tick (C:\workspace\project\Movie-Story\server\node_modules\@redis\client\dist\lib\client\index.js:545:76)
+    at Commander._RedisClient_sendCommand (C:\workspace\project\Movie-Story\server\node_modules\@redis\client\dist\lib\client\index.js:532:82)
+    at Commander.commandsExecutor (C:\workspace\project\Movie-Story\server\node_modules\@redis\client\dist\lib\client\index.js:190:154)
+    at BaseClass.<computed> [as set] (C:\workspace\project\Movie-Story\server\node_modules\@redis\client\dist\lib\commander.js:8:29)
+    at Object.generateRefreshToken (file:///C:/workspace/project/Movie-Story/server/src/utils/token.util.js:31:19)
+    at file:///C:/workspace/project/Movie-Story/server/src/controllers/auth.controller.js:85:48
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+error : uncaughtException: server is not defined
+ReferenceError: server is not defined
+    at process.<anonymous> (file:///C:/workspace/project/Movie-Story/server/bin/www.js:32:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)

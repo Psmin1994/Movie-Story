@@ -1,6 +1,0 @@
-2024-07-20 23:07:97 [Movie-Story] info : [Sat, 20 Jul 2024 14:58:28 GMT] GET /movie 200 866.024 ms
-
-2024-07-20 23:07:29 [Movie-Story] info : [Sat, 20 Jul 2024 14:58:29 GMT] GET /favicon.ico 404 5.076 ms
-
-2024-07-20 23:07:28 [Movie-Story] info : [Sat, 20 Jul 2024 14:58:38 GMT] GET / 200 1.222 ms
-

@@ -1,0 +1,8 @@
+error : uncaughtException: server is not defined
+ReferenceError: server is not defined
+    at process.<anonymous> (file:///C:/workspace/project/Movie-Story/server/bin/www.js:32:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+error : uncaughtException: server is not defined
+ReferenceError: server is not defined
+    at process.shutdown (file:///C:/workspace/project/Movie-Story/server/bin/www.js:31:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
