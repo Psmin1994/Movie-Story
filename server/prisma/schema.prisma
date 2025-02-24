@@ -1,0 +1,108 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "mysql"
+  url      = env("DATABASE_URL")
+}
+
+model actor {
+  actor_id        Int               @id @unique(map: "actor_id_UNIQUE") @default(autoincrement())
+  profile         String           @db.VarChar(300)
+  name            String            @db.VarChar(45)
+  movie_and_actor movie_and_actor[]
+}
+
+model director {
+  director_id        Int                  @id @unique(map: "director_id_UNIQUE") @default(autoincrement())
+  profile            String              @db.VarChar(300)
+  name               String               @db.VarChar(45)
+  movie_and_director movie_and_director[]
+}
+
+model genre {
+  genre_id        Int               @id @unique(map: "genre_id_UNIQUE") @default(autoincrement())
+  name            String            @db.VarChar(45) @unique(map: "name_UNIQUE")
+  movie_and_genre movie_and_genre[]
+}
+
+model movie {
+  movie_id           Int                  @id @unique(map: "movie_id_UNIQUE") @default(autoincrement())
+  movie_nm           String               @unique(map: "movie_nm_UNIQUE") @db.VarChar(45)
+  open_date          DateTime             @db.Date
+  poster             String               @db.VarChar(300)
+  movie_info movie_info?
+  movie_and_actor    movie_and_actor[]
+  movie_and_director movie_and_director[]
+  movie_and_genre    movie_and_genre[]
+}
+
+model movie_info {
+  movie_id           Int                  @id @unique(map: "movie_id_UNIQUE")
+  movie_nm_en        String               @db.VarChar(100)
+  nation             String               @db.VarChar(45)
+  showtime           Int                  @db.SmallInt
+  summary            String?              @db.Text
+  still_cut          String?              @db.Text
+  
+  movie     movie   @relation(fields: [movie_id], references: [movie_id], onDelete: Cascade, onUpdate: Cascade, map: "fk_movie_info_movie1")
+  @@index([movie_id], map: "fk_movie_info_movie1_idx")
+}
+
+model movie_and_actor {
+  movie_id Int
+  actor_id Int
+  movie    movie @relation(fields: [movie_id], references: [movie_id], onDelete: Cascade, onUpdate: Cascade, map: "fk-movie-actor-1")
+  actor    actor @relation(fields: [actor_id], references: [actor_id], onDelete: Cascade, onUpdate: Cascade, map: "fk-movie-actor-2")
+
+  @@id([movie_id, actor_id])
+  @@index([actor_id], map: "fk-actor_id_idx")
+}
+
+model movie_and_director {
+  movie_id    Int
+  director_id Int
+  movie       movie    @relation(fields: [movie_id], references: [movie_id], onDelete: Cascade, onUpdate: Cascade, map: "fk-movie-director-1")
+  director    director @relation(fields: [director_id], references: [director_id], onDelete: Cascade, onUpdate: Cascade, map: "fk-movie-director-2")
+
+  @@id([movie_id, director_id])
+  @@index([director_id], map: "fk-movie_idx")
+}
+
+model movie_and_genre {
+  movie_id Int
+  genre_id Int
+  movie    movie @relation(fields: [movie_id], references: [movie_id], onDelete: Cascade, onUpdate: Cascade, map: "fk-movie-genre-1")
+  genre    genre @relation(fields: [genre_id], references: [genre_id], onDelete: Cascade, onUpdate: Cascade, map: "fk-movie-genre-2")
+
+  @@id([movie_id, genre_id])
+  @@index([genre_id], map: "fk-genre-id_idx")
+}
+
+model oauth_user {
+  oauth_id         Int      @id @unique(map: "oauth_id_UNIQUE") @default(autoincrement())
+  provider         String   @db.VarChar(45)
+  provider_user_id String   @db.VarChar(255) @unique(map: "provider_user_id_UNIQUE")
+  nickname         String?  @db.VarChar(255)
+  email            String?  @db.VarChar(255)
+  created_at       DateTime @default(now()) @db.Timestamp(0)
+  updated_at       DateTime @default(now()) @db.Timestamp(0)
+  access_token     String?  @db.Text
+  refresh_token    String?  @db.Text
+}
+
+model user {
+  user_id  Int       @id @unique(map: "user_id_UNIQUE") @default(autoincrement())
+  id       String    @unique(map: "id_UNIQUE") @db.VarChar(45)
+  password String    @db.VarChar(100)
+  user_info user_info?
+}
+
+model user_info {
+  user_id  Int    @id @unique(map: "user_id_UNIQUE")
+  nickname String @db.VarChar(45)
+  user     user   @relation(fields: [user_id], references: [user_id], onDelete: Cascade, onUpdate: Cascade, map: "fk_user_info_user1")
+
+  @@index([user_id], map: "fk_user_info_user1_idx")
+}

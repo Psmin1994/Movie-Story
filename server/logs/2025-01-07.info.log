@@ -1,0 +1,1292 @@
+info : [2025-01-06T18:45:23.050Z] GET /user/info 401 5.481 ms
+
+info : [2025-01-06T18:45:23.064Z] GET /movie/chart 200 3.327 ms
+
+info : [2025-01-06T18:45:23.520Z] GET /movie/basic/271 200 319.631 ms
+
+info : [2025-01-06T18:45:23.525Z] GET /movie/basic/234 200 378.754 ms
+
+info : [2025-01-06T18:45:23.528Z] GET /movie/basic/265 200 321.704 ms
+
+info : [2025-01-06T18:45:23.537Z] GET /movie/basic/264 200 359.100 ms
+
+info : [2025-01-06T18:45:23.544Z] GET /movie/basic/267 200 329.408 ms
+
+info : [2025-01-06T18:45:23.588Z] GET /movie/basic/262 200 20.953 ms
+
+info : [2025-01-06T18:45:23.595Z] GET /movie/basic/260 200 28.342 ms
+
+info : [2025-01-06T18:45:23.602Z] GET /movie/basic/251 200 32.089 ms
+
+info : [2025-01-06T18:45:23.606Z] GET /movie/basic/261 200 35.489 ms
+
+info : [2025-01-06T18:45:23.609Z] GET /movie/basic/263 200 36.725 ms
+
+info : [2025-01-06T18:45:23.644Z] GET /movie/basic/271 304 19.689 ms
+
+info : [2025-01-06T18:45:23.648Z] GET /movie/basic/234 304 22.428 ms
+
+info : [2025-01-06T18:45:23.658Z] GET /movie/basic/265 304 30.761 ms
+
+info : [2025-01-06T18:45:23.663Z] GET /movie/basic/264 304 34.896 ms
+
+info : [2025-01-06T18:45:23.678Z] GET /movie/basic/267 304 44.631 ms
+
+info : [2025-01-06T18:45:23.711Z] GET /movie/basic/262 304 39.481 ms
+
+info : [2025-01-06T18:45:23.715Z] GET /movie/basic/260 304 31.766 ms
+
+info : [2025-01-06T18:45:23.725Z] GET /movie/basic/251 304 37.229 ms
+
+info : [2025-01-06T18:45:23.728Z] GET /movie/basic/263 304 32.602 ms
+
+info : [2025-01-06T18:45:23.743Z] GET /movie/basic/261 304 46.977 ms
+
+info : [2025-01-06T18:45:23.826Z] GET /movie/basic/271 304 86.486 ms
+
+info : [2025-01-06T18:45:23.835Z] GET /movie/basic/234 304 85.463 ms
+
+info : [2025-01-06T18:45:23.844Z] GET /movie/basic/265 304 95.671 ms
+
+info : [2025-01-06T18:45:23.871Z] GET /movie/basic/264 304 17.733 ms
+
+info : [2025-01-06T18:45:23.900Z] GET /movie/basic/267 304 41.755 ms
+
+info : [2025-01-06T18:45:25.660Z] GET /user/info 401 0.926 ms
+
+info : [2025-01-06T18:45:31.121Z] GET /movie/chart 304 1.380 ms
+
+info : [2025-01-06T18:45:31.215Z] GET /movie/basic/234 304 5.727 ms
+
+info : [2025-01-06T18:45:31.244Z] GET /movie/basic/264 304 4.830 ms
+
+info : [2025-01-06T18:45:31.256Z] GET /movie/basic/271 304 7.905 ms
+
+info : [2025-01-06T18:45:31.271Z] GET /movie/basic/265 304 18.326 ms
+
+info : [2025-01-06T18:45:31.288Z] GET /movie/basic/262 304 18.107 ms
+
+info : [2025-01-06T18:45:31.295Z] GET /movie/basic/267 304 26.585 ms
+
+info : [2025-01-06T18:45:31.300Z] GET /movie/basic/260 304 19.045 ms
+
+info : [2025-01-06T18:45:31.305Z] GET /movie/basic/261 304 19.011 ms
+
+info : [2025-01-06T18:45:31.393Z] GET /movie/basic/251 304 5.923 ms
+
+info : [2025-01-06T18:45:31.404Z] GET /movie/basic/263 304 5.112 ms
+
+info : [2025-01-06T18:45:31.408Z] GET /movie/basic/234 304 7.649 ms
+
+info : [2025-01-06T18:45:31.426Z] GET /movie/basic/264 304 3.584 ms
+
+info : [2025-01-06T18:45:31.454Z] GET /movie/basic/271 304 2.932 ms
+
+info : [2025-01-06T18:45:31.514Z] GET /movie/basic/265 304 11.366 ms
+
+info : [2025-01-06T18:45:31.524Z] GET /movie/basic/262 304 19.372 ms
+
+info : [2025-01-06T18:45:31.535Z] GET /movie/basic/261 304 13.124 ms
+
+info : [2025-01-06T18:45:31.538Z] GET /movie/basic/267 304 20.516 ms
+
+info : [2025-01-06T18:45:31.552Z] GET /movie/basic/260 304 32.075 ms
+
+info : [2025-01-06T18:45:31.665Z] GET /movie/basic/251 304 6.384 ms
+
+info : [2025-01-06T18:45:31.670Z] GET /movie/basic/263 304 3.012 ms
+
+info : [2025-01-06T18:45:31.683Z] GET /movie/basic/234 304 4.161 ms
+
+info : [2025-01-06T18:45:31.691Z] GET /movie/basic/264 304 5.941 ms
+
+info : [2025-01-06T18:45:31.694Z] GET /movie/basic/271 304 6.790 ms
+
+info : [2025-01-06T18:45:31.746Z] GET /movie/basic/265 304 11.318 ms
+
+info : [2025-01-06T18:45:31.750Z] GET /movie/basic/267 304 8.479 ms
+
+info : [2025-01-06T18:45:35.014Z] GET /movie/262 200 10.245 ms
+
+info : [2025-01-06T18:45:35.091Z] GET /movie/genre/262 200 59.473 ms
+
+info : [2025-01-06T18:45:35.096Z] GET /movie/director/262 200 66.487 ms
+
+info : [2025-01-06T18:45:35.098Z] GET /movie/actor/262 200 70.093 ms
+
+info : [2025-01-07T11:21:59.095Z] GET /video/%EB%B8%94%EB%A3%A8%20%EB%A1%9D_1080x608.mp4 404 11.035 ms
+
+info : [2025-01-07T11:21:59.120Z] GET /user/info 401 9.923 ms
+
+info : [2025-01-07T11:21:59.153Z] GET /movie/chart 500 21.729 ms
+
+info : [2025-01-07T11:25:16.308Z] GET /video/%EB%B8%94%EB%A3%A8%20%EB%A1%9D_1080x608.mp4 404 1.373 ms
+
+info : [2025-01-07T11:25:16.326Z] GET /user/info 401 2.647 ms
+
+info : [2025-01-07T11:25:16.342Z] GET /movie/chart 500 4.547 ms
+
+info : [2025-01-07T11:26:19.534Z] GET /video/%EB%B8%94%EB%A3%A8%20%EB%A1%9D_1080x608.mp4 404 3.626 ms
+
+info : [2025-01-07T11:26:19.537Z] GET /user/info 401 0.880 ms
+
+info : [2025-01-07T11:26:19.550Z] GET /movie/chart 500 5.692 ms
+
+info : [2025-01-07T11:27:01.375Z] GET /video/%EB%B8%94%EB%A3%A8%20%EB%A1%9D_1080x608.mp4 404 6.662 ms
+
+info : [2025-01-07T11:27:01.393Z] GET /user/info 401 6.222 ms
+
+info : [2025-01-07T11:27:01.410Z] GET /movie/chart 500 10.941 ms
+
+info : [2025-01-07T11:42:32.612Z] GET /video/%EB%B8%94%EB%A3%A8%20%EB%A1%9D_1080x608.mp4 404 7.016 ms
+
+info : [2025-01-07T11:42:32.634Z] GET /user/info 401 8.467 ms
+
+info : [2025-01-07T11:42:32.659Z] GET /movie/chart 500 17.347 ms
+
+info : [2025-01-07T11:44:54.846Z] GET /video/%EB%B8%94%EB%A3%A8%20%EB%A1%9D_1080x608.mp4 404 1.059 ms
+
+info : [2025-01-07T11:44:54.856Z] GET /user/info 401 1.462 ms
+
+info : [2025-01-07T11:44:54.865Z] GET /movie/chart 500 4.225 ms
+
+info : [2025-01-07T11:45:03.510Z] GET /video/%EB%B8%94%EB%A3%A8%20%EB%A1%9D_1080x608.mp4 404 1.029 ms
+
+info : [2025-01-07T11:45:03.522Z] GET /user/info 401 1.901 ms
+
+info : [2025-01-07T11:45:03.546Z] GET /movie/chart 500 5.591 ms
+
+info : [2025-01-07T11:47:42.312Z] GET /user/info 401 6.802 ms
+
+info : [2025-01-07T11:47:42.486Z] GET /movie/262 200 162.061 ms
+
+info : [2025-01-07T11:47:42.491Z] GET /movie/genre/262 200 152.264 ms
+
+info : [2025-01-07T11:47:42.498Z] GET /movie/director/262 200 162.460 ms
+
+info : [2025-01-07T11:47:42.501Z] GET /movie/actor/262 200 170.607 ms
+
+info : [2025-01-07T11:47:42.558Z] GET /img/movie/FIREFIGHTERS/poster/FIREFIGHTERS.jpg 404 3.964 ms
+
+info : [2025-01-07T11:47:42.752Z] GET /img/director/%EA%B3%BD%EA%B2%BD%ED%83%9D.jpg 404 0.764 ms
+
+info : [2025-01-07T11:47:42.764Z] GET /img/actor/%EC%9C%A0%EC%9E%AC%EB%AA%85.jpg 404 4.190 ms
+
+info : [2025-01-07T11:47:42.767Z] GET /img/actor/%EC%98%A4%EB%8C%80%ED%99%98.jpg 404 7.001 ms
+
+info : [2025-01-07T11:47:42.774Z] GET /img/actor/%EC%9E%A5%EC%98%81%EB%82%A8.jpg 404 4.263 ms
+
+info : [2025-01-07T11:47:42.777Z] GET /img/actor/%EC%A3%BC%EC%9B%90.jpg 404 5.478 ms
+
+info : [2025-01-07T11:47:42.781Z] GET /img/actor/%EA%B3%BD%EB%8F%84%EC%9B%90.jpg 404 9.120 ms
+
+info : [2025-01-07T11:47:42.789Z] GET /img/actor/%EC%9D%B4%EC%9C%A0%EC%98%81.jpg 404 5.274 ms
+
+info : [2025-01-07T11:47:42.799Z] GET /img/actor/%EA%B9%80%EB%AF%BC%EC%9E%AC.png 404 7.941 ms
+
+info : [2025-01-07T11:47:42.802Z] GET /img/actor/%EC%9D%B4%EC%A4%80%ED%98%81.png 404 9.786 ms
+
+info : [2025-01-07T11:47:42.811Z] GET /img/actor/%EA%B9%80%ED%95%9C%EC%86%94.jpeg 404 6.190 ms
+
+info : [2025-01-07T11:47:45.723Z] GET /movie/chart 500 4.515 ms
+
+info : [2025-01-07T11:47:45.765Z] GET /video/%EB%B8%94%EB%A3%A8%20%EB%A1%9D_1080x608.mp4 404 0.711 ms
+
+info : [2025-01-07T11:48:29.213Z] GET /video/%EB%B8%94%EB%A3%A8%20%EB%A1%9D_1080x608.mp4 404 5.727 ms
+
+info : [2025-01-07T11:48:29.273Z] GET /user/info 401 8.605 ms
+
+info : [2025-01-07T11:48:29.301Z] GET /movie/chart 500 9.611 ms
+
+info : [2025-01-07T11:48:59.408Z] GET /video/%EB%B8%94%EB%A3%A8%20%EB%A1%9D_1080x608.mp4 404 6.099 ms
+
+info : [2025-01-07T11:48:59.421Z] GET /user/info 401 4.284 ms
+
+info : [2025-01-07T11:48:59.438Z] GET /movie/chart 500 11.641 ms
+
+info : [2025-01-07T11:49:27.826Z] GET /video/%EB%B8%94%EB%A3%A8%20%EB%A1%9D_1080x608.mp4 404 8.940 ms
+
+info : [2025-01-07T11:49:27.845Z] GET /user/info 401 5.701 ms
+
+info : [2025-01-07T11:49:27.869Z] GET /movie/chart 200 5.037 ms
+
+info : [2025-01-07T11:49:27.977Z] GET /movie/basic/234 200 40.206 ms
+
+info : [2025-01-07T11:49:28.035Z] GET /movie/basic/264 200 80.732 ms
+
+info : [2025-01-07T11:49:28.077Z] GET /movie/basic/262 200 61.306 ms
+
+info : [2025-01-07T11:49:28.092Z] GET /movie/basic/271 200 130.527 ms
+
+info : [2025-01-07T11:49:28.142Z] GET /movie/basic/265 200 132.427 ms
+
+info : [2025-01-07T11:49:28.154Z] GET /movie/basic/261 200 41.451 ms
+
+info : [2025-01-07T11:49:28.169Z] GET /movie/basic/267 200 156.541 ms
+
+info : [2025-01-07T11:49:28.174Z] GET /movie/basic/263 200 45.526 ms
+
+info : [2025-01-07T11:49:28.187Z] GET /movie/basic/251 200 60.320 ms
+
+info : [2025-01-07T11:49:28.240Z] GET /movie/basic/260 200 216.998 ms
+
+info : [2025-01-07T11:49:28.277Z] GET /movie/basic/264 304 23.434 ms
+
+info : [2025-01-07T11:49:28.289Z] GET /movie/basic/262 304 34.529 ms
+
+info : [2025-01-07T11:49:28.317Z] GET /movie/basic/234 304 89.407 ms
+
+info : [2025-01-07T11:49:28.338Z] GET /movie/basic/271 304 78.159 ms
+
+info : [2025-01-07T11:49:28.361Z] GET /movie/basic/265 304 94.012 ms
+
+info : [2025-01-07T11:49:28.381Z] GET /movie/basic/261 304 113.790 ms
+
+info : [2025-01-07T11:49:28.393Z] GET /img/movie/Wicked/poster/Wicked.jpg 404 6.081 ms
+
+info : [2025-01-07T11:49:28.438Z] GET /movie/basic/267 304 85.800 ms
+
+info : [2025-01-07T11:49:28.442Z] GET /movie/basic/263 304 88.231 ms
+
+info : [2025-01-07T11:49:28.452Z] GET /img/movie/One%20Win/poster/One%20Win.jpg 404 15.178 ms
+
+info : [2025-01-07T11:49:28.462Z] GET /movie/basic/251 304 73.355 ms
+
+info : [2025-01-07T11:49:28.475Z] GET /movie/basic/260 304 62.016 ms
+
+info : [2025-01-07T11:49:28.504Z] GET /movie/basic/264 304 71.379 ms
+
+info : [2025-01-07T11:49:28.513Z] GET /img/movie/THE%20FIRST%20LADY/poster/THE%20FIRST%20LADY.jpg 404 17.246 ms
+
+info : [2025-01-07T11:49:28.517Z] GET /img/movie/THE%20SUBSTANCE/poster/THE%20SUBSTANCE.jpg 404 19.716 ms
+
+info : [2025-01-07T11:49:28.530Z] GET /img/movie/2024/poster/2024.jpg 404 8.924 ms
+
+info : [2025-01-07T11:49:28.560Z] GET /movie/basic/234 304 58.573 ms
+
+info : [2025-01-07T11:49:28.568Z] GET /img/movie/FIREFIGHTERS/poster/FIREFIGHTERS.jpg 404 16.017 ms
+
+info : [2025-01-07T11:49:28.582Z] GET /movie/basic/265 304 44.601 ms
+
+info : [2025-01-07T11:49:28.585Z] GET /img/movie/Crayon%20Shinchan%20the%20Movie-%20Our%20Dinosaur%20Diary/poster/Crayon%20Shinchan%20the%20Movie-%20Our%20Dinosaur%20Diary.jpg 404 6.181 ms
+
+info : [2025-01-07T11:49:28.589Z] GET /movie/basic/271 304 53.583 ms
+
+info : [2025-01-07T11:49:28.597Z] GET /movie/basic/267 304 52.537 ms
+
+info : [2025-01-07T11:49:28.609Z] GET /img/movie/About%20Family/poster/About%20Family.jpg 404 8.147 ms
+
+info : [2025-01-07T11:49:28.634Z] GET /img/movie/Mufasa-%20The%20Lion%20King/poster/Mufasa-%20The%20Lion%20King.jpg 404 16.166 ms
+
+info : [2025-01-07T11:49:28.637Z] GET /img/movie/MOANA%202/poster/MOANA%202.jpg 404 16.913 ms
+
+info : [2025-01-07T11:49:28.646Z] GET /img/movie/Wicked/poster/Wicked.jpg 404 16.713 ms
+
+info : [2025-01-07T11:49:28.656Z] GET /img/movie/One%20Win/poster/One%20Win.jpg 404 3.988 ms
+
+info : [2025-01-07T11:49:28.667Z] GET /img/movie/2024/poster/2024.jpg 404 6.145 ms
+
+info : [2025-01-07T11:49:28.670Z] GET /img/movie/THE%20FIRST%20LADY/poster/THE%20FIRST%20LADY.jpg 404 7.107 ms
+
+info : [2025-01-07T12:05:08.859Z] GET /video/%EB%B8%94%EB%A3%A8%20%EB%A1%9D_1080x608.mp4 404 9.444 ms
+
+info : [2025-01-07T12:05:08.877Z] GET /user/info 401 7.082 ms
+
+info : [2025-01-07T12:05:08.886Z] GET /movie/chart 304 4.577 ms
+
+info : [2025-01-07T12:05:09.064Z] GET /movie/basic/234 304 24.549 ms
+
+info : [2025-01-07T12:05:09.154Z] GET /movie/basic/264 304 54.899 ms
+
+info : [2025-01-07T12:05:09.216Z] GET /movie/basic/260 304 46.859 ms
+
+info : [2025-01-07T12:05:09.261Z] GET /movie/basic/262 304 144.820 ms
+
+info : [2025-01-07T12:05:09.281Z] GET /movie/basic/271 304 172.032 ms
+
+info : [2025-01-07T12:05:09.295Z] GET /movie/basic/267 304 155.320 ms
+
+info : [2025-01-07T12:05:09.299Z] GET /movie/basic/265 304 168.554 ms
+
+info : [2025-01-07T12:05:09.360Z] GET /movie/basic/251 304 80.994 ms
+
+info : [2025-01-07T12:05:09.389Z] GET /movie/basic/234 304 39.780 ms
+
+info : [2025-01-07T12:05:09.400Z] GET /movie/basic/261 304 201.951 ms
+
+info : [2025-01-07T12:05:09.415Z] GET /movie/basic/263 304 66.863 ms
+
+info : [2025-01-07T12:05:09.441Z] GET /img/movie/Wicked/poster/Wicked.jpg 404 43.623 ms
+
+info : [2025-01-07T12:05:09.479Z] GET /movie/basic/264 304 123.802 ms
+
+info : [2025-01-07T12:05:09.491Z] GET /img/movie/THE%20SUBSTANCE/poster/THE%20SUBSTANCE.jpg 404 23.354 ms
+
+info : [2025-01-07T12:05:09.538Z] GET /movie/basic/260 304 77.570 ms
+
+info : [2025-01-07T12:05:09.546Z] GET /movie/basic/271 304 43.781 ms
+
+info : [2025-01-07T12:05:09.561Z] GET /movie/basic/262 304 59.426 ms
+
+info : [2025-01-07T12:05:09.569Z] GET /movie/basic/267 304 59.485 ms
+
+info : [2025-01-07T12:05:09.573Z] GET /movie/basic/265 304 59.134 ms
+
+info : [2025-01-07T12:05:09.578Z] GET /img/movie/2024/poster/2024.jpg 404 27.180 ms
+
+info : [2025-01-07T12:05:09.595Z] GET /img/movie/THE%20FIRST%20LADY/poster/THE%20FIRST%20LADY.jpg 404 13.853 ms
+
+info : [2025-01-07T12:05:09.608Z] GET /img/movie/One%20Win/poster/One%20Win.jpg 404 16.622 ms
+
+info : [2025-01-07T12:05:09.655Z] GET /movie/basic/234 304 38.810 ms
+
+info : [2025-01-07T12:05:09.661Z] GET /movie/basic/251 304 48.123 ms
+
+info : [2025-01-07T12:05:09.665Z] GET /movie/basic/261 304 47.367 ms
+
+info : [2025-01-07T12:05:09.679Z] GET /movie/basic/263 304 49.631 ms
+
+info : [2025-01-07T12:05:09.683Z] GET /movie/basic/271 304 32.351 ms
+
+info : [2025-01-07T12:05:09.729Z] GET /movie/basic/264 304 79.423 ms
+
+info : [2025-01-07T12:05:09.756Z] GET /img/movie/Mufasa-%20The%20Lion%20King/poster/Mufasa-%20The%20Lion%20King.jpg 404 22.354 ms
+
+info : [2025-01-07T12:05:09.760Z] GET /img/movie/FIREFIGHTERS/poster/FIREFIGHTERS.jpg 404 23.780 ms
+
+info : [2025-01-07T12:05:09.784Z] GET /movie/basic/265 304 90.557 ms
+
+info : [2025-01-07T12:05:09.792Z] GET /img/movie/MOANA%202/poster/MOANA%202.jpg 404 9.750 ms
+
+info : [2025-01-07T12:05:09.805Z] GET /movie/basic/267 304 109.466 ms
+
+info : [2025-01-07T12:05:09.822Z] GET /img/movie/Crayon%20Shinchan%20the%20Movie-%20Our%20Dinosaur%20Diary/poster/Crayon%20Shinchan%20the%20Movie-%20Our%20Dinosaur%20Diary.jpg 404 20.179 ms
+
+info : [2025-01-07T12:05:09.837Z] GET /img/movie/Wicked/poster/Wicked.jpg 404 10.407 ms
+
+info : [2025-01-07T12:05:09.845Z] GET /img/movie/About%20Family/poster/About%20Family.jpg 404 17.751 ms
+
+info : [2025-01-07T12:05:09.862Z] GET /img/movie/One%20Win/poster/One%20Win.jpg 404 4.675 ms
+
+info : [2025-01-07T12:05:09.866Z] GET /img/movie/2024/poster/2024.jpg 404 6.812 ms
+
+info : [2025-01-07T12:05:09.875Z] GET /img/movie/THE%20SUBSTANCE/poster/THE%20SUBSTANCE.jpg 404 15.232 ms
+
+info : [2025-01-07T12:05:09.895Z] GET /img/movie/THE%20FIRST%20LADY/poster/THE%20FIRST%20LADY.jpg 404 1.611 ms
+
+info : [2025-01-07T12:05:32.423Z] GET /img/movie/FIREFIGHTERS/poster/FIREFIGHTERS.jpg 404 0.872 ms
+
+info : [2025-01-07T12:05:43.793Z] GET / 404 0.540 ms
+
+info : [2025-01-07T12:09:26.207Z] GET /video/%EB%B8%94%EB%A3%A8%20%EB%A1%9D_1080x608.mp4 404 5.601 ms
+
+info : [2025-01-07T12:09:26.222Z] GET /user/info 401 5.057 ms
+
+info : [2025-01-07T12:09:26.235Z] GET /movie/chart 304 2.970 ms
+
+info : [2025-01-07T12:09:26.441Z] GET /movie/basic/234 304 51.498 ms
+
+info : [2025-01-07T12:09:26.483Z] GET /movie/basic/264 304 84.304 ms
+
+info : [2025-01-07T12:09:26.495Z] GET /movie/basic/262 304 46.501 ms
+
+info : [2025-01-07T12:09:26.519Z] GET /movie/basic/271 304 98.158 ms
+
+info : [2025-01-07T12:09:26.540Z] GET /movie/basic/265 304 106.830 ms
+
+info : [2025-01-07T12:09:26.565Z] GET /movie/basic/267 304 128.388 ms
+
+info : [2025-01-07T12:09:26.579Z] GET /movie/basic/261 304 69.190 ms
+
+info : [2025-01-07T12:09:26.590Z] GET /movie/basic/251 304 56.877 ms
+
+info : [2025-01-07T12:09:26.620Z] GET /movie/basic/260 304 149.544 ms
+
+info : [2025-01-07T12:09:26.631Z] GET /img/movie/Wicked/poster/Wicked.jpg 404 2.485 ms
+
+info : [2025-01-07T12:09:26.651Z] GET /movie/basic/263 304 69.668 ms
+
+info : [2025-01-07T12:09:26.697Z] GET /movie/basic/234 304 114.621 ms
+
+info : [2025-01-07T12:09:26.745Z] GET /movie/basic/262 304 132.374 ms
+
+info : [2025-01-07T12:09:26.806Z] GET /movie/basic/264 304 199.828 ms
+
+info : [2025-01-07T12:09:26.934Z] GET /movie/basic/271 304 257.409 ms
+
+info : [2025-01-07T12:09:26.952Z] GET /img/movie/THE%20SUBSTANCE/poster/THE%20SUBSTANCE.jpg 404 61.965 ms
+
+info : [2025-01-07T12:09:26.994Z] GET /movie/basic/267 304 101.704 ms
+
+info : [2025-01-07T12:09:27.001Z] GET /img/movie/One%20Win/poster/One%20Win.jpg 404 17.467 ms
+
+info : [2025-01-07T12:09:27.014Z] GET /movie/basic/261 304 88.464 ms
+
+info : [2025-01-07T12:09:27.028Z] GET /movie/basic/265 304 97.951 ms
+
+info : [2025-01-07T12:09:27.048Z] GET /movie/basic/251 304 80.138 ms
+
+info : [2025-01-07T12:09:27.061Z] GET /img/movie/2024/poster/2024.jpg 404 28.562 ms
+
+info : [2025-01-07T12:09:27.080Z] GET /img/movie/THE%20FIRST%20LADY/poster/THE%20FIRST%20LADY.jpg 404 7.194 ms
+
+info : [2025-01-07T12:09:27.108Z] GET /movie/basic/260 304 36.279 ms
+
+info : [2025-01-07T12:09:27.123Z] GET /movie/basic/263 304 40.397 ms
+
+info : [2025-01-07T12:09:27.128Z] GET /movie/basic/234 304 41.429 ms
+
+info : [2025-01-07T12:09:27.141Z] GET /movie/basic/264 304 46.989 ms
+
+info : [2025-01-07T12:09:27.149Z] GET /movie/basic/271 304 51.315 ms
+
+info : [2025-01-07T12:09:27.153Z] GET /movie/basic/267 304 54.250 ms
+
+info : [2025-01-07T12:09:27.168Z] GET /img/movie/FIREFIGHTERS/poster/FIREFIGHTERS.jpg 404 4.366 ms
+
+info : [2025-01-07T12:09:27.173Z] GET /img/movie/Crayon%20Shinchan%20the%20Movie-%20Our%20Dinosaur%20Diary/poster/Crayon%20Shinchan%20the%20Movie-%20Our%20Dinosaur%20Diary.jpg 404 8.713 ms
+
+info : [2025-01-07T12:09:27.192Z] GET /img/movie/MOANA%202/poster/MOANA%202.jpg 404 8.390 ms
+
+info : [2025-01-07T12:09:27.196Z] GET /img/movie/Mufasa-%20The%20Lion%20King/poster/Mufasa-%20The%20Lion%20King.jpg 404 11.855 ms
+
+info : [2025-01-07T12:09:27.211Z] GET /movie/basic/265 304 49.933 ms
+
+info : [2025-01-07T12:09:27.219Z] GET /img/movie/About%20Family/poster/About%20Family.jpg 404 20.244 ms
+
+info : [2025-01-07T12:09:27.230Z] GET /img/movie/Wicked/poster/Wicked.jpg 404 25.900 ms
+
+info : [2025-01-07T12:09:27.254Z] GET /img/movie/One%20Win/poster/One%20Win.jpg 404 6.436 ms
+
+info : [2025-01-07T12:09:27.265Z] GET /img/movie/THE%20FIRST%20LADY/poster/THE%20FIRST%20LADY.jpg 404 6.532 ms
+
+info : [2025-01-07T12:09:27.269Z] GET /img/movie/THE%20SUBSTANCE/poster/THE%20SUBSTANCE.jpg 404 9.241 ms
+
+info : [2025-01-07T12:09:27.272Z] GET /img/movie/2024/poster/2024.jpg 404 11.219 ms
+
+info : [2025-01-07T12:11:12.423Z] GET /video/%EB%B8%94%EB%A3%A8%20%EB%A1%9D_1080x608.mp4 404 8.848 ms
+
+info : [2025-01-07T12:11:12.445Z] GET /user/info 401 7.049 ms
+
+info : [2025-01-07T12:11:12.461Z] GET /movie/chart 304 4.783 ms
+
+info : [2025-01-07T12:11:12.594Z] GET /movie/basic/234 304 33.267 ms
+
+info : [2025-01-07T12:11:12.636Z] GET /movie/basic/267 304 33.639 ms
+
+info : [2025-01-07T12:11:12.641Z] GET /movie/basic/271 304 66.475 ms
+
+info : [2025-01-07T12:11:12.654Z] GET /movie/basic/264 304 79.152 ms
+
+info : [2025-01-07T12:11:12.685Z] GET /movie/basic/265 304 96.728 ms
+
+info : [2025-01-07T12:11:12.698Z] GET /movie/basic/262 304 96.131 ms
+
+info : [2025-01-07T12:11:12.761Z] GET /movie/basic/251 304 58.415 ms
+
+info : [2025-01-07T12:11:12.792Z] GET /movie/basic/260 304 162.875 ms
+
+info : [2025-01-07T12:11:12.812Z] GET /movie/basic/261 304 134.894 ms
+
+info : [2025-01-07T12:11:12.856Z] GET /movie/basic/263 304 163.120 ms
+
+info : [2025-01-07T12:11:12.881Z] GET /movie/basic/267 304 147.806 ms
+
+info : [2025-01-07T12:11:12.893Z] GET /movie/basic/234 304 163.434 ms
+
+info : [2025-01-07T12:11:12.929Z] GET /movie/basic/271 304 65.758 ms
+
+info : [2025-01-07T12:11:12.941Z] GET /movie/basic/265 304 66.045 ms
+
+info : [2025-01-07T12:11:12.956Z] GET /img/movie/Wicked/poster/Wicked.jpg 404 43.777 ms
+
+info : [2025-01-07T12:11:12.969Z] GET /movie/basic/264 304 96.133 ms
+
+info : [2025-01-07T12:11:12.981Z] GET /movie/basic/262 304 78.867 ms
+
+info : [2025-01-07T12:11:13.005Z] GET /img/movie/THE%20SUBSTANCE/poster/THE%20SUBSTANCE.jpg 404 19.397 ms
+
+info : [2025-01-07T12:11:13.013Z] GET /img/movie/THE%20FIRST%20LADY/poster/THE%20FIRST%20LADY.jpg 404 33.118 ms
+
+info : [2025-01-07T12:11:13.045Z] GET /img/movie/One%20Win/poster/One%20Win.jpg 404 16.703 ms
+
+info : [2025-01-07T12:11:13.104Z] GET /img/movie/2024/poster/2024.jpg 404 64.400 ms
+
+info : [2025-01-07T12:11:13.151Z] GET /movie/basic/251 304 188.507 ms
+
+info : [2025-01-07T12:11:13.180Z] GET /movie/basic/261 304 23.634 ms
+
+info : [2025-01-07T12:11:13.194Z] GET /movie/basic/260 304 39.063 ms
+
+info : [2025-01-07T12:11:13.214Z] GET /movie/basic/263 304 56.264 ms
+
+info : [2025-01-07T12:11:13.248Z] GET /movie/basic/267 304 82.798 ms
+
+info : [2025-01-07T12:11:13.266Z] GET /movie/basic/234 304 90.203 ms
+
+info : [2025-01-07T12:11:13.295Z] GET /movie/basic/271 304 118.080 ms
+
+info : [2025-01-07T12:11:13.303Z] GET /img/movie/FIREFIGHTERS/poster/FIREFIGHTERS.jpg 404 6.499 ms
+
+info : [2025-01-07T12:11:13.328Z] GET /img/movie/MOANA%202/poster/MOANA%202.jpg 404 15.295 ms
+
+info : [2025-01-07T12:11:13.340Z] GET /img/movie/Mufasa-%20The%20Lion%20King/poster/Mufasa-%20The%20Lion%20King.jpg 404 24.155 ms
+
+info : [2025-01-07T12:11:13.364Z] GET /movie/basic/264 304 71.165 ms
+
+info : [2025-01-07T12:11:13.378Z] GET /img/movie/Crayon%20Shinchan%20the%20Movie-%20Our%20Dinosaur%20Diary/poster/Crayon%20Shinchan%20the%20Movie-%20Our%20Dinosaur%20Diary.jpg 404 29.024 ms
+
+info : [2025-01-07T12:11:13.396Z] GET /movie/basic/265 304 106.328 ms
+
+info : [2025-01-07T12:11:13.419Z] GET /img/movie/About%20Family/poster/About%20Family.jpg 404 22.322 ms
+
+info : [2025-01-07T12:11:13.428Z] GET /img/movie/THE%20FIRST%20LADY/poster/THE%20FIRST%20LADY.jpg 404 32.553 ms
+
+info : [2025-01-07T12:11:13.443Z] GET /img/movie/2024/poster/2024.jpg 404 9.218 ms
+
+info : [2025-01-07T12:11:13.445Z] GET /img/movie/Wicked/poster/Wicked.jpg 404 11.330 ms
+
+info : [2025-01-07T12:11:13.451Z] GET /img/movie/THE%20SUBSTANCE/poster/THE%20SUBSTANCE.jpg 404 1.765 ms
+
+info : [2025-01-07T12:11:13.457Z] GET /img/movie/One%20Win/poster/One%20Win.jpg 404 8.330 ms
+
+info : [2025-01-07T12:11:25.979Z] GET /video/%EB%B8%94%EB%A3%A8%20%EB%A1%9D_1080x608.mp4 404 0.500 ms
+
+info : [2025-01-07T12:15:23.557Z] GET /img/empty.png 404 0.507 ms
+
+info : [2025-01-07T12:16:43.600Z] GET /video/%EB%B8%94%EB%A3%A8%20%EB%A1%9D_1080x608.mp4 404 6.858 ms
+
+info : [2025-01-07T12:16:43.615Z] GET /user/info 401 5.586 ms
+
+info : [2025-01-07T12:16:43.623Z] GET /movie/chart 304 3.035 ms
+
+info : [2025-01-07T12:16:43.800Z] GET /movie/basic/234 304 36.655 ms
+
+info : [2025-01-07T12:16:43.846Z] GET /movie/basic/262 304 37.453 ms
+
+info : [2025-01-07T12:16:43.955Z] GET /movie/basic/264 304 181.038 ms
+
+info : [2025-01-07T12:16:43.963Z] GET /movie/basic/271 304 175.968 ms
+
+info : [2025-01-07T12:16:43.977Z] GET /movie/basic/265 304 185.405 ms
+
+info : [2025-01-07T12:16:44.009Z] GET /movie/basic/267 304 215.834 ms
+
+info : [2025-01-07T12:16:44.019Z] GET /movie/basic/261 304 28.930 ms
+
+info : [2025-01-07T12:16:44.026Z] GET /movie/basic/234 304 19.875 ms
+
+info : [2025-01-07T12:16:44.030Z] GET /movie/basic/260 304 206.659 ms
+
+info : [2025-01-07T12:16:44.046Z] GET /movie/basic/251 304 45.016 ms
+
+info : [2025-01-07T12:16:44.055Z] GET /movie/basic/263 304 50.727 ms
+
+info : [2025-01-07T12:16:44.072Z] GET /img/movie/Wicked/poster/Wicked.jpg 404 9.775 ms
+
+info : [2025-01-07T12:16:44.093Z] GET /movie/basic/262 304 51.377 ms
+
+info : [2025-01-07T12:16:44.109Z] GET /img/movie/THE%20SUBSTANCE/poster/THE%20SUBSTANCE.jpg 404 16.234 ms
+
+info : [2025-01-07T12:16:44.141Z] GET /movie/basic/264 304 74.412 ms
+
+info : [2025-01-07T12:16:44.153Z] GET /img/movie/One%20Win/poster/One%20Win.jpg 404 23.253 ms
+
+info : [2025-01-07T12:16:44.161Z] GET /img/movie/2024/poster/2024.jpg 404 31.623 ms
+
+info : [2025-01-07T12:16:44.164Z] GET /movie/basic/271 304 90.044 ms
+
+info : [2025-01-07T12:16:44.176Z] GET /movie/basic/265 304 86.153 ms
+
+info : [2025-01-07T12:16:44.216Z] GET /movie/basic/267 304 84.580 ms
+
+info : [2025-01-07T12:16:44.232Z] GET /img/movie/THE%20FIRST%20LADY/poster/THE%20FIRST%20LADY.jpg 404 1.144 ms
+
+info : [2025-01-07T12:16:44.250Z] GET /movie/basic/261 304 67.923 ms
+
+info : [2025-01-07T12:16:44.262Z] GET /movie/basic/260 304 51.747 ms
+
+info : [2025-01-07T12:16:44.281Z] GET /movie/basic/234 304 74.469 ms
+
+info : [2025-01-07T12:16:44.293Z] GET /movie/basic/251 304 82.084 ms
+
+info : [2025-01-07T12:16:44.367Z] GET /img/movie/FIREFIGHTERS/poster/FIREFIGHTERS.jpg 404 2.893 ms
+
+info : [2025-01-07T12:16:44.382Z] GET /movie/basic/263 304 125.651 ms
+
+info : [2025-01-07T12:16:44.393Z] GET /movie/basic/271 304 44.051 ms
+
+info : [2025-01-07T12:16:44.407Z] GET /movie/basic/264 304 46.876 ms
+
+info : [2025-01-07T12:16:44.413Z] GET /movie/basic/265 304 51.738 ms
+
+info : [2025-01-07T12:16:44.429Z] GET /movie/basic/267 304 66.783 ms
+
+info : [2025-01-07T12:16:44.476Z] GET /img/movie/Crayon%20Shinchan%20the%20Movie-%20Our%20Dinosaur%20Diary/poster/Crayon%20Shinchan%20the%20Movie-%20Our%20Dinosaur%20Diary.jpg 404 12.730 ms
+
+info : [2025-01-07T12:16:44.492Z] GET /img/movie/Mufasa-%20The%20Lion%20King/poster/Mufasa-%20The%20Lion%20King.jpg 404 26.190 ms
+
+info : [2025-01-07T12:16:44.503Z] GET /img/movie/MOANA%202/poster/MOANA%202.jpg 404 35.186 ms
+
+info : [2025-01-07T12:16:44.522Z] GET /img/movie/About%20Family/poster/About%20Family.jpg 404 48.840 ms
+
+info : [2025-01-07T12:16:44.535Z] GET /img/movie/THE%20SUBSTANCE/poster/THE%20SUBSTANCE.jpg 404 68.555 ms
+
+info : [2025-01-07T12:16:44.563Z] GET /img/movie/2024/poster/2024.jpg 404 17.535 ms
+
+info : [2025-01-07T12:16:44.581Z] GET /img/movie/One%20Win/poster/One%20Win.jpg 404 5.690 ms
+
+info : [2025-01-07T12:16:44.588Z] GET /img/movie/Wicked/poster/Wicked.jpg 404 6.188 ms
+
+info : [2025-01-07T12:16:44.596Z] GET /img/movie/THE%20FIRST%20LADY/poster/THE%20FIRST%20LADY.jpg 404 17.301 ms
+
+info : [2025-01-07T12:57:59.881Z] GET /img/movie/THE%20SUBSTANCE/poster/THE%20SUBSTANCE.jpg 404 25.155 ms
+
+info : [2025-01-07T13:04:20.122Z] GET /video/%EB%B8%94%EB%A3%A8%20%EB%A1%9D_1080x608.mp4 404 8.224 ms
+
+info : [2025-01-07T13:04:20.135Z] GET /user/info 401 3.295 ms
+
+info : [2025-01-07T13:04:20.146Z] GET /movie/chart 200 1.879 ms
+
+info : [2025-01-07T13:04:20.271Z] GET /movie/basic/261 304 38.558 ms
+
+info : [2025-01-07T13:04:20.304Z] GET /movie/basic/234 304 20.635 ms
+
+info : [2025-01-07T13:04:20.309Z] GET /movie/basic/260 304 71.155 ms
+
+info : [2025-01-07T13:04:20.376Z] GET /movie/basic/303 200 55.895 ms
+
+info : [2025-01-07T13:04:20.383Z] GET /movie/basic/251 304 65.988 ms
+
+info : [2025-01-07T13:04:20.401Z] GET /movie/basic/304 200 114.034 ms
+
+info : [2025-01-07T13:04:20.414Z] GET /movie/basic/302 200 89.232 ms
+
+info : [2025-01-07T13:04:20.429Z] GET /movie/basic/262 304 3.839 ms
+
+info : [2025-01-07T13:04:20.472Z] GET /movie/basic/301 200 121.983 ms
+
+info : [2025-01-07T13:04:20.485Z] GET /movie/basic/261 304 4.822 ms
+
+info : [2025-01-07T13:04:20.494Z] GET /movie/basic/264 304 148.473 ms
+
+info : [2025-01-07T13:04:20.497Z] GET /img/movie/Crayon%20Shinchan%20the%20Movie-%20Our%20Dinosaur%20Diary/poster/Crayon%20Shinchan%20the%20Movie-%20Our%20Dinosaur%20Diary.jpg 404 4.391 ms
+
+info : [2025-01-07T13:04:20.500Z] GET /movie/basic/234 304 17.864 ms
+
+info : [2025-01-07T13:04:20.512Z] GET /img/movie/Wicked/poster/Wicked.jpg 404 3.213 ms
+
+info : [2025-01-07T13:04:20.514Z] GET /img/movie/Mufasa-%20The%20Lion%20King/poster/Mufasa-%20The%20Lion%20King.jpg 404 5.578 ms
+
+info : [2025-01-07T13:04:20.518Z] GET /movie/basic/260 304 27.965 ms
+
+info : [2025-01-07T13:04:20.534Z] GET /movie/basic/251 304 25.535 ms
+
+info : [2025-01-07T13:04:20.566Z] GET /movie/basic/303 304 36.498 ms
+
+info : [2025-01-07T13:04:20.571Z] GET /movie/basic/304 304 37.962 ms
+
+info : [2025-01-07T13:04:20.584Z] GET /movie/basic/302 304 42.103 ms
+
+info : [2025-01-07T13:04:20.601Z] GET /movie/basic/262 304 58.873 ms
+
+info : [2025-01-07T13:04:20.619Z] GET /movie/basic/261 304 59.714 ms
+
+info : [2025-01-07T13:04:20.626Z] GET /movie/basic/301 304 62.826 ms
+
+info : [2025-01-07T13:04:20.643Z] GET /movie/basic/234 304 29.993 ms
+
+info : [2025-01-07T13:04:20.656Z] GET /img/movie/MOANA%202/poster/MOANA%202.jpg 404 5.760 ms
+
+info : [2025-01-07T13:04:20.660Z] GET /img/movie/THE%20SUBSTANCE/poster/THE%20SUBSTANCE.jpg 404 9.038 ms
+
+info : [2025-01-07T13:04:20.664Z] GET /movie/basic/264 304 51.743 ms
+
+info : [2025-01-07T13:04:20.673Z] GET /movie/basic/260 304 58.247 ms
+
+info : [2025-01-07T13:04:20.683Z] GET /movie/basic/251 304 52.655 ms
+
+info : [2025-01-07T13:04:20.693Z] GET /img/empty.png 404 13.422 ms
+
+info : [2025-01-07T13:04:20.708Z] GET /img/movie/Crayon%20Shinchan%20the%20Movie-%20Our%20Dinosaur%20Diary/poster/Crayon%20Shinchan%20the%20Movie-%20Our%20Dinosaur%20Diary.jpg 404 9.022 ms
+
+info : [2025-01-07T13:04:20.716Z] GET /img/movie/FIREFIGHTERS/poster/FIREFIGHTERS.jpg 404 14.063 ms
+
+info : [2025-01-07T13:04:20.720Z] GET /img/movie/Mufasa-%20The%20Lion%20King/poster/Mufasa-%20The%20Lion%20King.jpg 404 20.836 ms
+
+info : [2025-01-07T13:04:20.741Z] GET /img/movie/Wicked/poster/Wicked.jpg 404 17.149 ms
+
+info : [2025-01-07T13:04:20.746Z] GET /img/movie/THE%20SUBSTANCE/poster/THE%20SUBSTANCE.jpg 404 2.333 ms
+
+info : [2025-01-07T13:04:20.750Z] GET /img/movie/MOANA%202/poster/MOANA%202.jpg 404 5.743 ms
+
+info : [2025-01-07T13:04:20.755Z] GET /movie/basic/264 304 58.232 ms
+
+info : [2025-01-07T13:04:20.777Z] GET /img/movie/THE%20SUBSTANCE/poster/THE%20SUBSTANCE.jpg 404 0.977 ms
+
+info : [2025-01-07T13:04:51.975Z] GET /img/empty.png 404 0.751 ms
+
+info : [2025-01-07T13:05:18.563Z] GET /img/empty.png 404 1.295 ms
+
+info : [2025-01-07T13:05:20.398Z] GET /img/empty.png 404 0.715 ms
+
+info : [2025-01-07T13:06:04.259Z] GET /movie 200 14.130 ms
+
+info : [2025-01-07T13:06:04.581Z] GET /favicon.ico 404 0.432 ms
+
+info : [2025-01-07T13:08:15.886Z] GET /video/%EB%B8%94%EB%A3%A8%20%EB%A1%9D_1080x608.mp4 404 6.970 ms
+
+info : [2025-01-07T13:08:15.904Z] GET /user/info 401 7.196 ms
+
+info : [2025-01-07T13:08:15.911Z] GET /movie/chart 304 4.042 ms
+
+info : [2025-01-07T13:08:16.031Z] GET /movie/basic/261 304 26.539 ms
+
+info : [2025-01-07T13:08:16.061Z] GET /movie/basic/234 304 9.318 ms
+
+info : [2025-01-07T13:08:16.067Z] GET /movie/basic/260 304 41.436 ms
+
+info : [2025-01-07T13:08:16.109Z] GET /movie/basic/251 304 28.809 ms
+
+info : [2025-01-07T13:08:16.113Z] GET /movie/basic/264 304 31.854 ms
+
+info : [2025-01-07T13:08:16.163Z] GET /movie/basic/303 304 38.932 ms
+
+info : [2025-01-07T13:08:16.172Z] GET /movie/basic/302 304 48.188 ms
+
+info : [2025-01-07T13:08:16.199Z] GET /movie/basic/262 304 103.999 ms
+
+info : [2025-01-07T13:08:16.204Z] GET /movie/basic/304 304 110.718 ms
+
+info : [2025-01-07T13:08:16.243Z] GET /movie/basic/234 304 41.767 ms
+
+info : [2025-01-07T13:08:16.257Z] GET /movie/basic/260 304 46.221 ms
+
+info : [2025-01-07T13:08:16.268Z] GET /movie/basic/261 304 123.382 ms
+
+info : [2025-01-07T13:08:16.286Z] GET /movie/basic/301 304 143.586 ms
+
+info : [2025-01-07T13:08:16.304Z] GET /movie/basic/251 304 84.852 ms
+
+info : [2025-01-07T13:08:16.319Z] GET /img/movie/Crayon%20Shinchan%20the%20Movie-%20Our%20Dinosaur%20Diary/poster/Crayon%20Shinchan%20the%20Movie-%20Our%20Dinosaur%20Diary.jpg 404 6.016 ms
+
+info : [2025-01-07T13:08:16.326Z] GET /img/movie/MOANA%202/poster/MOANA%202.jpg 404 9.656 ms
+
+info : [2025-01-07T13:08:16.370Z] GET /img/movie/Mufasa-%20The%20Lion%20King/poster/Mufasa-%20The%20Lion%20King.jpg 404 37.511 ms
+
+info : [2025-01-07T13:08:16.384Z] GET /movie/basic/264 304 160.961 ms
+
+info : [2025-01-07T13:08:16.420Z] GET /img/movie/THE%20SUBSTANCE/poster/THE%20SUBSTANCE.jpg 404 21.648 ms
+
+info : [2025-01-07T13:08:16.457Z] GET /img/movie/Wicked/poster/Wicked.jpg 404 16.345 ms
+
+info : [2025-01-07T13:08:16.492Z] GET /movie/basic/303 304 52.864 ms
+
+info : [2025-01-07T13:08:16.498Z] GET /movie/basic/262 304 30.411 ms
+
+info : [2025-01-07T13:08:16.509Z] GET /movie/basic/302 304 67.703 ms
+
+info : [2025-01-07T13:08:16.525Z] GET /movie/basic/234 304 40.781 ms
+
+info : [2025-01-07T13:08:16.535Z] GET /movie/basic/304 304 71.789 ms
+
+info : [2025-01-07T13:08:16.547Z] GET /movie/basic/260 304 33.684 ms
+
+info : [2025-01-07T13:08:16.574Z] GET /movie/basic/261 304 31.206 ms
+
+info : [2025-01-07T13:08:16.587Z] GET /movie/basic/264 304 36.451 ms
+
+info : [2025-01-07T13:08:16.592Z] GET /img/empty.png 404 22.351 ms
+
+info : [2025-01-07T13:08:16.596Z] GET /movie/basic/301 304 54.378 ms
+
+info : [2025-01-07T13:08:16.609Z] GET /movie/basic/251 304 67.415 ms
+
+info : [2025-01-07T13:08:16.638Z] GET /img/movie/FIREFIGHTERS/poster/FIREFIGHTERS.jpg 404 19.046 ms
+
+info : [2025-01-07T13:08:16.658Z] GET /img/movie/Wicked/poster/Wicked.jpg 404 9.518 ms
+
+info : [2025-01-07T13:08:16.664Z] GET /img/movie/Mufasa-%20The%20Lion%20King/poster/Mufasa-%20The%20Lion%20King.jpg 404 16.457 ms
+
+info : [2025-01-07T13:08:16.669Z] GET /img/movie/Crayon%20Shinchan%20the%20Movie-%20Our%20Dinosaur%20Diary/poster/Crayon%20Shinchan%20the%20Movie-%20Our%20Dinosaur%20Diary.jpg 404 20.005 ms
+
+info : [2025-01-07T13:08:16.674Z] GET /img/movie/THE%20SUBSTANCE/poster/THE%20SUBSTANCE.jpg 404 23.615 ms
+
+info : [2025-01-07T13:08:16.699Z] GET /img/empty.png 404 9.872 ms
+
+info : [2025-01-07T13:08:16.711Z] GET /img/movie/MOANA%202/poster/MOANA%202.jpg 404 3.766 ms
+
+info : [2025-01-07T13:08:20.065Z] GET /movie/304 200 8.977 ms
+
+info : [2025-01-07T13:08:20.074Z] GET /movie/actor/304 200 16.185 ms
+
+info : [2025-01-07T13:08:20.089Z] GET /movie/genre/304 200 9.380 ms
+
+info : [2025-01-07T13:08:20.091Z] GET /movie/director/304 200 11.250 ms
+
+info : [2025-01-07T13:08:20.109Z] GET /img/empty.png 404 0.369 ms
+
+info : [2025-01-07T13:08:20.221Z] GET /img/empty.png 404 0.727 ms
+
+info : [2025-01-07T13:08:20.228Z] GET /img/actor/%EC%9C%A0%EC%9E%AC%EB%AA%85.jpg 404 5.374 ms
+
+info : [2025-01-07T13:08:20.231Z] GET /img/actor/%EB%B0%95%ED%9B%88.jpg 404 1.319 ms
+
+info : [2025-01-07T13:08:20.235Z] GET /img/actor/%EB%B0%95%EC%A0%95%EB%AF%BC.jpg 404 4.343 ms
+
+info : [2025-01-07T13:08:39.012Z] GET /user/info 401 2.530 ms
+
+info : [2025-01-07T13:08:39.029Z] GET /movie/304 304 11.784 ms
+
+info : [2025-01-07T13:08:39.049Z] GET /movie/director/304 304 9.161 ms
+
+info : [2025-01-07T13:08:39.052Z] GET /movie/actor/304 304 16.383 ms
+
+info : [2025-01-07T13:08:39.064Z] GET /movie/genre/304 304 17.735 ms
+
+info : [2025-01-07T13:08:39.175Z] GET /img/empty.png 404 4.790 ms
+
+info : [2025-01-07T13:08:39.177Z] GET /img/actor/%EC%9C%A0%EC%9E%AC%EB%AA%85.jpg 404 6.972 ms
+
+info : [2025-01-07T13:08:39.179Z] GET /img/actor/%EB%B0%95%ED%9B%88.jpg 404 8.659 ms
+
+info : [2025-01-07T13:08:39.182Z] GET /img/actor/%EB%B0%95%EC%A0%95%EB%AF%BC.jpg 404 10.445 ms
+
+info : [2025-01-07T13:09:49.752Z] GET /user/info 401 1.215 ms
+
+info : [2025-01-07T13:09:49.766Z] GET /movie/304 304 6.430 ms
+
+info : [2025-01-07T13:09:49.805Z] GET /movie/actor/304 304 12.592 ms
+
+info : [2025-01-07T13:09:49.813Z] GET /movie/genre/304 304 13.736 ms
+
+info : [2025-01-07T13:09:49.819Z] GET /movie/director/304 304 22.883 ms
+
+info : [2025-01-07T13:09:50.583Z] GET /img/empty.png 404 0.725 ms
+
+info : [2025-01-07T13:09:50.594Z] GET /img/actor/%EC%9C%A0%EC%9E%AC%EB%AA%85.jpg 404 1.926 ms
+
+info : [2025-01-07T13:09:50.597Z] GET /img/actor/%EB%B0%95%ED%9B%88.jpg 404 1.178 ms
+
+info : [2025-01-07T13:09:50.600Z] GET /img/actor/%EB%B0%95%EC%A0%95%EB%AF%BC.jpg 404 3.745 ms
+
+info : [2025-01-07T13:11:19.919Z] GET /video/%EB%B8%94%EB%A3%A8%20%EB%A1%9D_1080x608.mp4 404 8.314 ms
+
+info : [2025-01-07T13:11:19.933Z] GET /user/info 401 4.157 ms
+
+info : [2025-01-07T13:11:19.951Z] GET /movie/chart 304 7.489 ms
+
+info : [2025-01-07T13:11:20.124Z] GET /movie/basic/261 304 59.903 ms
+
+info : [2025-01-07T13:11:20.175Z] GET /movie/basic/260 304 104.992 ms
+
+info : [2025-01-07T13:11:20.216Z] GET /movie/basic/251 304 100.598 ms
+
+info : [2025-01-07T13:11:20.225Z] GET /movie/basic/234 304 141.593 ms
+
+info : [2025-01-07T13:11:20.228Z] GET /movie/basic/264 304 111.590 ms
+
+info : [2025-01-07T13:11:20.239Z] GET /movie/basic/304 304 118.309 ms
+
+info : [2025-01-07T13:11:20.258Z] GET /movie/basic/262 304 72.226 ms
+
+info : [2025-01-07T13:11:20.309Z] GET /img/movie/Crayon%20Shinchan%20the%20Movie-%20Our%20Dinosaur%20Diary/poster/Crayon%20Shinchan%20the%20Movie-%20Our%20Dinosaur%20Diary.jpg 404 4.411 ms
+
+info : [2025-01-07T13:11:20.317Z] GET /movie/basic/303 304 95.170 ms
+
+info : [2025-01-07T13:11:20.342Z] GET /movie/basic/302 304 74.261 ms
+
+info : [2025-01-07T13:11:20.352Z] GET /movie/basic/261 304 49.257 ms
+
+info : [2025-01-07T13:11:20.380Z] GET /img/movie/Mufasa-%20The%20Lion%20King/poster/Mufasa-%20The%20Lion%20King.jpg 404 10.733 ms
+
+info : [2025-01-07T13:11:20.388Z] GET /movie/basic/301 304 103.923 ms
+
+info : [2025-01-07T13:11:20.391Z] GET /img/movie/MOANA%202/poster/MOANA%202.jpg 404 7.152 ms
+
+info : [2025-01-07T13:11:20.396Z] GET /movie/basic/260 304 76.213 ms
+
+info : [2025-01-07T13:11:20.426Z] GET /movie/basic/251 304 55.853 ms
+
+info : [2025-01-07T13:11:20.439Z] GET /movie/basic/234 304 57.006 ms
+
+info : [2025-01-07T13:11:20.460Z] GET /img/movie/Wicked/poster/Wicked.jpg 404 9.060 ms
+
+info : [2025-01-07T13:11:20.463Z] GET /img/movie/THE%20SUBSTANCE/poster/THE%20SUBSTANCE.jpg 404 11.848 ms
+
+info : [2025-01-07T13:11:20.471Z] GET /movie/basic/304 304 55.954 ms
+
+info : [2025-01-07T13:11:20.474Z] GET /movie/basic/264 304 53.763 ms
+
+info : [2025-01-07T13:11:20.495Z] GET /movie/basic/262 304 61.830 ms
+
+info : [2025-01-07T13:11:20.529Z] GET /movie/basic/303 304 56.279 ms
+
+info : [2025-01-07T13:11:20.536Z] GET /movie/basic/260 304 30.029 ms
+
+info : [2025-01-07T13:11:20.546Z] GET /movie/basic/302 304 58.874 ms
+
+info : [2025-01-07T13:11:20.573Z] GET /movie/basic/301 304 68.059 ms
+
+info : [2025-01-07T13:11:20.582Z] GET /movie/basic/261 304 69.175 ms
+
+info : [2025-01-07T13:11:20.600Z] GET /img/empty.png 404 6.729 ms
+
+info : [2025-01-07T13:11:20.606Z] GET /movie/basic/251 304 64.520 ms
+
+info : [2025-01-07T13:11:20.617Z] GET /movie/basic/234 304 63.279 ms
+
+info : [2025-01-07T13:11:20.621Z] GET /movie/basic/264 304 57.886 ms
+
+info : [2025-01-07T13:11:20.629Z] GET /img/movie/FIREFIGHTERS/poster/FIREFIGHTERS.jpg 404 17.606 ms
+
+info : [2025-01-07T13:11:20.654Z] GET /img/movie/Crayon%20Shinchan%20the%20Movie-%20Our%20Dinosaur%20Diary/poster/Crayon%20Shinchan%20the%20Movie-%20Our%20Dinosaur%20Diary.jpg 404 15.807 ms
+
+info : [2025-01-07T13:11:20.666Z] GET /img/movie/MOANA%202/poster/MOANA%202.jpg 404 4.915 ms
+
+info : [2025-01-07T13:11:20.673Z] GET /img/movie/THE%20SUBSTANCE/poster/THE%20SUBSTANCE.jpg 404 10.881 ms
+
+info : [2025-01-07T13:11:20.679Z] GET /img/movie/Wicked/poster/Wicked.jpg 404 16.833 ms
+
+info : [2025-01-07T13:11:20.690Z] GET /img/movie/Mufasa-%20The%20Lion%20King/poster/Mufasa-%20The%20Lion%20King.jpg 404 27.667 ms
+
+info : [2025-01-07T13:18:48.424Z] GET /img/empty.png 404 11.034 ms
+
+info : [2025-01-07T13:21:46.846Z] GET /img/empty.png 404 5.930 ms
+
+info : [2025-01-07T13:21:54.517Z] GET /img/empty.png 404 1.221 ms
+
+info : [2025-01-07T13:21:57.364Z] GET /img/empty.png 404 1.095 ms
+
+info : [2025-01-07T13:28:22.922Z] GET /img/empty.png 404 6.924 ms
+
+info : [2025-01-07T13:29:04.437Z] GET /user/info 401 8.656 ms
+
+info : [2025-01-07T13:29:04.465Z] GET /movie/chart 304 4.676 ms
+
+info : [2025-01-07T13:29:04.719Z] GET /movie/basic/261 304 65.205 ms
+
+info : [2025-01-07T13:29:04.834Z] GET /movie/basic/234 304 137.697 ms
+
+info : [2025-01-07T13:29:04.936Z] GET /movie/basic/260 304 263.939 ms
+
+info : [2025-01-07T13:29:05.016Z] GET /movie/basic/304 304 114.560 ms
+
+info : [2025-01-07T13:29:05.041Z] GET /movie/basic/262 304 59.607 ms
+
+info : [2025-01-07T13:29:05.053Z] GET /movie/basic/264 304 354.456 ms
+
+info : [2025-01-07T13:29:05.065Z] GET /movie/basic/251 304 368.150 ms
+
+info : [2025-01-07T13:29:05.112Z] GET /movie/basic/303 304 101.609 ms
+
+info : [2025-01-07T13:29:05.126Z] GET /movie/basic/302 304 31.662 ms
+
+info : [2025-01-07T13:29:05.159Z] GET /movie/basic/301 304 62.414 ms
+
+info : [2025-01-07T13:29:05.168Z] GET /movie/basic/261 304 69.480 ms
+
+info : [2025-01-07T13:29:05.210Z] GET /movie/basic/234 304 48.067 ms
+
+info : [2025-01-07T13:29:05.262Z] GET /movie/basic/260 304 64.220 ms
+
+info : [2025-01-07T13:29:05.326Z] GET /movie/basic/304 304 74.024 ms
+
+info : [2025-01-07T13:29:05.379Z] GET /movie/basic/262 304 68.311 ms
+
+info : [2025-01-07T13:29:05.423Z] GET /movie/basic/251 304 30.257 ms
+
+info : [2025-01-07T13:29:05.428Z] GET /movie/basic/264 304 75.154 ms
+
+info : [2025-01-07T13:29:05.508Z] GET /movie/basic/303 304 57.860 ms
+
+info : [2025-01-07T13:29:05.514Z] GET /movie/basic/302 304 38.138 ms
+
+info : [2025-01-07T13:29:05.538Z] GET /movie/basic/301 304 55.848 ms
+
+info : [2025-01-07T13:29:05.583Z] GET /movie/basic/260 304 23.060 ms
+
+info : [2025-01-07T13:29:05.606Z] GET /movie/basic/261 304 57.557 ms
+
+info : [2025-01-07T13:29:05.635Z] GET /movie/basic/234 304 85.505 ms
+
+info : [2025-01-07T13:29:05.695Z] GET /movie/basic/251 304 117.055 ms
+
+info : [2025-01-07T13:29:05.749Z] GET /movie/basic/264 304 97.994 ms
+
+info : [2025-01-07T13:38:06.762Z] GET /img/empty.png 404 12.465 ms
+
+info : [2025-01-07T13:43:47.503Z] GET /user/info 401 9.648 ms
+
+info : [2025-01-07T13:43:47.529Z] GET /movie/chart 304 5.994 ms
+
+info : [2025-01-07T13:43:47.810Z] GET /movie/basic/261 304 73.350 ms
+
+info : [2025-01-07T13:43:48.017Z] GET /movie/basic/234 304 272.748 ms
+
+info : [2025-01-07T13:43:48.035Z] GET /movie/basic/304 200 173.954 ms
+
+info : [2025-01-07T13:43:48.126Z] GET /movie/basic/251 304 359.103 ms
+
+info : [2025-01-07T13:43:48.167Z] GET /movie/basic/260 304 400.806 ms
+
+info : [2025-01-07T13:43:48.177Z] GET /movie/basic/264 304 380.167 ms
+
+info : [2025-01-07T13:43:48.219Z] GET /movie/basic/303 200 138.064 ms
+
+info : [2025-01-07T13:43:48.331Z] GET /movie/basic/302 200 176.386 ms
+
+info : [2025-01-07T13:43:48.417Z] GET /movie/basic/262 304 542.341 ms
+
+info : [2025-01-07T13:43:48.581Z] GET /movie/basic/301 200 364.808 ms
+
+info : [2025-01-07T13:43:48.811Z] GET /movie/basic/261 304 496.843 ms
+
+info : [2025-01-07T13:43:48.828Z] GET /movie/basic/304 304 255.835 ms
+
+info : [2025-01-07T13:43:48.833Z] GET /movie/basic/234 304 266.311 ms
+
+info : [2025-01-07T13:43:48.946Z] GET /movie/basic/251 304 149.854 ms
+
+info : [2025-01-07T13:43:48.960Z] GET /movie/basic/264 304 139.841 ms
+
+info : [2025-01-07T13:43:48.989Z] GET /movie/basic/260 304 170.943 ms
+
+info : [2025-01-07T13:43:49.052Z] GET /movie/basic/302 304 70.567 ms
+
+info : [2025-01-07T13:43:49.070Z] GET /movie/basic/303 304 91.434 ms
+
+info : [2025-01-07T13:43:49.080Z] GET /movie/basic/262 304 94.285 ms
+
+info : [2025-01-07T13:43:49.120Z] GET /movie/basic/301 304 99.510 ms
+
+info : [2025-01-07T13:43:49.135Z] GET /movie/basic/261 304 106.863 ms
+
+info : [2025-01-07T13:43:49.166Z] GET /movie/basic/251 304 88.040 ms
+
+info : [2025-01-07T13:43:49.184Z] GET /movie/basic/234 304 122.294 ms
+
+info : [2025-01-07T13:43:49.192Z] GET /movie/basic/264 304 78.574 ms
+
+info : [2025-01-07T13:43:49.198Z] GET /movie/basic/260 304 22.551 ms
+
+info : [2025-01-07T14:13:51.363Z] GET /user/info 401 37.555 ms
+
+info : [2025-01-07T14:13:51.436Z] GET /movie/chart 200 11.912 ms
+
+info : [2025-01-07T14:13:51.627Z] GET /movie/basic/321 200 43.591 ms
+
+info : [2025-01-07T14:13:51.846Z] GET /movie/basic/260 304 80.943 ms
+
+info : [2025-01-07T14:13:51.872Z] GET /movie/basic/318 200 277.127 ms
+
+info : [2025-01-07T14:13:51.898Z] GET /movie/basic/319 200 299.431 ms
+
+info : [2025-01-07T14:13:51.926Z] GET /movie/basic/261 304 311.249 ms
+
+info : [2025-01-07T14:13:52.218Z] GET /movie/basic/320 200 630.257 ms
+
+info : [2025-01-07T14:13:52.237Z] GET /movie/basic/317 200 631.361 ms
+
+info : [2025-01-07T14:13:52.306Z] GET /movie/basic/321 304 21.100 ms
+
+info : [2025-01-07T14:13:52.363Z] GET /img/movie/Civil%20War/poster/Civil%20War.jpg 404 71.564 ms
+
+info : [2025-01-07T14:13:52.369Z] GET /movie/basic/234 304 404.305 ms
+
+info : [2025-01-07T14:13:52.405Z] GET /movie/basic/251 304 122.990 ms
+
+info : [2025-01-07T14:13:52.414Z] GET /movie/basic/262 304 130.553 ms
+
+info : [2025-01-07T14:13:52.463Z] GET /movie/basic/260 304 155.791 ms
+
+info : [2025-01-07T14:13:52.616Z] GET /movie/basic/261 304 99.654 ms
+
+info : [2025-01-07T14:13:52.654Z] GET /movie/basic/319 304 139.607 ms
+
+info : [2025-01-07T14:13:52.714Z] GET /movie/basic/321 304 138.240 ms
+
+info : [2025-01-07T14:13:52.730Z] GET /movie/basic/320 304 203.341 ms
+
+info : [2025-01-07T14:13:52.765Z] GET /movie/basic/318 304 223.852 ms
+
+info : [2025-01-07T14:13:52.795Z] GET /movie/basic/317 304 229.774 ms
+
+info : [2025-01-07T14:13:52.849Z] GET /movie/basic/234 304 64.145 ms
+
+info : [2025-01-07T14:13:52.947Z] GET /movie/basic/251 304 127.389 ms
+
+info : [2025-01-07T14:13:52.956Z] GET /movie/basic/262 304 136.628 ms
+
+info : [2025-01-07T14:13:52.990Z] GET /movie/basic/260 304 157.573 ms
+
+info : [2025-01-07T14:13:53.027Z] GET /img/movie/Pororo%20movie%20Underwater%20adventure/poster/Pororo%20movie%20Underwater%20adventure.jpg 404 5.186 ms
+
+info : [2025-01-07T14:13:53.067Z] GET /movie/basic/261 304 134.868 ms
+
+info : [2025-01-07T14:13:53.115Z] GET /movie/basic/234 304 99.325 ms
+
+info : [2025-01-07T14:13:53.138Z] GET /img/movie/Bogota-%20City%20of%20the%20Lost/poster/Bogota-%20City%20of%20the%20Lost.jpg 404 46.142 ms
+
+info : [2025-01-07T14:13:53.160Z] GET /movie/basic/251 304 143.852 ms
+
+info : [2025-01-07T14:13:53.196Z] GET /img/movie/HARBIN/poster/HARBIN.jpg 404 10.131 ms
+
+info : [2025-01-07T14:13:53.213Z] GET /img/movie/Sonic%20the%20Hedgehog%203/poster/Sonic%20the%20Hedgehog%203.jpg 404 17.154 ms
+
+info : [2025-01-07T14:13:53.234Z] GET /img/movie/Civil%20War/poster/Civil%20War.jpg 404 3.613 ms
+
+info : [2025-01-07T14:14:36.860Z] GET /movie/actor/262 304 27.665 ms
+
+info : [2025-01-07T14:14:36.954Z] GET /movie/director/262 304 111.614 ms
+
+info : [2025-01-07T14:14:37.028Z] GET /movie/262 304 195.713 ms
+
+info : [2025-01-07T14:14:37.067Z] GET /movie/genre/262 304 227.526 ms
+
+info : [2025-01-07T14:14:38.539Z] GET /movie/chart 304 2.262 ms
+
+info : [2025-01-07T14:14:38.634Z] GET /movie/basic/261 304 12.098 ms
+
+info : [2025-01-07T14:14:38.639Z] GET /movie/basic/260 304 15.737 ms
+
+info : [2025-01-07T14:14:38.666Z] GET /movie/basic/234 304 41.622 ms
+
+info : [2025-01-07T14:14:38.683Z] GET /movie/basic/321 304 10.467 ms
+
+info : [2025-01-07T14:14:38.688Z] GET /movie/basic/251 304 16.339 ms
+
+info : [2025-01-07T14:14:38.704Z] GET /movie/basic/320 304 4.260 ms
+
+info : [2025-01-07T14:14:38.717Z] GET /movie/basic/262 304 10.817 ms
+
+info : [2025-01-07T14:14:38.720Z] GET /movie/basic/319 304 10.469 ms
+
+info : [2025-01-07T14:14:38.722Z] GET /movie/basic/261 304 11.237 ms
+
+info : [2025-01-07T14:14:38.726Z] GET /movie/basic/260 304 11.512 ms
+
+info : [2025-01-07T14:14:38.737Z] GET /movie/basic/318 304 4.048 ms
+
+info : [2025-01-07T14:14:38.753Z] GET /movie/basic/317 304 11.173 ms
+
+info : [2025-01-07T14:14:38.755Z] GET /movie/basic/234 304 11.540 ms
+
+info : [2025-01-07T14:14:38.763Z] GET /movie/basic/321 304 13.995 ms
+
+info : [2025-01-07T14:14:38.767Z] GET /movie/basic/251 304 17.338 ms
+
+info : [2025-01-07T14:14:38.790Z] GET /movie/basic/320 304 7.231 ms
+
+info : [2025-01-07T14:14:38.796Z] GET /movie/basic/262 304 11.293 ms
+
+info : [2025-01-07T14:14:38.800Z] GET /movie/basic/319 304 14.934 ms
+
+info : [2025-01-07T14:14:38.819Z] GET /movie/basic/261 304 7.870 ms
+
+info : [2025-01-07T14:14:38.859Z] GET /movie/basic/260 304 41.377 ms
+
+info : [2025-01-07T14:14:38.943Z] GET /img/movie/Civil%20War/poster/Civil%20War.jpg 404 0.825 ms
+
+info : [2025-01-07T14:14:38.994Z] GET /movie/basic/321 304 61.627 ms
+
+info : [2025-01-07T14:14:39.005Z] GET /movie/basic/318 304 110.102 ms
+
+info : [2025-01-07T14:14:39.088Z] GET /movie/basic/251 304 147.898 ms
+
+info : [2025-01-07T14:14:39.116Z] GET /movie/basic/317 304 194.727 ms
+
+info : [2025-01-07T14:14:39.139Z] GET /movie/basic/234 304 217.139 ms
+
+info : [2025-01-07T14:14:39.186Z] GET /img/movie/HARBIN/poster/HARBIN.jpg 404 5.225 ms
+
+info : [2025-01-07T14:14:39.256Z] GET /img/movie/Bogota-%20City%20of%20the%20Lost/poster/Bogota-%20City%20of%20the%20Lost.jpg 404 15.528 ms
+
+info : [2025-01-07T14:14:39.287Z] GET /img/movie/Pororo%20movie%20Underwater%20adventure/poster/Pororo%20movie%20Underwater%20adventure.jpg 404 15.148 ms
+
+info : [2025-01-07T14:14:39.317Z] GET /img/movie/Sonic%20the%20Hedgehog%203/poster/Sonic%20the%20Hedgehog%203.jpg 404 44.028 ms
+
+info : [2025-01-07T14:14:39.333Z] GET /img/movie/Civil%20War/poster/Civil%20War.jpg 404 51.707 ms
+
+info : [2025-01-07T14:35:22.257Z] GET /movie/chart 200 20.355 ms
+
+info : [2025-01-07T14:35:22.427Z] GET /movie/basic/340 200 20.662 ms
+
+info : [2025-01-07T14:35:22.473Z] GET /movie/basic/339 200 25.467 ms
+
+info : [2025-01-07T14:35:22.505Z] GET /movie/basic/342 200 17.199 ms
+
+info : [2025-01-07T14:35:22.537Z] GET /movie/basic/335 200 4.005 ms
+
+info : [2025-01-07T14:35:22.556Z] GET /movie/basic/334 200 3.789 ms
+
+info : [2025-01-07T14:35:22.576Z] GET /movie/basic/340 304 5.017 ms
+
+info : [2025-01-07T14:35:22.620Z] GET /movie/basic/339 304 15.671 ms
+
+info : [2025-01-07T14:35:22.673Z] GET /movie/basic/337 200 176.184 ms
+
+info : [2025-01-07T14:35:22.733Z] GET /movie/basic/341 200 276.923 ms
+
+info : [2025-01-07T14:35:22.750Z] GET /movie/basic/343 200 300.486 ms
+
+info : [2025-01-07T14:35:22.768Z] GET /movie/basic/342 304 124.195 ms
+
+info : [2025-01-07T14:35:22.792Z] GET /movie/basic/336 200 280.741 ms
+
+info : [2025-01-07T14:35:22.817Z] GET /movie/basic/338 200 317.520 ms
+
+info : [2025-01-07T14:35:22.832Z] GET /img/movie/Crayon%20Shinchan%20the%20Movie-%20Our%20Dinosaur%20Diary/poster/Crayon%20Shinchan%20the%20Movie-%20Our%20Dinosaur%20Diary.jpg 404 31.158 ms
+
+info : [2025-01-07T14:35:22.843Z] GET /img/movie/Mufasa-%20The%20Lion%20King/poster/Mufasa-%20The%20Lion%20King.jpg 404 4.510 ms
+
+info : [2025-01-07T14:35:22.865Z] GET /movie/basic/335 304 61.816 ms
+
+info : [2025-01-07T14:35:22.894Z] GET /img/movie/Civil%20War/poster/Civil%20War.jpg 404 41.043 ms
+
+info : [2025-01-07T14:35:22.928Z] GET /movie/basic/334 304 116.117 ms
+
+info : [2025-01-07T14:35:22.948Z] GET /movie/basic/340 304 93.639 ms
+
+info : [2025-01-07T14:35:23.003Z] GET /movie/basic/339 304 101.562 ms
+
+info : [2025-01-07T14:35:23.018Z] GET /img/movie/MOANA%202/poster/MOANA%202.jpg 404 27.265 ms
+
+info : [2025-01-07T14:35:23.043Z] GET /movie/basic/337 304 88.531 ms
+
+info : [2025-01-07T14:35:23.049Z] GET /movie/basic/341 304 84.377 ms
+
+info : [2025-01-07T14:35:23.067Z] GET /movie/basic/342 304 81.500 ms
+
+info : [2025-01-07T14:35:23.093Z] GET /img/movie/Wicked/poster/Wicked.jpg 404 40.800 ms
+
+info : [2025-01-07T14:35:23.121Z] GET /movie/basic/343 304 92.882 ms
+
+info : [2025-01-07T14:35:23.176Z] GET /img/movie/Pororo%20movie%20Underwater%20adventure/poster/Pororo%20movie%20Underwater%20adventure.jpg 404 10.075 ms
+
+info : [2025-01-07T14:35:23.186Z] GET /movie/basic/336 304 85.173 ms
+
+info : [2025-01-07T14:35:23.189Z] GET /movie/basic/338 304 50.698 ms
+
+info : [2025-01-07T14:35:23.201Z] GET /movie/basic/341 304 55.225 ms
+
+info : [2025-01-07T14:35:23.207Z] GET /img/movie/Sonic%20the%20Hedgehog%203/poster/Sonic%20the%20Hedgehog%203.jpg 404 2.428 ms
+
+info : [2025-01-07T14:35:23.211Z] GET /movie/basic/343 304 51.448 ms
+
+info : [2025-01-07T14:35:23.217Z] GET /img/movie/HARBIN/poster/HARBIN.jpg 404 1.929 ms
+
+info : [2025-01-07T14:35:23.223Z] GET /img/movie/Bogota-%20City%20of%20the%20Lost/poster/Bogota-%20City%20of%20the%20Lost.jpg 404 6.605 ms
+
+info : [2025-01-07T14:35:23.241Z] GET /img/movie/FIREFIGHTERS/poster/FIREFIGHTERS.jpg 404 4.944 ms
+
+info : [2025-01-07T14:35:23.247Z] GET /img/movie/Crayon%20Shinchan%20the%20Movie-%20Our%20Dinosaur%20Diary/poster/Crayon%20Shinchan%20the%20Movie-%20Our%20Dinosaur%20Diary.jpg 404 13.701 ms
+
+info : [2025-01-07T14:35:23.277Z] GET /img/movie/Mufasa-%20The%20Lion%20King/poster/Mufasa-%20The%20Lion%20King.jpg 404 15.284 ms
+
+info : [2025-01-07T14:35:23.287Z] GET /img/movie/MOANA%202/poster/MOANA%202.jpg 404 19.710 ms
+
+info : [2025-01-07T14:35:23.310Z] GET /img/movie/Civil%20War/poster/Civil%20War.jpg 404 5.918 ms
+
+info : [2025-01-07T14:35:23.321Z] GET /img/movie/Wicked/poster/Wicked.jpg 404 1.876 ms
+

@@ -5,8 +5,6 @@ import Slider from "react-slick";
 import CustomArrow from "components/ui/CustomArrow";
 import "./Carousel.css"; // 추가적인 스타일이 필요하다면 이 파일에서 설정
 
-// Carousel by react-slick
-
 const MovieChartList = (props) => {
   const { movieChart, onClickItem } = props;
 

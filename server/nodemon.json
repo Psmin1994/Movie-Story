@@ -1,0 +1,14 @@
+{
+  "exec": "tsc && tsc-alias && node dist/bin/www.js",
+  "watch": [
+    "src"
+  ],
+  "ext": "js,ts",
+  "ignore": [
+    "node_modules",
+    "dist"
+  ],
+  "delay": "1000",
+  "restartable": "rs",
+  "verbose": true
+}

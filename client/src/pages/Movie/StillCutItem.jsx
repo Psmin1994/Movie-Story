@@ -1,7 +1,7 @@
 import React from "react";
-import PhotoModal from "./PhotoModal";
-import Portal from "utils/Portal";
 import styled from "styled-components";
+import Portal from "utils/Portal";
+import PhotoModal from "./PhotoModal";
 import useModal from "hooks/useModal";
 
 const StillCutItem = (props) => {

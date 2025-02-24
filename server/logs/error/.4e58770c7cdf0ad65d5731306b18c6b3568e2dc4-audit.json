@@ -1,0 +1,50 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 14
+    },
+    "auditLog": "C:\\workspace\\project\\Movie-Story\\server\\logs\\error\\.4e58770c7cdf0ad65d5731306b18c6b3568e2dc4-audit.json",
+    "files": [
+        {
+            "date": 1736880384175,
+            "name": "C:\\workspace\\project\\Movie-Story\\server\\logs\\error\\2025-01-15.error.log",
+            "hash": "1f22092d1492b04e8370c4989a2c0f85f55367c5e72fb96a71b1b285fcd35ac6"
+        },
+        {
+            "date": 1737121610016,
+            "name": "C:\\workspace\\project\\Movie-Story\\server\\logs\\error\\2025-01-17.error.log",
+            "hash": "6727d59117973ea743fa1ba4fbc3f222b51fc8249153ce2a11f8a2d00e34da4d"
+        },
+        {
+            "date": 1737147973886,
+            "name": "C:\\workspace\\project\\Movie-Story\\server\\logs\\error\\2025-01-18.error.log",
+            "hash": "2f21c8ef240180e4e1531511cc154dbe3e31c0d653bc9f3f22a59e4d39d90dae"
+        },
+        {
+            "date": 1737507900035,
+            "name": "C:\\workspace\\project\\Movie-Story\\server\\logs\\error\\2025-01-22.error.log",
+            "hash": "fd62e760a7317de8a5d1d5c3c94f6c60db39e6f6e200b0eea9ef17dd9899ebaf"
+        },
+        {
+            "date": 1737563650915,
+            "name": "C:\\workspace\\project\\Movie-Story\\server\\logs\\error\\2025-01-23.error.log",
+            "hash": "7e905b8e4c562cef2c2451bbfc053a48df6c24c679c8aa217f27133e214db29c"
+        },
+        {
+            "date": 1739924170891,
+            "name": "C:\\workspace\\project\\Movie-Story\\server\\logs\\error\\2025-02-19.error.log",
+            "hash": "2c93a4d6e0a26253af16d000cf773886e65f8e70d6b6af862c0f5860629047f4"
+        },
+        {
+            "date": 1739979515440,
+            "name": "C:\\workspace\\project\\Movie-Story\\server\\logs\\error\\2025-02-20.error.log",
+            "hash": "6e47634dcc0046ecda97ce97712c0a199db3e97bcc3446c1a075d46a6e255752"
+        },
+        {
+            "date": 1740190307163,
+            "name": "C:\\workspace\\project\\Movie-Story\\server\\logs\\error\\2025-02-22.error.log",
+            "hash": "fe92d20426951fd1035c46e7c9110aa466d5be020b4157383824a338ef492450"
+        }
+    ],
+    "hashType": "sha256"
+}

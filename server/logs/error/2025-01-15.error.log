@@ -1,0 +1,27 @@
+undefined [ERROR]: [2025-01-14T18:48:47.705Z] GET /user/info 401 1.787 ms
+
+undefined [ERROR]: [2025-01-14T18:49:26.212Z] GET /user/info 401 2.103 ms
+
+undefined [ERROR]: [2025-01-14T18:49:50.624Z] GET /user/info 401 0.700 ms
+
+undefined [ERROR]: [2025-01-14T18:50:26.088Z] GET /user/info 401 1.505 ms
+
+undefined [ERROR]: [2025-01-14T18:51:36.605Z] GET /user/info 401 8.221 ms
+
+undefined [ERROR]: ACCESS_TOKEN_SECRET is not defined in environment variables.
+undefined [ERROR]: [2025-01-14T19:24:32.754Z] GET /user/info 500 20.583 ms
+
+undefined [ERROR]: ACCESS_TOKEN_SECRET is not defined in environment variables.
+undefined [ERROR]: [2025-01-14T19:24:52.572Z] GET /user/info 500 5.034 ms
+
+undefined [ERROR]: ACCESS_TOKEN_SECRET is not defined in environment variables.
+undefined [ERROR]: [2025-01-14T19:25:21.595Z] GET /user/info 500 1.674 ms
+
+undefined [ERROR]: [2025-01-14T19:25:45.803Z] GET /user/info 401 28.242 ms
+
+undefined [ERROR]: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM userInfo WHERE user_id = 2' at line 1
+undefined [ERROR]: [2025-01-14T19:25:46.110Z] GET /user/info 500 30.989 ms
+
+undefined [ERROR]: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM userInfo WHERE user_id = 2' at line 1
+undefined [ERROR]: [2025-01-14T19:26:49.030Z] GET /user/info 500 65.552 ms
+

@@ -1,0 +1,10 @@
+2025-02-22 11:02:32 [ERROR]: GET /favicon.ico 404 4.966 ms
+
+2025-02-22 11:02:98 [ERROR]: POST /user/login 404 68.070 ms
+
+2025-02-22 11:02:20 [ERROR]: GET /user/login 404 1.883 ms
+
+2025-02-22 11:02:19 [ERROR]: GET /user/login 404 1.369 ms
+
+2025-02-22 11:02:83 [ERROR]: POST /user/login 404 7.233 ms
+

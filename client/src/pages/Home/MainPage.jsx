@@ -19,13 +19,6 @@ const MainPage = () => {
     window.scrollTo(0, 0);
   }, []); // 페이지가 처음 로드될 때만 실행
 
-  // let ran = Math.round(Math.random() * 10);
-  // console.log(data);
-
-  // let movieId = data[ran].movieId;
-
-  // console.log(movieId);
-
   const handleClick = (index) => {
     setClicked(index);
   };
@@ -57,7 +50,7 @@ const MainPage = () => {
             <NavMenu>
               {["무비차트", "상영예정작"].map((item, index) => (
                 <li key={index}>
-                  <TagWrapper clicked={clicked === index} onClick={() => handleClick(index)}>
+                  <TagWrapper data={{ clicked: clicked === index }} onClick={() => handleClick(index)}>
                     <p>{item}</p>
                   </TagWrapper>
                 </li>
@@ -75,8 +68,8 @@ const MainPage = () => {
             data && (
               <MovieChartList
                 movieChart={data}
-                onClickItem={(movieId) => {
-                  navigate(`/movie/${movieId}`);
+                onClickItem={(movieId, data) => {
+                  navigate(`/movie/${movieId}`, { state: data });
                 }}></MovieChartList>
             )
           )}
@@ -141,8 +134,8 @@ const TagWrapper = styled.strong`
 
   cursor: pointer;
 
-  color: ${(props) => (props.clicked ? "black" : "#666")};
-  font-weight: ${(props) => (props.clicked ? "bold" : "500")};
+  color: ${(props) => (props.data.clicked ? "black" : "#666")};
+  font-weight: ${(props) => (props.data.clicked ? "bold" : "500")};
 `;
 
 const Store = styled.section`

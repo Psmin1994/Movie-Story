@@ -11,7 +11,7 @@ const RegisterModal = (props) => {
     id: "",
     password: "",
     confirmPassword: "",
-    nickname: "",
+    name: "",
   };
 
   const [formData, setFormData] = useState(INITIAL_VALUES);
@@ -30,51 +30,42 @@ const RegisterModal = (props) => {
   const validate = () => {
     const newErrors = {};
 
-    // 이메일 유효성 검사
-    // if (!formData.email) {
-    //   newErrors.email = "이메일을 입력하세요.";
-    // } else if (!/\S+@\S+\.\S+/.test(formData.email)) {
-    //   newErrors.email = "유효한 이메일 주소를 입력하세요.";
-    // }
-
     // 아이디 유효성 검사
     if (!formData.id) {
-      newErrors.id = "아이디를 입력";
+      newErrors.id = "아이디를 입력하세요.";
     } else if (formData.id.length < 4 || formData.id.length > 12) {
-      newErrors.id = "아이디는 4글자 이상 12글자 미만";
+      newErrors.id = "아이디는 4글자 이상 12글자 미만이어야합니다.";
     } else if (!/[a-zA-Z]/.test(formData.id)) {
-      newErrors.id = "아이디는 영어 대소문자를 포함";
+      newErrors.id = "아이디에 영어가 포함되어야합니다.";
     } else if (!/\d/.test(formData.id)) {
-      newErrors.id = "아이디는 숫자를 포함";
+      newErrors.id = "아이디에 숫자가 포함되어야합니다.";
     }
 
     // 비밀번호 유효성 검사
     if (!formData.password) {
-      newErrors.password = "비밀번호를 입력";
+      newErrors.password = "비밀번호를 입력하세요.";
     } else if (formData.password.length < 4 || formData.password.length > 12) {
-      newErrors.password = "비밀번호는 4글자 이상 12글자 미만";
+      newErrors.password = "비밀번호는 4글자 이상 12글자 미만이어야합니다.";
     } else if (!/[a-zA-Z]/.test(formData.password)) {
-      newErrors.password = "비밀번호는 영어 대소문자를 포함";
+      newErrors.password = "비밀번호에 영어가 포함되어야합니다.";
     } else if (!/\d/.test(formData.password)) {
-      newErrors.password = "비밀번호는 숫자를 포함";
+      newErrors.password = "비밀번호에 숫자가 포함되어야합니다.";
     } else if (!/[!@#$%^&*]/.test(formData.password)) {
-      newErrors.password = "비밀번호는 특수문자(!@#$%^&*)를 포함";
+      newErrors.password = "비밀번호에 특수문자(!@#$%^&*)가 포함되어야합니다.";
     }
 
     // 비밀번호 확인 유효성 검사
-    if (!formData.confirmPassword) {
-      newErrors.confirmPassword = "비밀번호 확인을 입력";
-    } else if (formData.password !== formData.confirmPassword) {
-      newErrors.confirmPassword = "비밀번호가 일치 X";
+    if (formData.password !== formData.confirmPassword) {
+      newErrors.confirmPassword = "비밀번호가 일치하지않습니다.";
     }
 
     // 닉네임 유효성 검사
-    if (!formData.nickname) {
-      newErrors.nickname = "이름을 입력";
-    } else if (formData.nickname.length < 2 || formData.nickname.length > 8) {
-      newErrors.nickname = "이름는 2글자 이상 8글자 미만";
-    } else if (/[^가-힣]/.test(formData.nickname)) {
-      newErrors.nickname = "이름은 한글로만";
+    if (!formData.name) {
+      newErrors.name = "이름을 입력하세요.";
+    } else if (formData.name.length < 2 || formData.name.length > 8) {
+      newErrors.name = "이름은 2글자 이상 8글자 미만이어야합니다.";
+    } else if (/[^가-힣]/.test(formData.name)) {
+      newErrors.name = "이름은 한글로 작성해주세요.";
     }
 
     setErrData(newErrors);
@@ -102,32 +93,26 @@ const RegisterModal = (props) => {
 
   // data가 업데이트되었을 때 후속 처리 (useEffect)
   useEffect(() => {
-    if (data) {
-      if (data.success) {
-        // 성공 처리 (예: 토큰 저장, 모달 닫기 등)
-        alert(data.msg);
-        setMode("login");
-      } else {
-        alert(data.msg);
-      }
+    if (data && data.success) {
+      // 성공 처리 (예: 토큰 저장, 모달 닫기 등)
+      alert(data.message);
+      setMode("login");
     }
     // eslint-disable-next-line
   }, [data]); // data가 변경될 때마다 실행
 
   // error가 발생한 경우 처리 (useEffect)
   useEffect(() => {
-    let statueCode = error ? error.response.status : null;
+    console.log(error);
 
-    if (statueCode === 400) {
-      let errObj = error.response.data;
+    if (error && error.response) {
+      let err = error.response;
 
-      let tmp = INITIAL_VALUES;
+      let statueCode = err.status;
 
-      for (let [name, msg] of Object.entries(errObj)) {
-        tmp[name] = msg;
+      if (statueCode < 500) {
+        console.error(err.data.message);
       }
-
-      setErrData(tmp);
     }
     // eslint-disable-next-line
   }, [error]);
@@ -167,12 +152,12 @@ const RegisterModal = (props) => {
 
           <StyledInput
             name="name"
-            type="name"
+            type="text"
             autoComplete="off"
-            placeholder="Nickname"
-            value={formData.nickname}
+            placeholder="name"
+            value={formData.name}
             onChange={handleChange}></StyledInput>
-          <ErrorMessage id="name-msg">{errData.nickname}</ErrorMessage>
+          <ErrorMessage id="name-msg">{errData.name}</ErrorMessage>
 
           <StyledCommit type="submit" disabled={loading}>
             {loading ? "Trying..." : "Create"}

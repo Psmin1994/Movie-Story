@@ -67,29 +67,30 @@ const LoginModal = (props) => {
     if (validate()) trigger();
   };
 
-  // data가 업데이트되었을 때 후속 처리 (useEffect)
+  // data가 업데이트되었을 때 처리 (useEffect)
   useEffect(() => {
-    if (data) {
-      if (data.success) {
-        // 로그인 성공 처리 (예: 토큰 저장, 모달 닫기 등)
-        closeModal(); // 모달을 닫기
-        setFormData(INITIAL_VALUES); // 로그인 후 formData 리셋
-        window.location.reload();
-      } else {
-        alert(data.message);
-      }
+    if (data && data.success) {
+      // 로그인 성공 처리
+      alert(data.message);
+      closeModal(); // 모달 닫기
+      setFormData(INITIAL_VALUES); // 로그인 후 formData 리셋
+      window.location.reload();
     }
     // eslint-disable-next-line
   }, [data]); // data가 변경될 때마다 실행
 
   // error가 발생한 경우 처리 (useEffect)
   useEffect(() => {
-    let statueCode = error ? error.response.status : null;
+    console.log(error);
+    
+    if (error && error.response) {
+      let err = error.response;
 
-    if (statueCode === 500) {
-      let errObj = error.response.data;
+      let statueCode = err.status;
 
-      alert(errObj.message);
+      if (statueCode < 500) {
+        console.error(err.data.message);
+      }
     }
   }, [error]);
 

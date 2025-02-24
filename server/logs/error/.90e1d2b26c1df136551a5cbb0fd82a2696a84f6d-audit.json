@@ -6,11 +6,6 @@
     "auditLog": "C:\\workspace\\project\\Movie-Story\\server\\logs\\error\\.90e1d2b26c1df136551a5cbb0fd82a2696a84f6d-audit.json",
     "files": [
         {
-            "date": 1732722192298,
-            "name": "C:\\workspace\\project\\Movie-Story\\server\\logs\\error\\2024-11-28.error.log",
-            "hash": "6cdcb3276485497b120532af4849cc969ab679768e75ed61cee3a9f215511bbc"
-        },
-        {
             "date": 1732956149441,
             "name": "C:\\workspace\\project\\Movie-Story\\server\\logs\\error\\2024-11-30.error.log",
             "hash": "1d22ad77bb7724e256e24c98bceea50671146603fbec328188ef4ca52b061720"
@@ -74,6 +69,11 @@
             "date": 1734897245186,
             "name": "C:\\workspace\\project\\Movie-Story\\server\\logs\\error\\2024-12-23.error.log",
             "hash": "42e996915d644a4dc1fe643cf9c8b8bc4769b53e6d67c681fe07943e001d1714"
+        },
+        {
+            "date": 1736188354542,
+            "name": "C:\\workspace\\project\\Movie-Story\\server\\logs\\error\\2025-01-07.error.log",
+            "hash": "84e4fcf8ffc8c283f97fc1f5a253add0cc3e33f864cdc3ed87980d2ee5537628"
         }
     ],
     "hashType": "sha256"

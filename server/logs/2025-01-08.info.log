@@ -1,0 +1,386 @@
+info : [2025-01-07T15:08:50.638Z] GET /user/info 401 11.810 ms
+
+info : [2025-01-07T15:08:50.662Z] GET /movie/chart 200 4.901 ms
+
+info : [2025-01-07T15:08:50.791Z] GET /movie/basic/411 200 11.954 ms
+
+info : [2025-01-07T15:08:50.828Z] GET /movie/basic/410 200 5.204 ms
+
+info : [2025-01-07T15:08:50.838Z] GET /movie/basic/414 200 4.402 ms
+
+info : [2025-01-07T15:08:50.940Z] GET /movie/basic/412 200 16.622 ms
+
+info : [2025-01-07T15:08:50.974Z] GET /movie/basic/407 200 5.234 ms
+
+info : [2025-01-07T15:08:50.980Z] GET /movie/basic/409 200 46.400 ms
+
+info : [2025-01-07T15:08:50.989Z] GET /movie/basic/413 200 63.314 ms
+
+info : [2025-01-07T15:08:51.022Z] GET /movie/basic/408 200 94.834 ms
+
+info : [2025-01-07T15:08:51.046Z] GET /movie/basic/406 200 12.332 ms
+
+info : [2025-01-07T15:08:51.063Z] GET /movie/basic/411 304 5.849 ms
+
+info : [2025-01-07T15:08:51.071Z] GET /movie/basic/410 304 11.828 ms
+
+info : [2025-01-07T15:08:51.092Z] GET /movie/basic/414 304 5.041 ms
+
+info : [2025-01-07T15:08:51.096Z] GET /movie/basic/405 200 40.212 ms
+
+info : [2025-01-07T15:08:51.134Z] GET /movie/basic/412 304 22.442 ms
+
+info : [2025-01-07T15:08:51.155Z] GET /movie/basic/407 304 16.355 ms
+
+info : [2025-01-07T15:08:51.174Z] GET /movie/basic/409 304 10.867 ms
+
+info : [2025-01-07T15:08:51.180Z] GET /movie/basic/413 304 13.598 ms
+
+info : [2025-01-07T15:08:51.247Z] GET /movie/basic/408 304 3.729 ms
+
+info : [2025-01-07T15:08:51.288Z] GET /movie/basic/411 304 6.061 ms
+
+info : [2025-01-07T15:08:51.309Z] GET /movie/basic/410 304 25.352 ms
+
+info : [2025-01-07T15:08:51.383Z] GET /movie/basic/406 304 6.441 ms
+
+info : [2025-01-07T15:08:51.440Z] GET /movie/basic/414 304 3.676 ms
+
+info : [2025-01-07T15:08:51.497Z] GET /movie/basic/412 304 6.812 ms
+
+info : [2025-01-07T15:08:51.506Z] GET /movie/basic/405 304 11.359 ms
+
+info : [2025-01-07T15:08:51.566Z] GET /movie/basic/413 304 4.210 ms
+
+info : [2025-01-07T15:08:55.494Z] GET /movie/410 200 20.549 ms
+
+info : [2025-01-07T15:08:55.496Z] GET /movie/genre/410 200 16.367 ms
+
+info : [2025-01-07T15:08:55.499Z] GET /movie/director/410 200 20.812 ms
+
+info : [2025-01-07T15:08:55.502Z] GET /movie/actor/410 200 26.686 ms
+
+info : [2025-01-07T15:09:06.308Z] GET /movie/chart 304 2.794 ms
+
+info : [2025-01-07T15:09:06.414Z] GET /movie/basic/411 304 18.099 ms
+
+info : [2025-01-07T15:09:06.425Z] GET /movie/basic/410 304 25.491 ms
+
+info : [2025-01-07T15:09:06.440Z] GET /movie/basic/414 304 28.914 ms
+
+info : [2025-01-07T15:09:06.445Z] GET /movie/basic/413 304 27.133 ms
+
+info : [2025-01-07T15:09:06.447Z] GET /movie/basic/412 304 35.272 ms
+
+info : [2025-01-07T15:09:06.454Z] GET /movie/basic/408 304 23.463 ms
+
+info : [2025-01-07T15:09:06.495Z] GET /movie/basic/409 304 42.016 ms
+
+info : [2025-01-07T15:09:06.513Z] GET /movie/basic/407 304 36.504 ms
+
+info : [2025-01-07T15:09:06.527Z] GET /movie/basic/405 304 45.613 ms
+
+info : [2025-01-07T15:09:06.547Z] GET /movie/basic/406 304 68.308 ms
+
+info : [2025-01-07T15:09:06.607Z] GET /movie/basic/411 304 121.447 ms
+
+info : [2025-01-07T15:09:06.631Z] GET /movie/basic/410 304 71.334 ms
+
+info : [2025-01-07T15:09:06.646Z] GET /movie/basic/414 304 77.221 ms
+
+info : [2025-01-07T15:09:06.668Z] GET /movie/basic/413 304 79.728 ms
+
+info : [2025-01-07T15:09:06.682Z] GET /movie/basic/412 304 79.930 ms
+
+info : [2025-01-07T15:09:06.703Z] GET /movie/basic/408 304 41.440 ms
+
+info : [2025-01-07T15:09:06.717Z] GET /movie/basic/409 304 40.501 ms
+
+info : [2025-01-07T15:09:06.736Z] GET /movie/basic/407 304 48.269 ms
+
+info : [2025-01-07T15:09:06.743Z] GET /movie/basic/405 304 44.341 ms
+
+info : [2025-01-07T15:09:06.762Z] GET /movie/basic/406 304 50.432 ms
+
+info : [2025-01-07T15:09:06.799Z] GET /movie/basic/411 304 71.671 ms
+
+info : [2025-01-07T15:09:06.816Z] GET /movie/basic/410 304 66.811 ms
+
+info : [2025-01-07T15:09:06.827Z] GET /movie/basic/413 304 40.811 ms
+
+info : [2025-01-07T15:09:06.833Z] GET /movie/basic/414 304 59.573 ms
+
+info : [2025-01-07T15:09:06.847Z] GET /movie/basic/412 304 43.236 ms
+
+info : [2025-01-07T15:09:07.651Z] GET /movie/407 200 6.143 ms
+
+info : [2025-01-07T15:09:07.662Z] GET /movie/actor/407 200 13.133 ms
+
+info : [2025-01-07T15:09:07.665Z] GET /movie/director/407 200 10.616 ms
+
+info : [2025-01-07T15:09:07.671Z] GET /movie/genre/407 200 12.808 ms
+
+info : [2025-01-07T15:09:09.805Z] GET /movie/chart 304 1.208 ms
+
+info : [2025-01-07T15:09:09.912Z] GET /movie/basic/411 304 17.357 ms
+
+info : [2025-01-07T15:09:09.915Z] GET /movie/basic/410 304 18.207 ms
+
+info : [2025-01-07T15:09:09.922Z] GET /movie/basic/414 304 20.540 ms
+
+info : [2025-01-07T15:09:09.932Z] GET /movie/basic/412 304 23.299 ms
+
+info : [2025-01-07T15:09:09.940Z] GET /movie/basic/413 304 29.734 ms
+
+info : [2025-01-07T15:09:09.946Z] GET /movie/basic/408 304 28.187 ms
+
+info : [2025-01-07T15:09:09.953Z] GET /movie/basic/409 304 27.192 ms
+
+info : [2025-01-07T15:09:09.967Z] GET /movie/basic/407 304 40.137 ms
+
+info : [2025-01-07T15:09:10.028Z] GET /movie/basic/405 304 44.685 ms
+
+info : [2025-01-07T15:09:10.037Z] GET /movie/basic/406 304 71.172 ms
+
+info : [2025-01-07T15:09:10.085Z] GET /movie/basic/410 304 87.228 ms
+
+info : [2025-01-07T15:09:10.104Z] GET /movie/basic/411 304 109.482 ms
+
+info : [2025-01-07T15:09:10.111Z] GET /movie/basic/414 304 101.837 ms
+
+info : [2025-01-07T15:09:10.130Z] GET /movie/basic/412 304 70.349 ms
+
+info : [2025-01-07T15:09:10.154Z] GET /movie/basic/413 304 78.889 ms
+
+info : [2025-01-07T15:09:10.167Z] GET /movie/basic/408 304 47.579 ms
+
+info : [2025-01-07T15:09:10.188Z] GET /movie/basic/409 304 45.373 ms
+
+info : [2025-01-07T15:09:10.195Z] GET /movie/basic/405 304 44.232 ms
+
+info : [2025-01-07T15:09:10.208Z] GET /movie/basic/407 304 60.754 ms
+
+info : [2025-01-07T15:09:10.227Z] GET /movie/basic/406 304 54.582 ms
+
+info : [2025-01-07T15:09:10.252Z] GET /movie/basic/410 304 79.242 ms
+
+info : [2025-01-07T15:09:10.265Z] GET /movie/basic/414 304 18.675 ms
+
+info : [2025-01-07T15:09:10.270Z] GET /movie/basic/411 304 54.374 ms
+
+info : [2025-01-07T15:09:10.278Z] GET /movie/basic/412 304 28.979 ms
+
+info : [2025-01-07T15:09:10.286Z] GET /movie/basic/413 304 35.794 ms
+
+info : [2025-01-07T15:09:10.588Z] GET /movie/405 200 2.779 ms
+
+info : [2025-01-07T15:09:10.601Z] GET /movie/actor/405 200 4.004 ms
+
+info : [2025-01-07T15:09:10.622Z] GET /movie/director/405 200 7.149 ms
+
+info : [2025-01-07T15:09:10.637Z] GET /movie/genre/405 200 3.125 ms
+
+info : [2025-01-07T15:09:12.540Z] GET /movie/chart 304 1.263 ms
+
+info : [2025-01-07T15:09:12.617Z] GET /movie/basic/411 304 6.005 ms
+
+info : [2025-01-07T15:09:12.634Z] GET /movie/basic/410 304 12.931 ms
+
+info : [2025-01-07T15:09:12.647Z] GET /movie/basic/414 304 22.051 ms
+
+info : [2025-01-07T15:09:12.649Z] GET /movie/basic/413 304 23.208 ms
+
+info : [2025-01-07T15:09:12.656Z] GET /movie/basic/412 304 28.153 ms
+
+info : [2025-01-07T15:09:12.667Z] GET /movie/basic/408 304 25.092 ms
+
+info : [2025-01-07T15:09:12.677Z] GET /movie/basic/409 304 32.462 ms
+
+info : [2025-01-07T15:09:12.681Z] GET /movie/basic/407 304 16.927 ms
+
+info : [2025-01-07T15:09:12.696Z] GET /movie/basic/406 304 11.039 ms
+
+info : [2025-01-07T15:09:12.712Z] GET /movie/basic/410 304 20.002 ms
+
+info : [2025-01-07T15:09:12.715Z] GET /movie/basic/405 304 21.432 ms
+
+info : [2025-01-07T15:09:12.719Z] GET /movie/basic/414 304 20.307 ms
+
+info : [2025-01-07T15:09:12.723Z] GET /movie/basic/411 304 28.029 ms
+
+info : [2025-01-07T15:09:12.765Z] GET /movie/basic/413 304 35.831 ms
+
+info : [2025-01-07T15:09:12.790Z] GET /movie/basic/412 304 54.172 ms
+
+info : [2025-01-07T15:09:12.905Z] GET /movie/basic/408 304 92.582 ms
+
+info : [2025-01-07T15:09:12.922Z] GET /movie/basic/409 304 120.858 ms
+
+info : [2025-01-07T15:09:12.929Z] GET /movie/basic/407 304 111.575 ms
+
+info : [2025-01-07T15:09:12.947Z] GET /movie/basic/410 304 80.608 ms
+
+info : [2025-01-07T15:09:12.967Z] GET /movie/basic/406 304 103.282 ms
+
+info : [2025-01-07T15:09:12.988Z] GET /movie/basic/414 304 32.297 ms
+
+info : [2025-01-07T15:09:12.998Z] GET /movie/basic/411 304 22.933 ms
+
+info : [2025-01-07T15:09:13.002Z] GET /movie/basic/413 304 26.017 ms
+
+info : [2025-01-07T15:09:13.013Z] GET /movie/basic/412 304 28.228 ms
+
+info : [2025-01-07T15:09:13.018Z] GET /movie/basic/405 304 144.899 ms
+
+info : [2025-01-07T15:09:13.398Z] GET /movie/406 200 10.934 ms
+
+info : [2025-01-07T15:09:13.402Z] GET /movie/director/406 200 10.675 ms
+
+info : [2025-01-07T15:09:13.405Z] GET /movie/actor/406 200 14.895 ms
+
+info : [2025-01-07T15:09:13.409Z] GET /movie/genre/406 200 14.571 ms
+
+info : [2025-01-07T15:09:14.251Z] GET /movie/chart 304 1.363 ms
+
+info : [2025-01-07T15:09:14.431Z] GET /movie/basic/411 304 5.791 ms
+
+info : [2025-01-07T15:09:14.454Z] GET /movie/basic/410 304 4.840 ms
+
+info : [2025-01-07T15:09:14.471Z] GET /movie/basic/414 304 12.172 ms
+
+info : [2025-01-07T15:09:14.478Z] GET /movie/basic/412 304 16.822 ms
+
+info : [2025-01-07T15:09:14.488Z] GET /movie/basic/413 304 21.079 ms
+
+info : [2025-01-07T15:09:14.490Z] GET /movie/basic/408 304 22.422 ms
+
+info : [2025-01-07T15:09:14.500Z] GET /movie/basic/409 304 27.156 ms
+
+info : [2025-01-07T15:09:14.517Z] GET /movie/basic/407 304 31.949 ms
+
+info : [2025-01-07T15:09:14.534Z] GET /movie/basic/406 304 36.069 ms
+
+info : [2025-01-07T15:09:14.565Z] GET /movie/basic/405 304 52.419 ms
+
+info : [2025-01-07T15:09:14.584Z] GET /movie/basic/411 304 70.974 ms
+
+info : [2025-01-07T15:09:14.606Z] GET /movie/basic/410 304 82.983 ms
+
+info : [2025-01-07T15:09:14.650Z] GET /movie/basic/414 304 104.129 ms
+
+info : [2025-01-07T15:09:14.661Z] GET /movie/basic/412 304 103.639 ms
+
+info : [2025-01-07T15:09:14.783Z] GET /movie/basic/413 304 147.451 ms
+
+info : [2025-01-07T15:09:14.802Z] GET /movie/basic/406 304 46.397 ms
+
+info : [2025-01-07T15:09:14.816Z] GET /movie/basic/408 304 81.129 ms
+
+info : [2025-01-07T15:09:14.829Z] GET /movie/basic/409 304 91.547 ms
+
+info : [2025-01-07T15:09:14.840Z] GET /movie/basic/407 304 97.851 ms
+
+info : [2025-01-07T15:09:14.870Z] GET /movie/basic/405 304 104.413 ms
+
+info : [2025-01-07T15:09:14.910Z] GET /movie/basic/411 304 49.037 ms
+
+info : [2025-01-07T15:09:14.918Z] GET /movie/basic/410 304 55.159 ms
+
+info : [2025-01-07T15:09:14.926Z] GET /movie/basic/414 304 47.003 ms
+
+info : [2025-01-07T15:09:14.936Z] GET /movie/basic/412 304 53.798 ms
+
+info : [2025-01-07T15:09:14.957Z] GET /movie/409 200 63.746 ms
+
+info : [2025-01-07T15:09:15.031Z] GET /movie/actor/409 200 77.584 ms
+
+info : [2025-01-07T15:09:15.058Z] GET /movie/genre/409 200 52.575 ms
+
+info : [2025-01-07T15:09:15.078Z] GET /movie/basic/413 304 65.502 ms
+
+info : [2025-01-07T15:09:15.088Z] GET /movie/director/409 200 82.817 ms
+
+info : [2025-01-07T15:09:15.775Z] GET /movie/chart 304 1.745 ms
+
+info : [2025-01-07T15:09:15.852Z] GET /movie/basic/411 304 7.899 ms
+
+info : [2025-01-07T15:09:15.857Z] GET /movie/basic/410 304 8.399 ms
+
+info : [2025-01-07T15:09:15.867Z] GET /movie/basic/414 304 10.922 ms
+
+info : [2025-01-07T15:09:15.876Z] GET /movie/basic/413 304 6.995 ms
+
+info : [2025-01-07T15:09:15.882Z] GET /movie/basic/408 304 11.900 ms
+
+info : [2025-01-07T15:09:15.887Z] GET /movie/basic/412 304 14.905 ms
+
+info : [2025-01-07T15:09:15.905Z] GET /movie/basic/407 304 12.824 ms
+
+info : [2025-01-07T15:09:15.908Z] GET /movie/basic/409 304 14.361 ms
+
+info : [2025-01-07T15:09:15.923Z] GET /movie/basic/406 304 20.329 ms
+
+info : [2025-01-07T15:09:15.999Z] GET /movie/basic/405 304 55.337 ms
+
+info : [2025-01-07T15:09:16.019Z] GET /movie/basic/411 304 90.940 ms
+
+info : [2025-01-07T15:09:16.025Z] GET /movie/basic/410 304 83.688 ms
+
+info : [2025-01-07T15:09:16.029Z] GET /movie/basic/414 304 84.555 ms
+
+info : [2025-01-07T15:09:16.134Z] GET /movie/basic/408 304 152.709 ms
+
+info : [2025-01-07T15:09:16.220Z] GET /movie/basic/413 304 245.737 ms
+
+info : [2025-01-07T15:09:16.257Z] GET /movie/basic/412 304 132.332 ms
+
+info : [2025-01-07T15:09:16.261Z] GET /movie/basic/407 304 129.280 ms
+
+info : [2025-01-07T15:09:16.271Z] GET /movie/basic/409 304 136.824 ms
+
+info : [2025-01-07T15:09:16.296Z] GET /movie/basic/411 304 40.568 ms
+
+info : [2025-01-07T15:09:16.321Z] GET /movie/basic/406 304 79.547 ms
+
+info : [2025-01-07T15:09:16.338Z] GET /movie/basic/405 304 85.039 ms
+
+info : [2025-01-07T15:09:16.355Z] GET /movie/basic/414 304 20.877 ms
+
+info : [2025-01-07T15:09:16.359Z] GET /movie/basic/410 304 30.459 ms
+
+info : [2025-01-07T15:09:16.368Z] GET /movie/basic/413 304 32.175 ms
+
+info : [2025-01-07T15:09:16.370Z] GET /movie/basic/412 304 29.609 ms
+
+info : [2025-01-07T15:09:16.462Z] GET /movie/408 200 6.671 ms
+
+info : [2025-01-07T15:09:16.480Z] GET /movie/actor/408 200 9.228 ms
+
+info : [2025-01-07T15:09:16.491Z] GET /movie/genre/408 200 12.726 ms
+
+info : [2025-01-07T15:09:16.496Z] GET /movie/director/408 200 20.825 ms
+
+info : [2025-01-07T15:10:53.165Z] GET /movie/408 304 4.715 ms
+
+info : [2025-01-07T15:10:53.176Z] GET /movie/actor/408 304 7.086 ms
+
+info : [2025-01-07T15:10:53.178Z] GET /movie/director/408 304 6.440 ms
+
+info : [2025-01-07T15:10:53.184Z] GET /movie/genre/408 304 4.538 ms
+
+info : [2025-01-07T15:11:01.979Z] GET /movie/408 304 8.121 ms
+
+info : [2025-01-07T15:11:01.982Z] GET /movie/actor/408 304 10.369 ms
+
+info : [2025-01-07T15:11:01.985Z] GET /movie/director/408 304 12.488 ms
+
+info : [2025-01-07T15:11:01.987Z] GET /movie/genre/408 304 11.737 ms
+
+info : [2025-01-07T15:11:11.391Z] GET /movie/408 304 3.562 ms
+
+info : [2025-01-07T15:11:11.400Z] GET /movie/director/408 304 4.327 ms
+
+info : [2025-01-07T15:11:11.406Z] GET /movie/genre/408 304 8.031 ms
+
+info : [2025-01-07T15:11:11.409Z] GET /movie/actor/408 304 14.361 ms
+

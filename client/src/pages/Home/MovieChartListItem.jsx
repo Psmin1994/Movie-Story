@@ -6,7 +6,7 @@ const PostListItem = (props) => {
   const { movieId, rank, change, isNew, onClickItem } = props;
 
   // 개별 영화 정보 가져오기
-  const { data, error, loading } = useAxios({ url: `/movie/basic/${movieId}` });
+  const { data, error, loading } = useAxios({ url: `/movie/${movieId}` });
 
   if (loading)
     return (
@@ -22,13 +22,15 @@ const PostListItem = (props) => {
       </Container>
     );
 
+  data.open_date = new Date(data.open_date).toISOString().slice(0, 10);
+
   return (
-    <Container className="carousel-item" onClick={() => onClickItem(movieId)}>
+    <Container className="carousel-item" onClick={() => onClickItem(movieId, data)}>
       <div
         style={{
           position: "relative",
         }}>
-        <Poster src={data[0].poster} alt={data[0].movie_nm}></Poster>
+        <Poster src={data.poster} alt={data.movie_nm}></Poster>
         <Rank>{rank + 1}</Rank>
       </div>
 
@@ -41,7 +43,7 @@ const PostListItem = (props) => {
           alignItems: "center",
           margin: "0 1rem",
         }}>
-        <MovieNm>{data[0].movie_nm}</MovieNm>
+        <MovieNm>{data.movie_nm}</MovieNm>
         {isNew ? (
           <IsNew>new</IsNew>
         ) : change > 0 ? (
@@ -51,7 +53,7 @@ const PostListItem = (props) => {
         )}
       </div>
 
-      <OpenDate>개봉일 : {data[0].open_date}</OpenDate>
+      <OpenDate>개봉일 : {data.open_date}</OpenDate>
     </Container>
   );
 };

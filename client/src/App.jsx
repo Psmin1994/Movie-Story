@@ -25,11 +25,11 @@ const App = () => {
 
         <Routes>
           <Route index path="/" element={<MainPage />} />
-          <Route path="/search" element={<MovieSearchPage />} />
           <Route path="/user" element={<UserPage />} />
-          <Route path="/support" element={<SupportPage />} />
+          <Route path="/search" element={<MovieSearchPage />} />
           <Route path="/movie" element={<MovieListPage />} />
           <Route path="/movie/:id" element={<MoviePage />} />
+          <Route path="/support" element={<SupportPage />} />
         </Routes>
 
         <Footer />

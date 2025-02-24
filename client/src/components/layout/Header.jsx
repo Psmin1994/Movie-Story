@@ -49,7 +49,7 @@ const Header = () => {
   }, []);
 
   useEffect(() => {
-    if (refresh?.message === "Token refreshed") {
+    if (refresh) {
       // 재발급 완료 시, access token 다시 검증 요청
       trigger();
     }
@@ -59,9 +59,7 @@ const Header = () => {
   // access token 검증 error 처리
   useEffect(() => {
     if (error?.response) {
-      console.log(error.response.data.message);
-
-      if (error.response.data.message === "Access token expired") {
+      if (error.response.status === 401) {
         refreshTrigger();
       }
     }

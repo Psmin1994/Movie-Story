@@ -12,7 +12,11 @@ const MoviePage = () => {
 
   const { id } = useParams();
 
-  const { data, error, loading } = useAxios({
+  const {
+    data: movie,
+    error,
+    loading,
+  } = useAxios({
     url: `/movie/${id}`,
   });
 
@@ -22,7 +26,7 @@ const MoviePage = () => {
 
   useEffect(() => {
     window.scrollTo(0, 0);
-  }, [data]); // 페이지가 처음 로드될 때만 실행
+  }, []); // 페이지가 처음 로드될 때만 실행
 
   if (loading)
     return (
@@ -39,7 +43,7 @@ const MoviePage = () => {
     );
 
   const stillCutSettings = {
-    arrows: data[0].still_cut.length > 2 ? true : false,
+    arrows: true,
     infinite: false,
     speed: 500,
     slidesToShow: 2,
@@ -84,12 +88,16 @@ const MoviePage = () => {
 
   let actorStr = actorNmArr.join(", ");
 
+  let movieInfo = movie.movie_info;
+
+  movie.open_date = new Date(movie.open_date).toISOString().slice(0, 10);
+
   return (
     <Container>
       <ContentWrapper>
         <MovieInfo>
           <PosterWrapper>
-            <Poster src={data[0].poster} alt={data[0].movie_nm}></Poster>
+            <Poster src={movie.poster} alt={movie.movie_nm}></Poster>
             <ButtonWrapper>
               <BasicButton
                 addStyle={{
@@ -111,27 +119,27 @@ const MoviePage = () => {
 
           <InfoContainer>
             <TitleWrap>
-              <Title>{data[0].movie_nm}</Title>
-              <TitleEn>{data[0].movie_nm_en}</TitleEn>
+              <Title>{movie.movie_nm}</Title>
+              <TitleEn>{movieInfo.movie_nm_en}</TitleEn>
             </TitleWrap>
 
             <InfoWrap>
               {directorStr && <Info>감독 : {directorStr}</Info>}
               {actorStr && <Info>배우 : {actorStr}</Info>}
               {genreStr && <Info>장르 : {genreStr}</Info>}
-              <Info>제작국가 : {data[0].nation}</Info>
+              <Info>제작국가 : {movieInfo.nation}</Info>
               <Info>
-                상영시간 : {data[0].showtime} 분 / 개봉일 : {data[0].open_date}
+                상영시간 : {movieInfo.showtime} 분 / 개봉일 : {movie.open_date}
               </Info>
             </InfoWrap>
 
             <SummaryWrap>
-              <Summary>{data[0].summary}</Summary>
+              <Summary>{movieInfo.summary}</Summary>
             </SummaryWrap>
           </InfoContainer>
         </MovieInfo>
 
-        {data[0].still_cut ? (
+        {movieInfo.still_cut ? (
           <>
             <HeadingWrapper>
               <Heading>스틸컷</Heading>
@@ -139,8 +147,8 @@ const MoviePage = () => {
 
             <ListWrapper>
               <Slider {...stillCutSettings}>
-                {JSON.parse(data[0].still_cut).map((src) => {
-                  return <StillCutItem src={src} alt={data[0].movie_nm} />;
+                {JSON.parse(movieInfo.still_cut).map((src) => {
+                  return <StillCutItem src={src} alt={movie.movie_nm} />;
                 })}
               </Slider>
             </ListWrapper>
@@ -157,7 +165,7 @@ const MoviePage = () => {
               <Slider {...castSettings}>
                 {director.map((item, index) => {
                   return (
-                    <ItemWrapper key={index}>
+                    <ItemWrapper key={item.director_id}>
                       <Item src={item.profile} alt={item.name} />
                       <p>{item.name}</p>
                     </ItemWrapper>
@@ -178,7 +186,7 @@ const MoviePage = () => {
               <Slider {...castSettings}>
                 {actor.map((item, index) => {
                   return (
-                    <ItemWrapper key={index}>
+                    <ItemWrapper key={item.actor_id}>
                       <Item src={item.profile} alt={item.name} />
                       <p>{item.name}</p>
                     </ItemWrapper>
@@ -284,6 +292,7 @@ const InfoWrap = styled.div`
 
 const Info = styled.strong`
   font-size: 0.8rem;
+  line-height: 1.5rem;
   font-family: "Verdana", "Geneva", sans-serif;
 `;
 

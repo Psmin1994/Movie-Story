@@ -1,0 +1,56 @@
+undefined [ERROR]: uncaughtException: ACCESS_TOKEN_SECRET is not defined in environment variables.
+Error: ACCESS_TOKEN_SECRET is not defined in environment variables.
+    at file:///C:/workspace/project/Movie-Story/server/dist/passports/jwtStrategy.js:15:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+undefined [ERROR]: uncaughtException: ACCESS_TOKEN_SECRET is not defined in environment variables.
+Error: ACCESS_TOKEN_SECRET is not defined in environment variables.
+    at file:///C:/workspace/project/Movie-Story/server/dist/passports/jwtStrategy.js:15:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+undefined [ERROR]: uncaughtException: ACCESS_TOKEN_SECRET is not defined in environment variables.
+Error: ACCESS_TOKEN_SECRET is not defined in environment variables.
+    at file:///C:/workspace/project/Movie-Story/server/dist/passports/jwtStrategy.js:15:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+undefined [ERROR]: uncaughtException: ACCESS_TOKEN_SECRET is not defined in environment variables.
+Error: ACCESS_TOKEN_SECRET is not defined in environment variables.
+    at file:///C:/workspace/project/Movie-Story/server/dist/passports/jwtStrategy.js:13:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+undefined [ERROR]: uncaughtException: ACCESS_TOKEN_SECRET is not defined in environment variables.
+Error: ACCESS_TOKEN_SECRET is not defined in environment variables.
+    at file:///C:/workspace/project/Movie-Story/server/dist/passports/jwtStrategy.js:13:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+undefined [ERROR]: uncaughtException: ACCESS_TOKEN_SECRET is not defined in environment variables.
+Error: ACCESS_TOKEN_SECRET is not defined in environment variables.
+    at file:///C:/workspace/project/Movie-Story/server/dist/passports/jwtStrategy.js:13:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+undefined [ERROR]: uncaughtException: ACCESS_TOKEN_SECRET is not defined in environment variables.
+Error: ACCESS_TOKEN_SECRET is not defined in environment variables.
+    at file:///C:/workspace/project/Movie-Story/server/dist/passports/jwtStrategy.js:13:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+undefined [ERROR]: uncaughtException: ACCESS_TOKEN_SECRET is not defined in environment variables.
+Error: ACCESS_TOKEN_SECRET is not defined in environment variables.
+    at file:///C:/workspace/project/Movie-Story/server/dist/passports/jwtStrategy.js:14:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+undefined [ERROR]: uncaughtException: ACCESS_TOKEN_SECRET is not defined in environment variables.
+Error: ACCESS_TOKEN_SECRET is not defined in environment variables.
+    at file:///C:/workspace/project/Movie-Story/server/dist/passports/jwtStrategy.js:14:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+undefined [ERROR]: uncaughtException: ACCESS_TOKEN_SECRET is not defined in environment variables.
+Error: ACCESS_TOKEN_SECRET is not defined in environment variables.
+    at file:///C:/workspace/project/Movie-Story/server/dist/passports/jwtStrategy.js:13:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+undefined [ERROR]: uncaughtException: ACCESS_TOKEN_SECRET is not defined in environment variables.
+Error: ACCESS_TOKEN_SECRET is not defined in environment variables.
+    at file:///C:/workspace/project/Movie-Story/server/dist/passports/jwtStrategy.js:13:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+undefined [ERROR]: uncaughtException: ACCESS_TOKEN_SECRET is not defined in environment variables.
+Error: ACCESS_TOKEN_SECRET is not defined in environment variables.
+    at file:///C:/workspace/project/Movie-Story/server/dist/passports/jwtStrategy.js:13:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+undefined [ERROR]: uncaughtException: ACCESS_TOKEN_SECRET is not defined in environment variables.
+Error: ACCESS_TOKEN_SECRET is not defined in environment variables.
+    at file:///C:/workspace/project/Movie-Story/server/dist/passports/jwtStrategy.js:13:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+undefined [ERROR]: uncaughtException: ACCESS_TOKEN_SECRET is not defined in environment variables.
+Error: ACCESS_TOKEN_SECRET is not defined in environment variables.
+    at file:///C:/workspace/project/Movie-Story/server/dist/passports/jwtStrategy.js:13:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)

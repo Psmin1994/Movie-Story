@@ -1,0 +1,36 @@
+2025-02-20 00:02:73 [ERROR]: GET /user/info 500 282.753 ms
+
+2025-02-20 00:02:14 [ERROR]: GET /user/info 500 202.986 ms
+
+2025-02-20 00:02:90 [ERROR]: GET /user/info 500 28.418 ms
+
+2025-02-20 00:02:69 [ERROR]: GET /user/info 500 3.999 ms
+
+2025-02-20 00:02:22 [ERROR]: GET /favicon.ico 404 6.713 ms
+
+2025-02-20 00:02:56 [ERROR]: GET /user/info 500 17.796 ms
+
+2025-02-20 01:02:28 [ERROR]: POST /user/login 404 91.082 ms
+
+2025-02-20 01:02:91 [ERROR]: POST /user/login 404 14.131 ms
+
+2025-02-20 01:02:71 [ERROR]: POST /user/login 404 25.014 ms
+
+2025-02-20 01:02:91 [ERROR]: POST /user/login 404 16.299 ms
+
+2025-02-20 01:02:90 [ERROR]: POST /user/login 404 18.801 ms
+
+2025-02-20 01:02:10 [ERROR]: POST /user/login 404 8.625 ms
+
+2025-02-20 01:02:27 [ERROR]: POST /user/register 400 106.476 ms
+
+2025-02-20 01:02:11 [ERROR]: POST /user/register 500 104.280 ms
+
+2025-02-20 01:02:90 [ERROR]: POST /user/register 500 25.216 ms
+
+2025-02-20 01:02:46 [ERROR]: POST /user/register 500 129.737 ms
+
+2025-02-20 01:02:30 [ERROR]: POST /user/register 500 191.721 ms
+
+2025-02-20 01:02:91 [ERROR]: POST /user/register 500 71.688 ms
+

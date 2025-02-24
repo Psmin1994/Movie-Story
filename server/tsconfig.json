@@ -1,0 +1,35 @@
+{
+  "compilerOptions": {
+    // 기본 출력 설정
+    "target": "ESNext", // 컴파일된 JS 코드 ES 버전
+    "module": "ESNext", // 모듈 시스템
+    "outDir": "./dist", // 컴파일된 파일 출력 디렉토리
+    "rootDir": "./src", // 루트 디렉토리
+    "sourceMap": false,
+
+    // strict 타입 검사
+    "strict": true, // 엄격 모드
+
+    // 파일 킻 경로 설정
+    "baseUrl": "src", // import 경로
+    "paths": {},
+    "esModuleInterop": true,
+    "typeRoots": ["node_modules/@types", "src/types"],
+
+    // 기타 옵션
+    "skipLibCheck": true,
+    "allowJs": true,
+    "checkJs": false, // js 파일 타입 검사 여부
+    "forceConsistentCasingInFileNames": true, // 파일 이름 대소문자 구분
+    "moduleDetection": "auto",
+    "moduleResolution": "node"
+  },
+
+  "include": ["src"],
+
+  "exclude": [
+    "prisma",
+    "node_modules", // 외부 라이브러리 제외
+    "**/*.test.ts" // 테스트 파일 제외
+  ]
+}

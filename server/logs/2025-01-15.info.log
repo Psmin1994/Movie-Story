@@ -1,0 +1,203 @@
+undefined [INFO]: [2025-01-14T18:46:44.986Z] GET /movie/chart 200 52.512 ms
+
+undefined [INFO]: [2025-01-14T18:46:45.267Z] GET /movie/basic/412 200 170.173 ms
+
+undefined [INFO]: [2025-01-14T18:46:45.294Z] GET /movie/basic/413 200 169.300 ms
+
+undefined [INFO]: [2025-01-14T18:46:45.313Z] GET /movie/basic/410 200 250.272 ms
+
+undefined [INFO]: [2025-01-14T18:46:45.326Z] GET /movie/basic/414 200 243.790 ms
+
+undefined [INFO]: [2025-01-14T18:46:45.369Z] GET /movie/basic/411 200 296.541 ms
+
+undefined [INFO]: [2025-01-14T18:46:45.407Z] GET /movie/basic/408 200 46.462 ms
+
+undefined [INFO]: [2025-01-14T18:46:45.466Z] GET /movie/basic/409 200 89.350 ms
+
+undefined [INFO]: [2025-01-14T18:46:45.527Z] GET /movie/basic/405 200 138.231 ms
+
+undefined [INFO]: [2025-01-14T18:46:45.594Z] GET /movie/basic/407 200 217.280 ms
+
+undefined [INFO]: [2025-01-14T18:46:45.657Z] GET /movie/basic/406 200 258.298 ms
+
+undefined [INFO]: [2025-01-14T18:46:45.747Z] GET /movie/basic/413 304 38.382 ms
+
+undefined [INFO]: [2025-01-14T18:46:45.774Z] GET /movie/basic/412 304 67.535 ms
+
+undefined [INFO]: [2025-01-14T18:46:45.795Z] GET /movie/basic/410 304 84.183 ms
+
+undefined [INFO]: [2025-01-14T18:46:45.865Z] GET /movie/basic/414 304 52.509 ms
+
+undefined [INFO]: [2025-01-14T18:46:46.057Z] GET /movie/basic/411 304 75.956 ms
+
+undefined [INFO]: [2025-01-14T18:46:46.139Z] GET /movie/basic/408 304 66.587 ms
+
+undefined [INFO]: [2025-01-14T18:46:46.169Z] GET /movie/basic/405 304 47.723 ms
+
+undefined [INFO]: [2025-01-14T18:46:46.211Z] GET /movie/basic/407 304 80.751 ms
+
+undefined [INFO]: [2025-01-14T18:46:46.219Z] GET /movie/basic/409 304 126.897 ms
+
+undefined [INFO]: [2025-01-14T18:46:46.316Z] GET /movie/basic/406 304 37.416 ms
+
+undefined [INFO]: [2025-01-14T18:46:46.325Z] GET /movie/basic/413 304 37.599 ms
+
+undefined [INFO]: [2025-01-14T18:46:46.336Z] GET /movie/basic/410 304 43.425 ms
+
+undefined [INFO]: [2025-01-14T18:46:46.357Z] GET /movie/basic/412 304 64.370 ms
+
+undefined [INFO]: [2025-01-14T18:46:46.486Z] GET /movie/basic/414 304 111.156 ms
+
+undefined [INFO]: [2025-01-14T18:46:46.506Z] GET /movie/basic/411 304 118.623 ms
+
+undefined [INFO]: [2025-01-14T18:47:05.932Z] POST /user/login 200 28.817 ms
+
+undefined [INFO]: [2025-01-14T18:47:06.975Z] GET /user/info 200 15.366 ms
+
+undefined [INFO]: [2025-01-14T18:47:27.326Z] GET /user/info 304 8.778 ms
+
+undefined [INFO]: [2025-01-14T18:47:30.526Z] GET /user/info 304 11.138 ms
+
+undefined [ERROR]: [2025-01-14T18:48:47.705Z] GET /user/info 401 1.787 ms
+
+undefined [ERROR]: [2025-01-14T18:49:26.212Z] GET /user/info 401 2.103 ms
+
+undefined [INFO]: [2025-01-14T18:49:41.000Z] GET /movie/chart 304 1.916 ms
+
+undefined [INFO]: [2025-01-14T18:49:41.109Z] GET /movie/basic/411 304 4.703 ms
+
+undefined [INFO]: [2025-01-14T18:49:41.130Z] GET /movie/basic/410 304 10.999 ms
+
+undefined [INFO]: [2025-01-14T18:49:41.136Z] GET /movie/basic/414 304 15.626 ms
+
+undefined [INFO]: [2025-01-14T18:49:41.148Z] GET /movie/basic/412 304 23.387 ms
+
+undefined [INFO]: [2025-01-14T18:49:41.161Z] GET /movie/basic/413 304 34.048 ms
+
+undefined [INFO]: [2025-01-14T18:49:41.204Z] GET /movie/basic/409 304 65.326 ms
+
+undefined [INFO]: [2025-01-14T18:49:41.214Z] GET /movie/basic/408 304 66.447 ms
+
+undefined [INFO]: [2025-01-14T18:49:41.286Z] GET /movie/basic/407 304 12.439 ms
+
+undefined [INFO]: [2025-01-14T18:49:41.291Z] GET /movie/basic/411 304 15.241 ms
+
+undefined [INFO]: [2025-01-14T18:49:41.304Z] GET /movie/basic/406 304 22.637 ms
+
+undefined [INFO]: [2025-01-14T18:49:41.309Z] GET /movie/basic/405 304 27.332 ms
+
+undefined [INFO]: [2025-01-14T18:49:41.322Z] GET /movie/basic/414 304 8.008 ms
+
+undefined [INFO]: [2025-01-14T18:49:41.327Z] GET /movie/basic/410 304 14.490 ms
+
+undefined [INFO]: [2025-01-14T18:49:41.352Z] GET /movie/basic/408 304 10.992 ms
+
+undefined [INFO]: [2025-01-14T18:49:41.360Z] GET /movie/basic/412 304 23.328 ms
+
+undefined [INFO]: [2025-01-14T18:49:41.372Z] GET /movie/basic/413 304 33.716 ms
+
+undefined [INFO]: [2025-01-14T18:49:41.380Z] GET /movie/basic/409 304 39.890 ms
+
+undefined [INFO]: [2025-01-14T18:49:41.413Z] GET /movie/basic/407 304 70.038 ms
+
+undefined [INFO]: [2025-01-14T18:49:41.468Z] GET /movie/basic/411 304 30.259 ms
+
+undefined [INFO]: [2025-01-14T18:49:41.478Z] GET /movie/basic/405 304 33.502 ms
+
+undefined [INFO]: [2025-01-14T18:49:41.485Z] GET /movie/basic/406 304 42.852 ms
+
+undefined [INFO]: [2025-01-14T18:49:41.505Z] GET /movie/basic/414 304 59.081 ms
+
+undefined [INFO]: [2025-01-14T18:49:41.518Z] GET /movie/basic/410 304 69.362 ms
+
+undefined [INFO]: [2025-01-14T18:49:41.532Z] GET /movie/basic/413 304 4.874 ms
+
+undefined [INFO]: [2025-01-14T18:49:41.577Z] GET /movie/basic/412 304 117.022 ms
+
+undefined [ERROR]: [2025-01-14T18:49:50.624Z] GET /user/info 401 0.700 ms
+
+undefined [ERROR]: [2025-01-14T18:50:26.088Z] GET /user/info 401 1.505 ms
+
+undefined [ERROR]: [2025-01-14T18:51:36.605Z] GET /user/info 401 8.221 ms
+
+undefined [INFO]: [2025-01-14T18:51:50.203Z] POST /user/login 200 232.655 ms
+
+undefined [INFO]: [2025-01-14T18:51:50.913Z] GET /user/info 200 33.175 ms
+
+undefined [INFO]: [2025-01-14T18:51:54.569Z] GET /user/info 304 13.245 ms
+
+undefined [INFO]: [2025-01-14T18:52:08.852Z] GET /user/info 304 12.379 ms
+
+undefined [ERROR]: ACCESS_TOKEN_SECRET is not defined in environment variables.
+undefined [ERROR]: [2025-01-14T19:24:32.754Z] GET /user/info 500 20.583 ms
+
+undefined [ERROR]: ACCESS_TOKEN_SECRET is not defined in environment variables.
+undefined [ERROR]: [2025-01-14T19:24:52.572Z] GET /user/info 500 5.034 ms
+
+undefined [INFO]: [2025-01-14T19:25:04.241Z] GET /movie/chart 304 3.721 ms
+
+undefined [INFO]: [2025-01-14T19:25:04.404Z] GET /movie/basic/411 304 71.258 ms
+
+undefined [INFO]: [2025-01-14T19:25:04.445Z] GET /movie/basic/412 304 69.863 ms
+
+undefined [INFO]: [2025-01-14T19:25:04.451Z] GET /movie/basic/410 304 108.605 ms
+
+undefined [INFO]: [2025-01-14T19:25:04.489Z] GET /movie/basic/414 304 134.496 ms
+
+undefined [INFO]: [2025-01-14T19:25:04.505Z] GET /movie/basic/409 304 71.246 ms
+
+undefined [INFO]: [2025-01-14T19:25:04.574Z] GET /movie/basic/408 304 183.803 ms
+
+undefined [INFO]: [2025-01-14T19:25:04.588Z] GET /movie/basic/413 304 204.945 ms
+
+undefined [INFO]: [2025-01-14T19:25:04.621Z] GET /movie/basic/407 304 101.179 ms
+
+undefined [INFO]: [2025-01-14T19:25:04.636Z] GET /movie/basic/406 304 114.433 ms
+
+undefined [INFO]: [2025-01-14T19:25:04.669Z] GET /movie/basic/405 304 73.339 ms
+
+undefined [INFO]: [2025-01-14T19:25:04.735Z] GET /movie/basic/411 304 138.669 ms
+
+undefined [INFO]: [2025-01-14T19:25:04.744Z] GET /movie/basic/410 304 134.386 ms
+
+undefined [INFO]: [2025-01-14T19:25:04.755Z] GET /movie/basic/412 304 147.106 ms
+
+undefined [INFO]: [2025-01-14T19:25:04.822Z] GET /movie/basic/414 304 48.538 ms
+
+undefined [INFO]: [2025-01-14T19:25:04.852Z] GET /movie/basic/409 304 76.798 ms
+
+undefined [INFO]: [2025-01-14T19:25:04.871Z] GET /movie/basic/408 304 94.415 ms
+
+undefined [INFO]: [2025-01-14T19:25:04.884Z] GET /movie/basic/406 304 75.586 ms
+
+undefined [INFO]: [2025-01-14T19:25:04.891Z] GET /movie/basic/407 304 84.412 ms
+
+undefined [INFO]: [2025-01-14T19:25:04.903Z] GET /movie/basic/413 304 98.544 ms
+
+undefined [INFO]: [2025-01-14T19:25:04.940Z] GET /movie/basic/405 304 72.181 ms
+
+undefined [INFO]: [2025-01-14T19:25:04.952Z] GET /movie/basic/411 304 34.447 ms
+
+undefined [INFO]: [2025-01-14T19:25:04.957Z] GET /movie/basic/410 304 28.364 ms
+
+undefined [INFO]: [2025-01-14T19:25:04.964Z] GET /movie/basic/412 304 33.603 ms
+
+undefined [INFO]: [2025-01-14T19:25:04.974Z] GET /movie/basic/414 304 42.444 ms
+
+undefined [INFO]: [2025-01-14T19:25:04.986Z] GET /movie/basic/413 304 51.885 ms
+
+undefined [ERROR]: ACCESS_TOKEN_SECRET is not defined in environment variables.
+undefined [ERROR]: [2025-01-14T19:25:21.595Z] GET /user/info 500 1.674 ms
+
+undefined [ERROR]: [2025-01-14T19:25:45.803Z] GET /user/info 401 28.242 ms
+
+undefined [INFO]: [2025-01-14T19:25:46.050Z] GET /user/refresh 200 212.902 ms
+
+undefined [ERROR]: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM userInfo WHERE user_id = 2' at line 1
+undefined [ERROR]: [2025-01-14T19:25:46.110Z] GET /user/info 500 30.989 ms
+
+undefined [ERROR]: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM userInfo WHERE user_id = 2' at line 1
+undefined [ERROR]: [2025-01-14T19:26:49.030Z] GET /user/info 500 65.552 ms
+
+undefined [INFO]: [2025-01-14T19:28:25.390Z] GET /user/info 200 54.188 ms
+

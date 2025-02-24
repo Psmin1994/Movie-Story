@@ -1,0 +1,100 @@
+error : uncaughtException: Socket already opened
+Error: Socket already opened
+    at RedisSocket.connect (C:\workspace\project\Movie-Story\server\node_modules\@redis\client\dist\lib\client\socket.js:48:19)
+    at Commander.connect (C:\workspace\project\Movie-Story\server\node_modules\@redis\client\dist\lib\client\index.js:185:70)
+    at file:///C:/workspace/project/Movie-Story/server/src/config/redis.js:18:25
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+error : uncaughtException: listen EADDRINUSE: address already in use :::5000
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (node:net:1907:16)
+    at listenInCluster (node:net:1964:12)
+    at Server.listen (node:net:2066:7)
+    at Function.listen (C:\workspace\project\Movie-Story\server\node_modules\express\lib\application.js:635:24)
+    at file:///C:/workspace/project/Movie-Story/server/dist/app.js:51:20
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+error : uncaughtException: listen EADDRINUSE: address already in use :::5000
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (node:net:1907:16)
+    at listenInCluster (node:net:1964:12)
+    at Server.listen (node:net:2066:7)
+    at Function.listen (C:\workspace\project\Movie-Story\server\node_modules\express\lib\application.js:635:24)
+    at file:///C:/workspace/project/Movie-Story/server/dist/app.js:51:20
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+error : uncaughtException: listen EADDRINUSE: address already in use :::5000
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (node:net:1907:16)
+    at listenInCluster (node:net:1964:12)
+    at Server.listen (node:net:2066:7)
+    at Function.listen (C:\workspace\project\Movie-Story\server\node_modules\express\lib\application.js:635:24)
+    at file:///C:/workspace/project/Movie-Story/server/dist/app.js:51:20
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+error : uncaughtException: listen EADDRINUSE: address already in use :::5000
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (node:net:1907:16)
+    at listenInCluster (node:net:1964:12)
+    at Server.listen (node:net:2066:7)
+    at Function.listen (C:\workspace\project\Movie-Story\server\node_modules\express\lib\application.js:635:24)
+    at file:///C:/workspace/project/Movie-Story/server/dist/app.js:51:20
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+error : uncaughtException: listen EADDRINUSE: address already in use :::5000
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (node:net:1907:16)
+    at listenInCluster (node:net:1964:12)
+    at Server.listen (node:net:2066:7)
+    at Function.listen (C:\workspace\project\Movie-Story\server\node_modules\express\lib\application.js:635:24)
+    at file:///C:/workspace/project/Movie-Story/server/dist/app.js:51:20
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+error : uncaughtException: listen EADDRINUSE: address already in use :::5000
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (node:net:1907:16)
+    at listenInCluster (node:net:1964:12)
+    at Server.listen (node:net:2066:7)
+    at Function.listen (C:\workspace\project\Movie-Story\server\node_modules\express\lib\application.js:635:24)
+    at file:///C:/workspace/project/Movie-Story/server/dist/app.js:51:20
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+error : uncaughtException: listen EADDRINUSE: address already in use :::5000
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (node:net:1907:16)
+    at listenInCluster (node:net:1964:12)
+    at Server.listen (node:net:2066:7)
+    at Function.listen (C:\workspace\project\Movie-Story\server\node_modules\express\lib\application.js:635:24)
+    at file:///C:/workspace/project/Movie-Story/server/dist/app.js:51:20
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+error : uncaughtException: listen EADDRINUSE: address already in use :::5000
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (node:net:1907:16)
+    at listenInCluster (node:net:1964:12)
+    at Server.listen (node:net:2066:7)
+    at Function.listen (C:\workspace\project\Movie-Story\server\node_modules\express\lib\application.js:635:24)
+    at file:///C:/workspace/project/Movie-Story/server/dist/app.js:51:20
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+error : uncaughtException: Puppeteer was unable to kill the process which ran the browser binary.
+This means that, on future Puppeteer launches, Puppeteer might not be able to launch the browser.
+Please check your open processes and ensure that the browser processes that Puppeteer launched have been killed.
+If you think this is a bug, please report it on the Puppeteer issue tracker.
+Error cause: Error: kill EPERM
+    at ChildProcess.kill (node:internal/child_process:511:26)
+    at Process.kill (file:///C:/workspace/project/Movie-Story/server/node_modules/@puppeteer/browsers/lib/esm/launch.js:253:46)
+    at #onDriverProcessSignal (file:///C:/workspace/project/Movie-Story/server/node_modules/@puppeteer/browsers/lib/esm/launch.js:216:22)
+    at file:///C:/workspace/project/Movie-Story/server/node_modules/@puppeteer/browsers/lib/esm/launch.js:61:20
+    at Array.forEach (<anonymous>)
+    at process.SIGINT (file:///C:/workspace/project/Movie-Story/server/node_modules/@puppeteer/browsers/lib/esm/launch.js:60:41)
+    at process.emit (node:events:530:35)
+Error: Puppeteer was unable to kill the process which ran the browser binary.
+This means that, on future Puppeteer launches, Puppeteer might not be able to launch the browser.
+Please check your open processes and ensure that the browser processes that Puppeteer launched have been killed.
+If you think this is a bug, please report it on the Puppeteer issue tracker.
+Error cause: Error: kill EPERM
+    at ChildProcess.kill (node:internal/child_process:511:26)
+    at Process.kill (file:///C:/workspace/project/Movie-Story/server/node_modules/@puppeteer/browsers/lib/esm/launch.js:253:46)
+    at #onDriverProcessSignal (file:///C:/workspace/project/Movie-Story/server/node_modules/@puppeteer/browsers/lib/esm/launch.js:216:22)
+    at file:///C:/workspace/project/Movie-Story/server/node_modules/@puppeteer/browsers/lib/esm/launch.js:61:20
+    at Array.forEach (<anonymous>)
+    at process.SIGINT (file:///C:/workspace/project/Movie-Story/server/node_modules/@puppeteer/browsers/lib/esm/launch.js:60:41)
+    at process.emit (node:events:530:35)
+    at Process.kill (file:///C:/workspace/project/Movie-Story/server/node_modules/@puppeteer/browsers/lib/esm/launch.js:273:23)
+    at #onDriverProcessSignal (file:///C:/workspace/project/Movie-Story/server/node_modules/@puppeteer/browsers/lib/esm/launch.js:216:22)
+    at file:///C:/workspace/project/Movie-Story/server/node_modules/@puppeteer/browsers/lib/esm/launch.js:61:20
+    at Array.forEach (<anonymous>)
+    at process.SIGINT (file:///C:/workspace/project/Movie-Story/server/node_modules/@puppeteer/browsers/lib/esm/launch.js:60:41)
+    at process.emit (node:events:530:35)

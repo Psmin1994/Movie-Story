@@ -1,0 +1,86 @@
+2025-01-17 22:01:50 [ERROR]: [2025-01-17T13:47:03.495Z] GET /user/info 401 12.687 ms
+
+2025-01-17 22:01:55 [INFO]: [2025-01-17T13:47:06.554Z] GET /auth/kakao?redirectUrl=http%3A%2F%2Flocalhost%3A3000%2Fsearch%3FsearchStr%3D 302 1.099 ms
+
+2025-01-17 22:01:81 [INFO]: [2025-01-17T13:49:56.808Z] GET /auth/kakao/callback?code=dxE4vnkRoD0XJbE2hXfIiSQLNIU-DwFPoVT6pMSwdkxFQhMqChKkhQAAAAQKKiWQAAABlHSHD_5HueF-5ScOZw&state=http%253A%252F%252Flocalhost%253A3000%252Fsearch%253FsearchStr%253D 302 491.411 ms
+
+2025-01-17 22:01:05 [ERROR]: [2025-01-17T13:49:58.049Z] GET /user/info 401 0.988 ms
+
+2025-01-17 22:01:38 [INFO]: [2025-01-17T13:52:11.377Z] GET /auth/kakao?redirectUrl=http%3A%2F%2Flocalhost%3A3000%2Fsearch%3FsearchStr%3D 302 6.841 ms
+
+2025-01-17 22:01:97 [INFO]: [2025-01-17T13:52:11.971Z] GET /auth/kakao/callback?code=zxQrbJmWl4VmVE6iTanWkkWvc9IbsQJ8wmuRDtuLyf25YUfkHIkUTQAAAAQKKw0eAAABlHSJIAVAPV-WDrAHcw&state=http%253A%252F%252Flocalhost%253A3000%252Fsearch%253FsearchStr%253D 302 415.042 ms
+
+2025-01-17 22:01:57 [ERROR]: [2025-01-17T13:52:12.573Z] GET /user/info 401 5.443 ms
+
+2025-01-17 22:01:59 [INFO]: [2025-01-17T13:53:48.589Z] GET /auth/kakao?redirectUrl=http%3A%2F%2Flocalhost%3A3000%2Fsearch%3FsearchStr%3D 302 4.974 ms
+
+2025-01-17 22:01:98 [INFO]: [2025-01-17T13:53:48.983Z] GET /auth/kakao/callback?code=qg_25BqPkhrHLCLFHAOHFmAS_ORDnJHAB_8WT1W63isRREmp2mCO0gAAAAQKKiVRAAABlHSKm7TNsk3jZ7dWzg&state=http%253A%252F%252Flocalhost%253A3000%252Fsearch%253FsearchStr%253D 302 298.770 ms
+
+2025-01-17 22:01:53 [ERROR]: [2025-01-17T13:53:49.526Z] GET /user/info 401 3.901 ms
+
+2025-01-17 22:01:36 [INFO]: [2025-01-17T13:55:08.357Z] GET /auth/kakao?redirectUrl=http%3A%2F%2Flocalhost%3A3000%2Fsearch%3FsearchStr%3D 302 4.576 ms
+
+2025-01-17 22:01:77 [INFO]: [2025-01-17T13:55:08.773Z] GET /auth/kakao/callback?code=jgVtixUOqw6lDLeCT1_mq7hmFPk9cHgwIzRCE_Pk4lKObXjE-5deNwAAAAQKKw0gAAABlHSL01Km1x-HnlkNwQ&state=http%253A%252F%252Flocalhost%253A3000%252Fsearch%253FsearchStr%253D 302 316.229 ms
+
+2025-01-17 22:01:32 [ERROR]: [2025-01-17T13:55:09.319Z] GET /user/info 401 4.819 ms
+
+2025-01-17 22:01:51 [INFO]: [2025-01-17T13:56:47.504Z] GET /auth/kakao?redirectUrl=http%3A%2F%2Flocalhost%3A3000%2Fsearch%3FsearchStr%3D 302 3.923 ms
+
+2025-01-17 22:01:96 [INFO]: [2025-01-17T13:56:47.955Z] GET /auth/kakao/callback?code=uc7oarmW0Q-v9kgMx_0EBKqudO-0Bo9kZpicjoyqaoqV_DZxDcyxIwAAAAQKKw0fAAABlHSNVsO2W8wW6V7rJg&state=http%253A%252F%252Flocalhost%253A3000%252Fsearch%253FsearchStr%253D 302 314.644 ms
+
+2025-01-17 22:01:50 [ERROR]: [2025-01-17T13:56:48.501Z] GET /user/info 401 3.951 ms
+
+2025-01-17 22:01:91 [INFO]: [2025-01-17T13:56:59.913Z] GET /auth/kakao?redirectUrl=http%3A%2F%2Flocalhost%3A3000%2Fsearch%3FsearchStr%3D 302 0.426 ms
+
+2025-01-17 22:01:22 [INFO]: [2025-01-17T13:57:00.219Z] GET /auth/kakao/callback?code=Vc-vSDfOzbhW9yW1HcsPck8s0QfzzRLAntv7lWuKChaTCcdmBtPC_AAAAAQKKw0fAAABlHSNhxISmUam6ZdnFg&state=http%253A%252F%252Flocalhost%253A3000%252Fsearch%253FsearchStr%253D 302 212.442 ms
+
+2025-01-17 22:01:52 [ERROR]: [2025-01-17T13:57:00.520Z] GET /user/info 401 1.087 ms
+
+2025-01-17 22:01:19 [INFO]: [2025-01-17T13:57:29.185Z] GET /auth/kakao?redirectUrl=http%3A%2F%2Flocalhost%3A3000%2Fsearch%3FsearchStr%3D 302 2.925 ms
+
+2025-01-17 22:01:62 [INFO]: [2025-01-17T13:57:29.616Z] GET /auth/kakao/callback?code=jVNAcL5nsXTj9bbfF7FqMK10-jZA69uODw711UeMa51aBZ_LmPl_HQAAAAQKKw0fAAABlHSN-VrgLMgnBn6ZSw&state=http%253A%252F%252Flocalhost%253A3000%252Fsearch%253FsearchStr%253D 302 351.782 ms
+
+2025-01-17 22:01:17 [ERROR]: [2025-01-17T13:57:30.168Z] GET /user/info 401 4.647 ms
+
+2025-01-17 22:01:74 [INFO]: [2025-01-17T13:58:14.733Z] GET /auth/kakao?redirectUrl=http%3A%2F%2Flocalhost%3A3000%2Fsearch%3FsearchStr%3D 302 3.819 ms
+
+2025-01-17 22:01:13 [INFO]: [2025-01-17T13:58:15.132Z] GET /auth/kakao/callback?code=WexeR3bD5zleUGCw-PdokYRL_38moy5mojrckRuYv6ZPrMBpgBm67AAAAAQKKwzSAAABlHSOq1eQgW3aWXatGQ&state=http%253A%252F%252Flocalhost%253A3000%252Fsearch%253FsearchStr%253D 302 302.345 ms
+
+2025-01-17 22:01:40 [ERROR]: [2025-01-17T13:58:15.398Z] GET /user/info 401 5.035 ms
+
+2025-01-17 22:01:05 [INFO]: [2025-01-17T13:59:35.053Z] GET /auth/kakao?redirectUrl=http%3A%2F%2Flocalhost%3A3000%2Fsearch%3FsearchStr%3D 302 4.013 ms
+
+2025-01-17 22:01:60 [INFO]: [2025-01-17T13:59:35.602Z] GET /auth/kakao/callback?code=eUQJGwoJy7SiPYtMakMqjURyhCTliCdjbU0p2NSpg6xMKWPMC6X2JwAAAAQKPCRaAAABlHSP5RrE017PSiBv1Q&state=http%253A%252F%252Flocalhost%253A3000%252Fsearch%253FsearchStr%253D 302 447.588 ms
+
+2025-01-17 22:01:16 [INFO]: [2025-01-17T13:59:36.159Z] GET /user/info 200 17.002 ms
+
+2025-01-17 23:01:18 [INFO]: [2025-01-17T14:00:21.178Z] GET /user/logout 200 219.714 ms
+
+2025-01-17 23:01:87 [ERROR]: [2025-01-17T14:00:21.872Z] GET /user/info 401 1.390 ms
+
+2025-01-17 23:01:20 [INFO]: [2025-01-17T14:00:24.204Z] GET /auth/google?redirectUrl=http%3A%2F%2Flocalhost%3A3000%2Fsearch%3FsearchStr%3D 302 2.227 ms
+
+2025-01-17 23:01:06 [INFO]: [2025-01-17T14:00:33.060Z] GET /auth/google/callback?state=http%253A%252F%252Flocalhost%253A3000%252Fsearch%253FsearchStr%253D&code=4%2F0AanRRrv6jMta8X67-BN9lgH223znq6EXLr8Lj79ivb2ZA4lclWNl8CNqywRkfIsDOIaJFw&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&authuser=0&prompt=consent 302 704.954 ms
+
+2025-01-17 23:01:88 [INFO]: [2025-01-17T14:00:33.880Z] GET /user/info 304 11.698 ms
+
+2025-01-17 23:01:17 [INFO]: [2025-01-17T14:03:25.167Z] GET /user/logout 304 242.573 ms
+
+2025-01-17 23:01:76 [ERROR]: [2025-01-17T14:03:25.754Z] GET /user/info 401 2.108 ms
+
+2025-01-17 23:01:25 [INFO]: [2025-01-17T14:04:24.249Z] GET /auth/github?redirectUrl=http%3A%2F%2Flocalhost%3A3000%2Fsearch%3FsearchStr%3D 302 6.266 ms
+
+2025-01-17 23:01:39 [INFO]: [2025-01-17T14:04:25.391Z] GET /auth/github/callback?code=8753bfa0b848db036685&state=http%253A%252F%252Flocalhost%253A3000%252Fsearch%253FsearchStr%253D 302 756.280 ms
+
+2025-01-17 23:01:63 [INFO]: [2025-01-17T14:04:25.633Z] GET /user/info 200 18.060 ms
+
+2025-01-17 23:01:74 [INFO]: [2025-01-17T14:09:39.741Z] GET /user/logout 304 218.587 ms
+
+2025-01-17 23:01:48 [ERROR]: [2025-01-17T14:09:40.481Z] GET /user/info 401 1.472 ms
+
+2025-01-17 23:01:18 [INFO]: [2025-01-17T14:09:42.176Z] GET /auth/github?redirectUrl=http%3A%2F%2Flocalhost%3A3000%2Fsearch%3FsearchStr%3D 302 1.358 ms
+
+2025-01-17 23:01:35 [INFO]: [2025-01-17T14:09:43.349Z] GET /auth/github/callback?code=ca877846ded26a41aba5&state=http%253A%252F%252Flocalhost%253A3000%252Fsearch%253FsearchStr%253D 302 785.284 ms
+
+2025-01-17 23:01:59 [INFO]: [2025-01-17T14:09:43.587Z] GET /user/info 304 7.253 ms
+
