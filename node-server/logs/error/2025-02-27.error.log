@@ -1,0 +1,1038 @@
+2025-02-27 00:02:15 [ERROR]: GET /movie/genre 400 113.154 ms
+
+2025-02-27 00:02:44 [ERROR]: GET /movie/undefined 400 14.693 ms
+
+2025-02-27 00:02:47 [ERROR]: GET /movie/undefined 400 24.592 ms
+
+2025-02-27 00:02:50 [ERROR]: GET /movie/undefined 400 10.798 ms
+
+2025-02-27 00:02:53 [ERROR]: GET /movie/undefined 400 12.081 ms
+
+2025-02-27 00:02:61 [ERROR]: GET /movie/undefined 400 11.092 ms
+
+2025-02-27 00:02:70 [ERROR]: GET /movie/undefined 400 10.813 ms
+
+2025-02-27 00:02:74 [ERROR]: GET /movie/undefined 400 12.289 ms
+
+2025-02-27 00:02:77 [ERROR]: GET /movie/undefined 400 15.825 ms
+
+2025-02-27 00:02:80 [ERROR]: GET /movie/undefined 400 10.055 ms
+
+2025-02-27 00:02:84 [ERROR]: GET /movie/undefined 400 5.295 ms
+
+2025-02-27 00:02:89 [ERROR]: GET /movie/undefined 400 18.063 ms
+
+2025-02-27 00:02:91 [ERROR]: GET /movie/undefined 400 5.569 ms
+
+2025-02-27 00:02:96 [ERROR]: GET /movie/undefined 400 11.428 ms
+
+2025-02-27 00:02:98 [ERROR]: GET /movie/undefined 400 16.593 ms
+
+2025-02-27 00:02:01 [ERROR]: GET /movie/undefined 400 7.474 ms
+
+2025-02-27 00:02:04 [ERROR]: GET /movie/undefined 400 15.669 ms
+
+2025-02-27 00:02:06 [ERROR]: GET /movie/undefined 400 12.518 ms
+
+2025-02-27 00:02:13 [ERROR]: GET /movie/undefined 400 10.341 ms
+
+2025-02-27 00:02:17 [ERROR]: GET /movie/undefined 400 7.952 ms
+
+2025-02-27 00:02:21 [ERROR]: GET /movie/undefined 400 18.184 ms
+
+2025-02-27 00:02:25 [ERROR]: GET /movie/undefined 400 13.827 ms
+
+2025-02-27 00:02:36 [ERROR]: GET /movie/undefined 400 36.575 ms
+
+2025-02-27 00:02:39 [ERROR]: GET /movie/undefined 400 13.575 ms
+
+2025-02-27 00:02:44 [ERROR]: GET /movie/undefined 400 25.909 ms
+
+2025-02-27 00:02:47 [ERROR]: GET /movie/undefined 400 9.673 ms
+
+2025-02-27 00:02:53 [ERROR]: GET /movie/undefined 400 16.910 ms
+
+2025-02-27 00:02:58 [ERROR]: GET /movie/undefined 400 13.391 ms
+
+2025-02-27 00:02:61 [ERROR]: GET /movie/undefined 400 15.148 ms
+
+2025-02-27 00:02:65 [ERROR]: GET /movie/undefined 400 7.833 ms
+
+2025-02-27 00:02:69 [ERROR]: GET /movie/undefined 400 10.930 ms
+
+2025-02-27 00:02:73 [ERROR]: GET /movie/undefined 400 14.888 ms
+
+2025-02-27 00:02:76 [ERROR]: GET /movie/undefined 400 10.641 ms
+
+2025-02-27 00:02:79 [ERROR]: GET /movie/undefined 400 12.928 ms
+
+2025-02-27 00:02:86 [ERROR]: GET /movie/undefined 400 9.779 ms
+
+2025-02-27 00:02:89 [ERROR]: GET /movie/undefined 400 10.299 ms
+
+2025-02-27 00:02:93 [ERROR]: GET /movie/undefined 400 6.175 ms
+
+2025-02-27 00:02:97 [ERROR]: GET /movie/undefined 400 14.377 ms
+
+2025-02-27 00:02:01 [ERROR]: GET /movie/undefined 400 5.095 ms
+
+2025-02-27 00:02:06 [ERROR]: GET /movie/undefined 400 18.425 ms
+
+2025-02-27 00:02:11 [ERROR]: GET /movie/undefined 400 5.154 ms
+
+2025-02-27 00:02:15 [ERROR]: GET /movie/undefined 400 17.084 ms
+
+2025-02-27 00:02:19 [ERROR]: GET /movie/undefined 400 14.770 ms
+
+2025-02-27 00:02:23 [ERROR]: GET /movie/undefined 400 14.692 ms
+
+2025-02-27 00:02:29 [ERROR]: GET /movie/undefined 400 16.570 ms
+
+2025-02-27 00:02:32 [ERROR]: GET /movie/undefined 400 9.713 ms
+
+2025-02-27 00:02:40 [ERROR]: GET /movie/undefined 400 12.040 ms
+
+2025-02-27 00:02:49 [ERROR]: GET /movie/undefined 400 8.550 ms
+
+2025-02-27 00:02:51 [ERROR]: GET /movie/undefined 400 5.823 ms
+
+2025-02-27 00:02:53 [ERROR]: GET /movie/undefined 400 5.036 ms
+
+2025-02-27 00:02:55 [ERROR]: GET /movie/undefined 400 5.747 ms
+
+2025-02-27 00:02:57 [ERROR]: GET /movie/undefined 400 5.622 ms
+
+2025-02-27 00:02:59 [ERROR]: GET /movie/undefined 400 14.436 ms
+
+2025-02-27 00:02:61 [ERROR]: GET /movie/undefined 400 12.891 ms
+
+2025-02-27 00:02:64 [ERROR]: GET /movie/undefined 400 4.470 ms
+
+2025-02-27 00:02:66 [ERROR]: GET /movie/undefined 400 11.586 ms
+
+2025-02-27 00:02:68 [ERROR]: GET /movie/undefined 400 4.435 ms
+
+2025-02-27 00:02:71 [ERROR]: GET /movie/undefined 400 17.901 ms
+
+2025-02-27 00:02:74 [ERROR]: GET /movie/undefined 400 14.004 ms
+
+2025-02-27 00:02:76 [ERROR]: GET /movie/undefined 400 4.324 ms
+
+2025-02-27 00:02:78 [ERROR]: GET /movie/undefined 400 5.548 ms
+
+2025-02-27 00:02:80 [ERROR]: GET /movie/undefined 400 5.266 ms
+
+2025-02-27 00:02:82 [ERROR]: GET /movie/undefined 400 7.540 ms
+
+2025-02-27 00:02:84 [ERROR]: GET /movie/undefined 400 10.668 ms
+
+2025-02-27 00:02:86 [ERROR]: GET /movie/undefined 400 6.049 ms
+
+2025-02-27 00:02:90 [ERROR]: GET /movie/undefined 400 14.713 ms
+
+2025-02-27 00:02:92 [ERROR]: GET /movie/undefined 400 12.692 ms
+
+2025-02-27 00:02:94 [ERROR]: GET /movie/undefined 400 12.801 ms
+
+2025-02-27 00:02:97 [ERROR]: GET /movie/undefined 400 8.262 ms
+
+2025-02-27 00:02:99 [ERROR]: GET /movie/undefined 400 7.632 ms
+
+2025-02-27 00:02:02 [ERROR]: GET /movie/undefined 400 12.845 ms
+
+2025-02-27 00:02:06 [ERROR]: GET /movie/undefined 400 10.218 ms
+
+2025-02-27 00:02:09 [ERROR]: GET /movie/undefined 400 14.495 ms
+
+2025-02-27 00:02:12 [ERROR]: GET /movie/undefined 400 9.512 ms
+
+2025-02-27 00:02:14 [ERROR]: GET /movie/undefined 400 13.597 ms
+
+2025-02-27 00:02:16 [ERROR]: GET /movie/undefined 400 4.177 ms
+
+2025-02-27 00:02:18 [ERROR]: GET /movie/undefined 400 7.091 ms
+
+2025-02-27 00:02:21 [ERROR]: GET /movie/undefined 400 7.252 ms
+
+2025-02-27 00:02:22 [ERROR]: GET /movie/undefined 400 7.331 ms
+
+2025-02-27 00:02:24 [ERROR]: GET /movie/undefined 400 9.673 ms
+
+2025-02-27 00:02:25 [ERROR]: GET /movie/undefined 400 6.450 ms
+
+2025-02-27 00:02:27 [ERROR]: GET /movie/undefined 400 4.478 ms
+
+2025-02-27 00:02:28 [ERROR]: GET /movie/undefined 400 4.448 ms
+
+2025-02-27 00:02:31 [ERROR]: GET /movie/undefined 400 6.810 ms
+
+2025-02-27 00:02:34 [ERROR]: GET /movie/undefined 400 12.121 ms
+
+2025-02-27 00:02:37 [ERROR]: GET /movie/undefined 400 22.064 ms
+
+2025-02-27 00:02:38 [ERROR]: GET /movie/undefined 400 7.776 ms
+
+2025-02-27 00:02:40 [ERROR]: GET /movie/undefined 400 8.743 ms
+
+2025-02-27 00:02:41 [ERROR]: GET /movie/undefined 400 4.036 ms
+
+2025-02-27 00:02:43 [ERROR]: GET /movie/undefined 400 4.290 ms
+
+2025-02-27 00:02:44 [ERROR]: GET /movie/undefined 400 4.949 ms
+
+2025-02-27 00:02:47 [ERROR]: GET /movie/undefined 400 7.075 ms
+
+2025-02-27 00:02:49 [ERROR]: GET /movie/undefined 400 6.790 ms
+
+2025-02-27 00:02:50 [ERROR]: GET /movie/undefined 400 7.391 ms
+
+2025-02-27 00:02:56 [ERROR]: GET /movie/undefined 400 6.513 ms
+
+2025-02-27 00:02:59 [ERROR]: GET /movie/undefined 400 5.731 ms
+
+2025-02-27 00:02:61 [ERROR]: GET /movie/undefined 400 4.565 ms
+
+2025-02-27 00:02:64 [ERROR]: GET /movie/undefined 400 4.929 ms
+
+2025-02-27 00:02:67 [ERROR]: GET /movie/undefined 400 4.793 ms
+
+2025-02-27 00:02:68 [ERROR]: GET /movie/undefined 400 4.186 ms
+
+2025-02-27 00:02:70 [ERROR]: GET /movie/undefined 400 8.925 ms
+
+2025-02-27 00:02:74 [ERROR]: GET /movie/undefined 400 14.421 ms
+
+2025-02-27 00:02:76 [ERROR]: GET /movie/undefined 400 4.694 ms
+
+2025-02-27 00:02:78 [ERROR]: GET /movie/undefined 400 4.577 ms
+
+2025-02-27 00:02:80 [ERROR]: GET /movie/undefined 400 9.184 ms
+
+2025-02-27 00:02:84 [ERROR]: GET /movie/undefined 400 15.709 ms
+
+2025-02-27 00:02:90 [ERROR]: GET /movie/undefined 400 11.454 ms
+
+2025-02-27 00:02:94 [ERROR]: GET /movie/undefined 400 8.503 ms
+
+2025-02-27 00:02:98 [ERROR]: GET /movie/undefined 400 4.607 ms
+
+2025-02-27 00:02:06 [ERROR]: GET /movie/undefined 400 7.580 ms
+
+2025-02-27 00:02:10 [ERROR]: GET /movie/undefined 400 8.146 ms
+
+2025-02-27 00:02:13 [ERROR]: GET /movie/undefined 400 8.075 ms
+
+2025-02-27 00:02:17 [ERROR]: GET /movie/undefined 400 8.836 ms
+
+2025-02-27 00:02:20 [ERROR]: GET /movie/undefined 400 9.590 ms
+
+2025-02-27 00:02:22 [ERROR]: GET /movie/undefined 400 15.121 ms
+
+2025-02-27 00:02:24 [ERROR]: GET /movie/undefined 400 14.851 ms
+
+2025-02-27 00:02:26 [ERROR]: GET /movie/undefined 400 6.547 ms
+
+2025-02-27 00:02:28 [ERROR]: GET /movie/undefined 400 10.431 ms
+
+2025-02-27 00:02:29 [ERROR]: GET /movie/undefined 400 3.946 ms
+
+2025-02-27 00:02:31 [ERROR]: GET /movie/undefined 400 5.835 ms
+
+2025-02-27 00:02:33 [ERROR]: GET /movie/undefined 400 4.585 ms
+
+2025-02-27 00:02:36 [ERROR]: GET /movie/undefined 400 10.195 ms
+
+2025-02-27 00:02:39 [ERROR]: GET /movie/undefined 400 20.938 ms
+
+2025-02-27 00:02:41 [ERROR]: GET /movie/undefined 400 4.460 ms
+
+2025-02-27 00:02:44 [ERROR]: GET /movie/undefined 400 9.031 ms
+
+2025-02-27 00:02:46 [ERROR]: GET /movie/undefined 400 4.663 ms
+
+2025-02-27 00:02:48 [ERROR]: GET /movie/undefined 400 3.983 ms
+
+2025-02-27 00:02:49 [ERROR]: GET /movie/undefined 400 5.914 ms
+
+2025-02-27 00:02:51 [ERROR]: GET /movie/undefined 400 8.800 ms
+
+2025-02-27 00:02:52 [ERROR]: GET /movie/undefined 400 7.692 ms
+
+2025-02-27 00:02:54 [ERROR]: GET /movie/undefined 400 6.961 ms
+
+2025-02-27 00:02:55 [ERROR]: GET /movie/undefined 400 3.775 ms
+
+2025-02-27 00:02:57 [ERROR]: GET /movie/undefined 400 6.257 ms
+
+2025-02-27 00:02:59 [ERROR]: GET /movie/undefined 400 6.101 ms
+
+2025-02-27 00:02:61 [ERROR]: GET /movie/undefined 400 4.146 ms
+
+2025-02-27 00:02:63 [ERROR]: GET /movie/undefined 400 4.706 ms
+
+2025-02-27 00:02:64 [ERROR]: GET /movie/undefined 400 5.726 ms
+
+2025-02-27 00:02:66 [ERROR]: GET /movie/undefined 400 6.151 ms
+
+2025-02-27 00:02:68 [ERROR]: GET /movie/undefined 400 7.809 ms
+
+2025-02-27 00:02:70 [ERROR]: GET /movie/undefined 400 10.043 ms
+
+2025-02-27 00:02:72 [ERROR]: GET /movie/undefined 400 9.026 ms
+
+2025-02-27 00:02:74 [ERROR]: GET /movie/undefined 400 7.152 ms
+
+2025-02-27 00:02:76 [ERROR]: GET /movie/undefined 400 11.055 ms
+
+2025-02-27 00:02:79 [ERROR]: GET /movie/undefined 400 11.581 ms
+
+2025-02-27 00:02:80 [ERROR]: GET /movie/undefined 400 5.196 ms
+
+2025-02-27 00:02:82 [ERROR]: GET /movie/undefined 400 6.996 ms
+
+2025-02-27 00:02:83 [ERROR]: GET /movie/undefined 400 4.093 ms
+
+2025-02-27 00:02:85 [ERROR]: GET /movie/undefined 400 4.245 ms
+
+2025-02-27 00:02:86 [ERROR]: GET /movie/undefined 400 5.779 ms
+
+2025-02-27 00:02:89 [ERROR]: GET /movie/undefined 400 15.423 ms
+
+2025-02-27 00:02:96 [ERROR]: GET /movie/undefined 400 5.732 ms
+
+2025-02-27 00:02:98 [ERROR]: GET /movie/undefined 400 9.134 ms
+
+2025-02-27 00:02:01 [ERROR]: GET /movie/undefined 400 13.526 ms
+
+2025-02-27 00:02:03 [ERROR]: GET /movie/undefined 400 7.018 ms
+
+2025-02-27 00:02:05 [ERROR]: GET /movie/undefined 400 5.425 ms
+
+2025-02-27 00:02:07 [ERROR]: GET /movie/undefined 400 4.979 ms
+
+2025-02-27 00:02:09 [ERROR]: GET /movie/undefined 400 16.314 ms
+
+2025-02-27 00:02:19 [ERROR]: GET /movie/undefined 400 44.429 ms
+
+2025-02-27 00:02:21 [ERROR]: GET /movie/undefined 400 17.529 ms
+
+2025-02-27 00:02:24 [ERROR]: GET /movie/undefined 400 4.952 ms
+
+2025-02-27 00:02:26 [ERROR]: GET /movie/undefined 400 13.063 ms
+
+2025-02-27 00:02:28 [ERROR]: GET /movie/undefined 400 4.347 ms
+
+2025-02-27 00:02:29 [ERROR]: GET /movie/undefined 400 6.250 ms
+
+2025-02-27 00:02:31 [ERROR]: GET /movie/undefined 400 9.122 ms
+
+2025-02-27 00:02:33 [ERROR]: GET /movie/undefined 400 7.670 ms
+
+2025-02-27 00:02:35 [ERROR]: GET /movie/undefined 400 5.160 ms
+
+2025-02-27 00:02:37 [ERROR]: GET /movie/undefined 400 8.227 ms
+
+2025-02-27 00:02:39 [ERROR]: GET /movie/undefined 400 8.323 ms
+
+2025-02-27 22:02:85 [ERROR]: GET /movie/genre 400 44.187 ms
+
+2025-02-27 22:02:51 [ERROR]: GET /movie/undefined 400 8.407 ms
+
+2025-02-27 22:02:53 [ERROR]: GET /movie/undefined 400 6.790 ms
+
+2025-02-27 22:02:54 [ERROR]: GET /movie/undefined 400 5.397 ms
+
+2025-02-27 22:02:56 [ERROR]: GET /movie/undefined 400 6.266 ms
+
+2025-02-27 22:02:57 [ERROR]: GET /movie/undefined 400 5.473 ms
+
+2025-02-27 22:02:60 [ERROR]: GET /movie/undefined 400 6.172 ms
+
+2025-02-27 22:02:63 [ERROR]: GET /movie/undefined 400 8.736 ms
+
+2025-02-27 22:02:65 [ERROR]: GET /movie/undefined 400 7.082 ms
+
+2025-02-27 22:02:67 [ERROR]: GET /movie/undefined 400 8.132 ms
+
+2025-02-27 22:02:72 [ERROR]: GET /movie/undefined 400 5.329 ms
+
+2025-02-27 22:02:75 [ERROR]: GET /movie/undefined 400 13.895 ms
+
+2025-02-27 22:02:77 [ERROR]: GET /movie/undefined 400 3.238 ms
+
+2025-02-27 22:02:79 [ERROR]: GET /movie/undefined 400 3.210 ms
+
+2025-02-27 22:02:80 [ERROR]: GET /movie/undefined 400 4.340 ms
+
+2025-02-27 22:02:81 [ERROR]: GET /movie/undefined 400 7.206 ms
+
+2025-02-27 22:02:82 [ERROR]: GET /movie/undefined 400 3.512 ms
+
+2025-02-27 22:02:83 [ERROR]: GET /movie/undefined 400 4.041 ms
+
+2025-02-27 22:02:89 [ERROR]: GET /movie/undefined 400 4.168 ms
+
+2025-02-27 22:02:90 [ERROR]: GET /movie/undefined 400 5.504 ms
+
+2025-02-27 22:02:92 [ERROR]: GET /movie/undefined 400 3.837 ms
+
+2025-02-27 22:02:93 [ERROR]: GET /movie/undefined 400 6.098 ms
+
+2025-02-27 22:02:95 [ERROR]: GET /movie/undefined 400 4.551 ms
+
+2025-02-27 22:02:96 [ERROR]: GET /movie/undefined 400 3.851 ms
+
+2025-02-27 22:02:97 [ERROR]: GET /movie/undefined 400 5.032 ms
+
+2025-02-27 22:02:98 [ERROR]: GET /movie/undefined 400 4.009 ms
+
+2025-02-27 22:02:99 [ERROR]: GET /movie/undefined 400 4.864 ms
+
+2025-02-27 22:02:01 [ERROR]: GET /movie/undefined 400 4.477 ms
+
+2025-02-27 22:02:02 [ERROR]: GET /movie/undefined 400 5.174 ms
+
+2025-02-27 22:02:04 [ERROR]: GET /movie/undefined 400 4.254 ms
+
+2025-02-27 22:02:05 [ERROR]: GET /movie/undefined 400 5.405 ms
+
+2025-02-27 22:02:06 [ERROR]: GET /movie/undefined 400 4.053 ms
+
+2025-02-27 22:02:07 [ERROR]: GET /movie/undefined 400 5.959 ms
+
+2025-02-27 22:02:08 [ERROR]: GET /movie/undefined 400 6.227 ms
+
+2025-02-27 22:02:09 [ERROR]: GET /movie/undefined 400 6.505 ms
+
+2025-02-27 22:02:11 [ERROR]: GET /movie/undefined 400 4.018 ms
+
+2025-02-27 22:02:12 [ERROR]: GET /movie/undefined 400 3.877 ms
+
+2025-02-27 22:02:13 [ERROR]: GET /movie/undefined 400 4.485 ms
+
+2025-02-27 22:02:14 [ERROR]: GET /movie/undefined 400 4.588 ms
+
+2025-02-27 22:02:16 [ERROR]: GET /movie/undefined 400 5.530 ms
+
+2025-02-27 22:02:17 [ERROR]: GET /movie/undefined 400 4.920 ms
+
+2025-02-27 22:02:18 [ERROR]: GET /movie/undefined 400 4.502 ms
+
+2025-02-27 22:02:19 [ERROR]: GET /movie/undefined 400 4.945 ms
+
+2025-02-27 22:02:20 [ERROR]: GET /movie/undefined 400 6.818 ms
+
+2025-02-27 22:02:21 [ERROR]: GET /movie/undefined 400 3.331 ms
+
+2025-02-27 22:02:22 [ERROR]: GET /movie/undefined 400 5.449 ms
+
+2025-02-27 22:02:23 [ERROR]: GET /movie/undefined 400 4.744 ms
+
+2025-02-27 22:02:24 [ERROR]: GET /movie/undefined 400 2.817 ms
+
+2025-02-27 22:02:25 [ERROR]: GET /movie/undefined 400 4.270 ms
+
+2025-02-27 22:02:26 [ERROR]: GET /movie/undefined 400 4.832 ms
+
+2025-02-27 22:02:27 [ERROR]: GET /movie/undefined 400 4.796 ms
+
+2025-02-27 22:02:27 [ERROR]: GET /movie/undefined 400 2.836 ms
+
+2025-02-27 22:02:28 [ERROR]: GET /movie/undefined 400 4.393 ms
+
+2025-02-27 22:02:29 [ERROR]: GET /movie/undefined 400 2.797 ms
+
+2025-02-27 22:02:30 [ERROR]: GET /movie/undefined 400 3.364 ms
+
+2025-02-27 22:02:31 [ERROR]: GET /movie/undefined 400 6.398 ms
+
+2025-02-27 22:02:32 [ERROR]: GET /movie/undefined 400 3.308 ms
+
+2025-02-27 22:02:33 [ERROR]: GET /movie/undefined 400 3.686 ms
+
+2025-02-27 22:02:34 [ERROR]: GET /movie/undefined 400 3.755 ms
+
+2025-02-27 22:02:35 [ERROR]: GET /movie/undefined 400 5.007 ms
+
+2025-02-27 22:02:36 [ERROR]: GET /movie/undefined 400 3.892 ms
+
+2025-02-27 22:02:38 [ERROR]: GET /movie/undefined 400 4.371 ms
+
+2025-02-27 22:02:39 [ERROR]: GET /movie/undefined 400 3.861 ms
+
+2025-02-27 22:02:40 [ERROR]: GET /movie/undefined 400 7.561 ms
+
+2025-02-27 22:02:41 [ERROR]: GET /movie/undefined 400 3.259 ms
+
+2025-02-27 22:02:42 [ERROR]: GET /movie/undefined 400 5.890 ms
+
+2025-02-27 22:02:43 [ERROR]: GET /movie/undefined 400 4.125 ms
+
+2025-02-27 22:02:44 [ERROR]: GET /movie/undefined 400 7.129 ms
+
+2025-02-27 22:02:45 [ERROR]: GET /movie/undefined 400 4.336 ms
+
+2025-02-27 22:02:46 [ERROR]: GET /movie/undefined 400 5.689 ms
+
+2025-02-27 22:02:48 [ERROR]: GET /movie/undefined 400 4.933 ms
+
+2025-02-27 22:02:50 [ERROR]: GET /movie/undefined 400 9.598 ms
+
+2025-02-27 22:02:51 [ERROR]: GET /movie/undefined 400 5.162 ms
+
+2025-02-27 22:02:52 [ERROR]: GET /movie/undefined 400 5.076 ms
+
+2025-02-27 22:02:54 [ERROR]: GET /movie/undefined 400 6.119 ms
+
+2025-02-27 22:02:55 [ERROR]: GET /movie/undefined 400 5.070 ms
+
+2025-02-27 22:02:56 [ERROR]: GET /movie/undefined 400 4.683 ms
+
+2025-02-27 22:02:57 [ERROR]: GET /movie/undefined 400 5.129 ms
+
+2025-02-27 22:02:59 [ERROR]: GET /movie/undefined 400 4.528 ms
+
+2025-02-27 22:02:60 [ERROR]: GET /movie/undefined 400 3.219 ms
+
+2025-02-27 22:02:61 [ERROR]: GET /movie/undefined 400 6.934 ms
+
+2025-02-27 22:02:62 [ERROR]: GET /movie/undefined 400 3.288 ms
+
+2025-02-27 22:02:63 [ERROR]: GET /movie/undefined 400 4.241 ms
+
+2025-02-27 22:02:65 [ERROR]: GET /movie/undefined 400 4.441 ms
+
+2025-02-27 22:02:67 [ERROR]: GET /movie/undefined 400 4.924 ms
+
+2025-02-27 22:02:68 [ERROR]: GET /movie/undefined 400 3.900 ms
+
+2025-02-27 22:02:69 [ERROR]: GET /movie/undefined 400 4.083 ms
+
+2025-02-27 22:02:70 [ERROR]: GET /movie/undefined 400 4.025 ms
+
+2025-02-27 22:02:71 [ERROR]: GET /movie/undefined 400 4.281 ms
+
+2025-02-27 22:02:72 [ERROR]: GET /movie/undefined 400 2.702 ms
+
+2025-02-27 22:02:73 [ERROR]: GET /movie/undefined 400 4.288 ms
+
+2025-02-27 22:02:74 [ERROR]: GET /movie/undefined 400 4.557 ms
+
+2025-02-27 22:02:75 [ERROR]: GET /movie/undefined 400 4.135 ms
+
+2025-02-27 22:02:76 [ERROR]: GET /movie/undefined 400 5.838 ms
+
+2025-02-27 22:02:78 [ERROR]: GET /movie/undefined 400 7.124 ms
+
+2025-02-27 22:02:79 [ERROR]: GET /movie/undefined 400 4.667 ms
+
+2025-02-27 22:02:80 [ERROR]: GET /movie/undefined 400 4.694 ms
+
+2025-02-27 22:02:81 [ERROR]: GET /movie/undefined 400 3.000 ms
+
+2025-02-27 22:02:81 [ERROR]: GET /movie/undefined 400 3.855 ms
+
+2025-02-27 22:02:83 [ERROR]: GET /movie/undefined 400 5.910 ms
+
+2025-02-27 22:02:84 [ERROR]: GET /movie/undefined 400 5.902 ms
+
+2025-02-27 22:02:85 [ERROR]: GET /movie/undefined 400 4.591 ms
+
+2025-02-27 22:02:86 [ERROR]: GET /movie/undefined 400 5.208 ms
+
+2025-02-27 22:02:87 [ERROR]: GET /movie/undefined 400 4.855 ms
+
+2025-02-27 22:02:89 [ERROR]: GET /movie/undefined 400 4.268 ms
+
+2025-02-27 22:02:90 [ERROR]: GET /movie/undefined 400 5.678 ms
+
+2025-02-27 22:02:91 [ERROR]: GET /movie/undefined 400 4.048 ms
+
+2025-02-27 22:02:93 [ERROR]: GET /movie/undefined 400 6.596 ms
+
+2025-02-27 22:02:95 [ERROR]: GET /movie/undefined 400 6.164 ms
+
+2025-02-27 22:02:96 [ERROR]: GET /movie/undefined 400 4.787 ms
+
+2025-02-27 22:02:98 [ERROR]: GET /movie/undefined 400 3.642 ms
+
+2025-02-27 22:02:99 [ERROR]: GET /movie/undefined 400 2.484 ms
+
+2025-02-27 22:02:100 [ERROR]: GET /movie/undefined 400 3.644 ms
+
+2025-02-27 22:02:01 [ERROR]: GET /movie/undefined 400 3.304 ms
+
+2025-02-27 22:02:02 [ERROR]: GET /movie/undefined 400 4.508 ms
+
+2025-02-27 22:02:03 [ERROR]: GET /movie/undefined 400 4.414 ms
+
+2025-02-27 22:02:04 [ERROR]: GET /movie/undefined 400 4.300 ms
+
+2025-02-27 22:02:05 [ERROR]: GET /movie/undefined 400 4.576 ms
+
+2025-02-27 22:02:06 [ERROR]: GET /movie/undefined 400 5.707 ms
+
+2025-02-27 22:02:08 [ERROR]: GET /movie/undefined 400 5.260 ms
+
+2025-02-27 22:02:09 [ERROR]: GET /movie/undefined 400 6.930 ms
+
+2025-02-27 22:02:10 [ERROR]: GET /movie/undefined 400 3.840 ms
+
+2025-02-27 22:02:11 [ERROR]: GET /movie/undefined 400 3.570 ms
+
+2025-02-27 22:02:12 [ERROR]: GET /movie/undefined 400 4.320 ms
+
+2025-02-27 22:02:13 [ERROR]: GET /movie/undefined 400 4.024 ms
+
+2025-02-27 22:02:14 [ERROR]: GET /movie/undefined 400 4.786 ms
+
+2025-02-27 22:02:16 [ERROR]: GET /movie/undefined 400 8.518 ms
+
+2025-02-27 22:02:20 [ERROR]: GET /movie/undefined 400 5.577 ms
+
+2025-02-27 22:02:21 [ERROR]: GET /movie/undefined 400 3.889 ms
+
+2025-02-27 22:02:22 [ERROR]: GET /movie/undefined 400 5.101 ms
+
+2025-02-27 22:02:23 [ERROR]: GET /movie/undefined 400 7.208 ms
+
+2025-02-27 22:02:24 [ERROR]: GET /movie/undefined 400 3.825 ms
+
+2025-02-27 22:02:26 [ERROR]: GET /movie/undefined 400 3.801 ms
+
+2025-02-27 22:02:27 [ERROR]: GET /movie/undefined 400 5.319 ms
+
+2025-02-27 22:02:28 [ERROR]: GET /movie/undefined 400 5.175 ms
+
+2025-02-27 22:02:30 [ERROR]: GET /movie/undefined 400 5.307 ms
+
+2025-02-27 22:02:31 [ERROR]: GET /movie/undefined 400 3.887 ms
+
+2025-02-27 22:02:32 [ERROR]: GET /movie/undefined 400 3.747 ms
+
+2025-02-27 22:02:33 [ERROR]: GET /movie/undefined 400 6.162 ms
+
+2025-02-27 22:02:35 [ERROR]: GET /movie/undefined 400 5.170 ms
+
+2025-02-27 22:02:36 [ERROR]: GET /movie/undefined 400 4.195 ms
+
+2025-02-27 22:02:38 [ERROR]: GET /movie/undefined 400 6.553 ms
+
+2025-02-27 22:02:39 [ERROR]: GET /movie/undefined 400 5.758 ms
+
+2025-02-27 22:02:41 [ERROR]: GET /movie/undefined 400 8.357 ms
+
+2025-02-27 22:02:42 [ERROR]: GET /movie/undefined 400 4.292 ms
+
+2025-02-27 22:02:43 [ERROR]: GET /movie/undefined 400 3.663 ms
+
+2025-02-27 22:02:44 [ERROR]: GET /movie/undefined 400 5.619 ms
+
+2025-02-27 22:02:45 [ERROR]: GET /movie/undefined 400 5.483 ms
+
+2025-02-27 22:02:47 [ERROR]: GET /movie/undefined 400 5.726 ms
+
+2025-02-27 22:02:48 [ERROR]: GET /movie/undefined 400 5.554 ms
+
+2025-02-27 22:02:49 [ERROR]: GET /movie/undefined 400 3.773 ms
+
+2025-02-27 22:02:51 [ERROR]: GET /movie/undefined 400 3.655 ms
+
+2025-02-27 22:02:52 [ERROR]: GET /movie/undefined 400 5.870 ms
+
+2025-02-27 22:02:53 [ERROR]: GET /movie/undefined 400 3.901 ms
+
+2025-02-27 22:02:54 [ERROR]: GET /movie/undefined 400 5.406 ms
+
+2025-02-27 22:02:55 [ERROR]: GET /movie/undefined 400 6.201 ms
+
+2025-02-27 22:02:56 [ERROR]: GET /movie/undefined 400 5.251 ms
+
+2025-02-27 22:02:58 [ERROR]: GET /movie/undefined 400 4.734 ms
+
+2025-02-27 22:02:59 [ERROR]: GET /movie/undefined 400 4.299 ms
+
+2025-02-27 22:02:61 [ERROR]: GET /movie/undefined 400 3.867 ms
+
+2025-02-27 22:02:62 [ERROR]: GET /movie/undefined 400 4.084 ms
+
+2025-02-27 22:02:63 [ERROR]: GET /movie/undefined 400 3.524 ms
+
+2025-02-27 22:02:64 [ERROR]: GET /movie/undefined 400 3.446 ms
+
+2025-02-27 22:02:64 [ERROR]: GET /movie/undefined 400 4.349 ms
+
+2025-02-27 22:02:66 [ERROR]: GET /movie/undefined 400 4.829 ms
+
+2025-02-27 22:02:67 [ERROR]: GET /movie/undefined 400 4.314 ms
+
+2025-02-27 22:02:68 [ERROR]: GET /movie/undefined 400 4.879 ms
+
+2025-02-27 22:02:70 [ERROR]: GET /movie/undefined 400 4.218 ms
+
+2025-02-27 22:02:65 [ERROR]: GET /movie/genre 400 5.387 ms
+
+2025-02-27 22:02:85 [ERROR]: GET /movie/undefined 400 3.948 ms
+
+2025-02-27 22:02:86 [ERROR]: GET /movie/undefined 400 3.913 ms
+
+2025-02-27 22:02:89 [ERROR]: GET /movie/undefined 400 5.338 ms
+
+2025-02-27 22:02:90 [ERROR]: GET /movie/undefined 400 4.887 ms
+
+2025-02-27 22:02:92 [ERROR]: GET /movie/undefined 400 5.214 ms
+
+2025-02-27 22:02:93 [ERROR]: GET /movie/undefined 400 4.673 ms
+
+2025-02-27 22:02:95 [ERROR]: GET /movie/undefined 400 4.277 ms
+
+2025-02-27 22:02:99 [ERROR]: GET /movie/undefined 400 8.252 ms
+
+2025-02-27 22:02:02 [ERROR]: GET /movie/undefined 400 7.985 ms
+
+2025-02-27 22:02:04 [ERROR]: GET /movie/undefined 400 6.142 ms
+
+2025-02-27 22:02:06 [ERROR]: GET /movie/undefined 400 3.816 ms
+
+2025-02-27 22:02:08 [ERROR]: GET /movie/undefined 400 9.393 ms
+
+2025-02-27 22:02:09 [ERROR]: GET /movie/undefined 400 5.229 ms
+
+2025-02-27 22:02:11 [ERROR]: GET /movie/undefined 400 9.676 ms
+
+2025-02-27 22:02:12 [ERROR]: GET /movie/undefined 400 4.571 ms
+
+2025-02-27 22:02:13 [ERROR]: GET /movie/undefined 400 6.713 ms
+
+2025-02-27 22:02:14 [ERROR]: GET /movie/undefined 400 3.806 ms
+
+2025-02-27 22:02:16 [ERROR]: GET /movie/undefined 400 8.303 ms
+
+2025-02-27 22:02:17 [ERROR]: GET /movie/undefined 400 3.577 ms
+
+2025-02-27 22:02:18 [ERROR]: GET /movie/undefined 400 4.055 ms
+
+2025-02-27 22:02:19 [ERROR]: GET /movie/undefined 400 3.473 ms
+
+2025-02-27 22:02:21 [ERROR]: GET /movie/undefined 400 8.935 ms
+
+2025-02-27 22:02:24 [ERROR]: GET /movie/undefined 400 3.331 ms
+
+2025-02-27 22:02:26 [ERROR]: GET /movie/undefined 400 3.443 ms
+
+2025-02-27 22:02:27 [ERROR]: GET /movie/undefined 400 3.334 ms
+
+2025-02-27 22:02:28 [ERROR]: GET /movie/undefined 400 7.657 ms
+
+2025-02-27 22:02:29 [ERROR]: GET /movie/undefined 400 3.316 ms
+
+2025-02-27 22:02:30 [ERROR]: GET /movie/undefined 400 9.272 ms
+
+2025-02-27 22:02:32 [ERROR]: GET /movie/undefined 400 4.026 ms
+
+2025-02-27 22:02:33 [ERROR]: GET /movie/undefined 400 7.464 ms
+
+2025-02-27 22:02:34 [ERROR]: GET /movie/undefined 400 3.448 ms
+
+2025-02-27 22:02:35 [ERROR]: GET /movie/undefined 400 3.582 ms
+
+2025-02-27 22:02:37 [ERROR]: GET /movie/undefined 400 6.393 ms
+
+2025-02-27 22:02:38 [ERROR]: GET /movie/undefined 400 3.981 ms
+
+2025-02-27 22:02:40 [ERROR]: GET /movie/undefined 400 4.268 ms
+
+2025-02-27 22:02:42 [ERROR]: GET /movie/undefined 400 12.098 ms
+
+2025-02-27 22:02:44 [ERROR]: GET /movie/undefined 400 8.047 ms
+
+2025-02-27 22:02:45 [ERROR]: GET /movie/undefined 400 4.129 ms
+
+2025-02-27 22:02:46 [ERROR]: GET /movie/undefined 400 5.048 ms
+
+2025-02-27 22:02:48 [ERROR]: GET /movie/undefined 400 6.655 ms
+
+2025-02-27 22:02:50 [ERROR]: GET /movie/undefined 400 9.475 ms
+
+2025-02-27 22:02:52 [ERROR]: GET /movie/undefined 400 4.174 ms
+
+2025-02-27 22:02:53 [ERROR]: GET /movie/undefined 400 6.339 ms
+
+2025-02-27 22:02:54 [ERROR]: GET /movie/undefined 400 3.210 ms
+
+2025-02-27 22:02:55 [ERROR]: GET /movie/undefined 400 6.947 ms
+
+2025-02-27 22:02:56 [ERROR]: GET /movie/undefined 400 4.345 ms
+
+2025-02-27 22:02:58 [ERROR]: GET /movie/undefined 400 7.170 ms
+
+2025-02-27 22:02:59 [ERROR]: GET /movie/undefined 400 3.695 ms
+
+2025-02-27 22:02:60 [ERROR]: GET /movie/undefined 400 3.430 ms
+
+2025-02-27 22:02:62 [ERROR]: GET /movie/undefined 400 4.166 ms
+
+2025-02-27 22:02:67 [ERROR]: GET /movie/undefined 400 4.188 ms
+
+2025-02-27 22:02:68 [ERROR]: GET /movie/undefined 400 3.995 ms
+
+2025-02-27 22:02:70 [ERROR]: GET /movie/undefined 400 9.555 ms
+
+2025-02-27 22:02:71 [ERROR]: GET /movie/undefined 400 4.413 ms
+
+2025-02-27 22:02:72 [ERROR]: GET /movie/undefined 400 5.784 ms
+
+2025-02-27 22:02:73 [ERROR]: GET /movie/undefined 400 3.861 ms
+
+2025-02-27 22:02:74 [ERROR]: GET /movie/undefined 400 2.997 ms
+
+2025-02-27 22:02:75 [ERROR]: GET /movie/undefined 400 3.282 ms
+
+2025-02-27 22:02:76 [ERROR]: GET /movie/undefined 400 3.415 ms
+
+2025-02-27 22:02:77 [ERROR]: GET /movie/undefined 400 3.550 ms
+
+2025-02-27 22:02:78 [ERROR]: GET /movie/undefined 400 3.216 ms
+
+2025-02-27 22:02:80 [ERROR]: GET /movie/undefined 400 4.884 ms
+
+2025-02-27 22:02:81 [ERROR]: GET /movie/undefined 400 3.951 ms
+
+2025-02-27 22:02:82 [ERROR]: GET /movie/undefined 400 3.325 ms
+
+2025-02-27 22:02:82 [ERROR]: GET /movie/undefined 400 3.066 ms
+
+2025-02-27 22:02:84 [ERROR]: GET /movie/undefined 400 3.172 ms
+
+2025-02-27 22:02:85 [ERROR]: GET /movie/undefined 400 4.581 ms
+
+2025-02-27 22:02:86 [ERROR]: GET /movie/undefined 400 4.050 ms
+
+2025-02-27 22:02:87 [ERROR]: GET /movie/undefined 400 2.813 ms
+
+2025-02-27 22:02:88 [ERROR]: GET /movie/undefined 400 2.884 ms
+
+2025-02-27 22:02:89 [ERROR]: GET /movie/undefined 400 3.875 ms
+
+2025-02-27 22:02:90 [ERROR]: GET /movie/undefined 400 2.686 ms
+
+2025-02-27 22:02:91 [ERROR]: GET /movie/undefined 400 5.175 ms
+
+2025-02-27 22:02:94 [ERROR]: GET /movie/undefined 400 8.471 ms
+
+2025-02-27 22:02:96 [ERROR]: GET /movie/undefined 400 2.333 ms
+
+2025-02-27 22:02:97 [ERROR]: GET /movie/undefined 400 3.880 ms
+
+2025-02-27 22:02:98 [ERROR]: GET /movie/undefined 400 3.519 ms
+
+2025-02-27 22:02:99 [ERROR]: GET /movie/undefined 400 3.773 ms
+
+2025-02-27 22:02:00 [ERROR]: GET /movie/undefined 400 4.303 ms
+
+2025-02-27 22:02:02 [ERROR]: GET /movie/undefined 400 6.017 ms
+
+2025-02-27 22:02:03 [ERROR]: GET /movie/undefined 400 7.308 ms
+
+2025-02-27 22:02:05 [ERROR]: GET /movie/undefined 400 5.386 ms
+
+2025-02-27 22:02:06 [ERROR]: GET /movie/undefined 400 3.886 ms
+
+2025-02-27 22:02:07 [ERROR]: GET /movie/undefined 400 5.717 ms
+
+2025-02-27 22:02:08 [ERROR]: GET /movie/undefined 400 3.588 ms
+
+2025-02-27 22:02:09 [ERROR]: GET /movie/undefined 400 5.564 ms
+
+2025-02-27 22:02:11 [ERROR]: GET /movie/undefined 400 5.389 ms
+
+2025-02-27 22:02:12 [ERROR]: GET /movie/undefined 400 4.554 ms
+
+2025-02-27 22:02:13 [ERROR]: GET /movie/undefined 400 3.463 ms
+
+2025-02-27 22:02:14 [ERROR]: GET /movie/undefined 400 3.928 ms
+
+2025-02-27 22:02:15 [ERROR]: GET /movie/undefined 400 4.411 ms
+
+2025-02-27 22:02:16 [ERROR]: GET /movie/undefined 400 3.641 ms
+
+2025-02-27 22:02:17 [ERROR]: GET /movie/undefined 400 3.208 ms
+
+2025-02-27 22:02:18 [ERROR]: GET /movie/undefined 400 3.480 ms
+
+2025-02-27 22:02:19 [ERROR]: GET /movie/undefined 400 6.350 ms
+
+2025-02-27 22:02:19 [ERROR]: GET /movie/undefined 400 3.679 ms
+
+2025-02-27 22:02:21 [ERROR]: GET /movie/undefined 400 4.806 ms
+
+2025-02-27 22:02:22 [ERROR]: GET /movie/undefined 400 5.209 ms
+
+2025-02-27 22:02:23 [ERROR]: GET /movie/undefined 400 5.497 ms
+
+2025-02-27 22:02:24 [ERROR]: GET /movie/undefined 400 3.701 ms
+
+2025-02-27 22:02:25 [ERROR]: GET /movie/undefined 400 5.116 ms
+
+2025-02-27 22:02:26 [ERROR]: GET /movie/undefined 400 3.434 ms
+
+2025-02-27 22:02:27 [ERROR]: GET /movie/undefined 400 3.324 ms
+
+2025-02-27 22:02:28 [ERROR]: GET /movie/undefined 400 3.578 ms
+
+2025-02-27 22:02:29 [ERROR]: GET /movie/undefined 400 6.595 ms
+
+2025-02-27 22:02:30 [ERROR]: GET /movie/undefined 400 4.341 ms
+
+2025-02-27 22:02:32 [ERROR]: GET /movie/undefined 400 4.113 ms
+
+2025-02-27 22:02:32 [ERROR]: GET /movie/undefined 400 3.904 ms
+
+2025-02-27 22:02:33 [ERROR]: GET /movie/undefined 400 3.623 ms
+
+2025-02-27 22:02:37 [ERROR]: GET /movie/undefined 400 9.525 ms
+
+2025-02-27 22:02:40 [ERROR]: GET /movie/undefined 400 3.083 ms
+
+2025-02-27 22:02:40 [ERROR]: GET /movie/undefined 400 3.350 ms
+
+2025-02-27 22:02:41 [ERROR]: GET /movie/undefined 400 4.022 ms
+
+2025-02-27 22:02:42 [ERROR]: GET /movie/undefined 400 5.516 ms
+
+2025-02-27 22:02:43 [ERROR]: GET /movie/undefined 400 3.676 ms
+
+2025-02-27 22:02:45 [ERROR]: GET /movie/undefined 400 4.766 ms
+
+2025-02-27 22:02:45 [ERROR]: GET /movie/undefined 400 4.207 ms
+
+2025-02-27 22:02:47 [ERROR]: GET /movie/undefined 400 6.928 ms
+
+2025-02-27 22:02:48 [ERROR]: GET /movie/undefined 400 3.850 ms
+
+2025-02-27 22:02:49 [ERROR]: GET /movie/undefined 400 3.522 ms
+
+2025-02-27 22:02:50 [ERROR]: GET /movie/undefined 400 4.168 ms
+
+2025-02-27 22:02:51 [ERROR]: GET /movie/undefined 400 3.432 ms
+
+2025-02-27 22:02:53 [ERROR]: GET /movie/undefined 400 4.727 ms
+
+2025-02-27 22:02:56 [ERROR]: GET /movie/undefined 400 13.894 ms
+
+2025-02-27 22:02:61 [ERROR]: GET /movie/undefined 400 4.684 ms
+
+2025-02-27 22:02:64 [ERROR]: GET /movie/undefined 400 4.581 ms
+
+2025-02-27 22:02:66 [ERROR]: GET /movie/undefined 400 4.234 ms
+
+2025-02-27 22:02:67 [ERROR]: GET /movie/undefined 400 9.206 ms
+
+2025-02-27 22:02:69 [ERROR]: GET /movie/undefined 400 4.557 ms
+
+2025-02-27 22:02:70 [ERROR]: GET /movie/undefined 400 7.798 ms
+
+2025-02-27 22:02:71 [ERROR]: GET /movie/undefined 400 3.398 ms
+
+2025-02-27 22:02:72 [ERROR]: GET /movie/undefined 400 4.578 ms
+
+2025-02-27 22:02:74 [ERROR]: GET /movie/undefined 400 4.085 ms
+
+2025-02-27 22:02:75 [ERROR]: GET /movie/undefined 400 4.219 ms
+
+2025-02-27 22:02:76 [ERROR]: GET /movie/undefined 400 3.597 ms
+
+2025-02-27 22:02:78 [ERROR]: GET /movie/undefined 400 3.971 ms
+
+2025-02-27 22:02:79 [ERROR]: GET /movie/undefined 400 6.872 ms
+
+2025-02-27 22:02:80 [ERROR]: GET /movie/undefined 400 7.707 ms
+
+2025-02-27 22:02:85 [ERROR]: GET /movie/undefined 400 3.535 ms
+
+2025-02-27 22:02:87 [ERROR]: GET /movie/undefined 400 4.844 ms
+
+2025-02-27 22:02:89 [ERROR]: GET /movie/undefined 400 3.917 ms
+
+2025-02-27 22:02:92 [ERROR]: GET /movie/undefined 400 9.939 ms
+
+2025-02-27 22:02:95 [ERROR]: GET /movie/undefined 400 14.014 ms
+
+2025-02-27 22:02:96 [ERROR]: GET /movie/undefined 400 4.149 ms
+
+2025-02-27 22:02:98 [ERROR]: GET /movie/undefined 400 6.668 ms
+
+2025-02-27 22:02:99 [ERROR]: GET /movie/undefined 400 4.082 ms
+
+2025-02-27 22:02:01 [ERROR]: GET /movie/undefined 400 8.638 ms
+
+2025-02-27 22:02:02 [ERROR]: GET /movie/undefined 400 6.710 ms
+
+2025-02-27 22:02:04 [ERROR]: GET /movie/undefined 400 5.705 ms
+
+2025-02-27 22:02:05 [ERROR]: GET /movie/undefined 400 4.343 ms
+
+2025-02-27 22:02:07 [ERROR]: GET /movie/undefined 400 6.005 ms
+
+2025-02-27 22:02:08 [ERROR]: GET /movie/undefined 400 7.774 ms
+
+2025-02-27 22:02:10 [ERROR]: GET /movie/undefined 400 4.643 ms
+
+2025-02-27 22:02:11 [ERROR]: GET /movie/undefined 400 5.534 ms
+
+2025-02-27 22:02:12 [ERROR]: GET /movie/undefined 400 6.129 ms
+
+2025-02-27 22:02:13 [ERROR]: GET /movie/undefined 400 7.024 ms
+
+2025-02-27 22:02:14 [ERROR]: GET /movie/undefined 400 4.043 ms
+
+2025-02-27 22:02:15 [ERROR]: GET /movie/undefined 400 4.625 ms
+
+2025-02-27 22:02:17 [ERROR]: GET /movie/undefined 400 4.599 ms
+
+2025-02-27 22:02:18 [ERROR]: GET /movie/undefined 400 4.327 ms
+
+2025-02-27 22:02:20 [ERROR]: GET /movie/undefined 400 4.256 ms
+
+2025-02-27 22:02:21 [ERROR]: GET /movie/undefined 400 4.194 ms
+
+2025-02-27 22:02:23 [ERROR]: GET /movie/undefined 400 9.932 ms
+
+2025-02-27 22:02:24 [ERROR]: GET /movie/undefined 400 5.884 ms
+
+2025-02-27 22:02:25 [ERROR]: GET /movie/undefined 400 4.284 ms
+
+2025-02-27 22:02:27 [ERROR]: GET /movie/undefined 400 6.197 ms
+
+2025-02-27 22:02:28 [ERROR]: GET /movie/undefined 400 5.687 ms
+
+2025-02-27 22:02:67 [ERROR]: GET /movie/genre 400 5.406 ms
+
+2025-02-27 22:02:43 [ERROR]: GET /movie/genre 400 106.103 ms
+
+2025-02-27 22:02:92 [ERROR]: GET /movie/genre 400 20.511 ms
+
+2025-02-27 22:02:53 [ERROR]: GET /movie/genre 400 7.744 ms
+
+2025-02-27 22:02:18 [ERROR]: GET /movie/gerne 400 54.436 ms
+
+2025-02-27 22:02:84 [ERROR]: GET /movie/gerne 400 16.004 ms
+
+2025-02-27 23:02:40 [ERROR]: GET /movie/gerne 400 51.444 ms
+
+2025-02-27 23:02:12 [ERROR]: GET /movie/gerne 400 27.485 ms
+
+2025-02-27 23:02:60 [ERROR]: GET /movie/genre 400 3.535 ms
+
+2025-02-27 23:02:24 [ERROR]: GET /movie/genre 400 44.825 ms
+
+2025-02-27 23:02:91 [ERROR]: GET /movie/genre 400 33.729 ms
+
+2025-02-27 23:02:20 [ERROR]: GET /movie/gen 400 4.807 ms
+
+2025-02-27 23:02:10 [ERROR]: GET /movie/gen 400 3.357 ms
+
+2025-02-27 23:02:62 [ERROR]: GET /movie/gen 400 4.763 ms
+
+2025-02-27 23:02:13 [ERROR]: GET /movie/gen 404 3.281 ms
+

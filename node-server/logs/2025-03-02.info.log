@@ -1,0 +1,618 @@
+2025-03-02 19:03:35 [INFO]: GET /user/info 200 5.113 ms
+
+2025-03-02 19:03:38 [INFO]: GET /movie/chart 200 11.039 ms
+
+2025-03-02 19:03:71 [ERROR]: GET /movie/6 404 4.311 ms
+
+2025-03-02 19:03:72 [ERROR]: GET /movie/10 404 4.076 ms
+
+2025-03-02 19:03:73 [ERROR]: GET /movie/12 404 4.422 ms
+
+2025-03-02 19:03:74 [ERROR]: GET /movie/7 404 1.904 ms
+
+2025-03-02 19:03:75 [ERROR]: GET /movie/5 404 12.250 ms
+
+2025-03-02 19:03:76 [ERROR]: GET /movie/2 404 0.955 ms
+
+2025-03-02 19:03:78 [ERROR]: GET /movie/1 404 1.538 ms
+
+2025-03-02 19:03:80 [ERROR]: GET /movie/4 404 0.971 ms
+
+2025-03-02 19:03:81 [ERROR]: GET /movie/20 404 1.405 ms
+
+2025-03-02 19:03:83 [ERROR]: GET /movie/3 404 0.843 ms
+
+2025-03-02 19:03:84 [ERROR]: GET /movie/6 404 1.335 ms
+
+2025-03-02 19:03:85 [ERROR]: GET /movie/10 404 0.917 ms
+
+2025-03-02 19:03:92 [ERROR]: GET /movie/12 404 0.943 ms
+
+2025-03-02 19:03:92 [ERROR]: GET /movie/5 404 1.229 ms
+
+2025-03-02 19:03:93 [ERROR]: GET /movie/7 404 3.392 ms
+
+2025-03-02 19:03:93 [ERROR]: GET /movie/2 404 1.177 ms
+
+2025-03-02 19:03:94 [ERROR]: GET /movie/1 404 0.718 ms
+
+2025-03-02 19:03:94 [ERROR]: GET /movie/4 404 1.005 ms
+
+2025-03-02 19:03:95 [ERROR]: GET /movie/20 404 0.869 ms
+
+2025-03-02 19:03:96 [ERROR]: GET /movie/3 404 0.778 ms
+
+2025-03-02 19:03:96 [ERROR]: GET /movie/6 404 0.727 ms
+
+2025-03-02 19:03:97 [ERROR]: GET /movie/10 404 0.884 ms
+
+2025-03-02 19:03:97 [ERROR]: GET /movie/12 404 0.802 ms
+
+2025-03-02 19:03:99 [ERROR]: GET /movie/5 404 0.968 ms
+
+2025-03-02 19:03:01 [ERROR]: GET /movie/7 404 0.815 ms
+
+2025-03-02 19:03:27 [INFO]: GET /user/info 200 2.253 ms
+
+2025-03-02 19:03:28 [INFO]: GET /movie/chart 200 2.024 ms
+
+2025-03-02 19:03:48 [ERROR]: GET /movie/12 404 0.941 ms
+
+2025-03-02 19:03:50 [ERROR]: GET /movie/5 404 7.587 ms
+
+2025-03-02 19:03:51 [ERROR]: GET /movie/7 404 7.577 ms
+
+2025-03-02 19:03:52 [ERROR]: GET /movie/6 404 7.164 ms
+
+2025-03-02 19:03:52 [ERROR]: GET /movie/20 404 10.402 ms
+
+2025-03-02 19:03:54 [ERROR]: GET /movie/10 404 3.268 ms
+
+2025-03-02 19:03:54 [ERROR]: GET /movie/2 404 6.316 ms
+
+2025-03-02 19:03:55 [ERROR]: GET /movie/4 404 8.644 ms
+
+2025-03-02 19:03:57 [ERROR]: GET /movie/1 404 16.554 ms
+
+2025-03-02 19:03:64 [ERROR]: GET /movie/3 404 9.932 ms
+
+2025-03-02 19:03:75 [ERROR]: GET /movie/12 404 161.454 ms
+
+2025-03-02 19:03:81 [ERROR]: GET /movie/5 404 217.472 ms
+
+2025-03-02 19:03:85 [ERROR]: GET /movie/6 404 266.071 ms
+
+2025-03-02 19:03:95 [ERROR]: GET /movie/10 404 14.425 ms
+
+2025-03-02 19:03:100 [ERROR]: GET /movie/7 404 8.410 ms
+
+2025-03-02 19:03:02 [ERROR]: GET /movie/2 404 32.197 ms
+
+2025-03-02 19:03:04 [ERROR]: GET /movie/1 404 55.082 ms
+
+2025-03-02 19:03:06 [ERROR]: GET /movie/4 404 71.940 ms
+
+2025-03-02 19:03:09 [ERROR]: GET /movie/20 404 3.788 ms
+
+2025-03-02 19:03:13 [ERROR]: GET /movie/3 404 10.521 ms
+
+2025-03-02 19:03:16 [ERROR]: GET /movie/12 404 45.249 ms
+
+2025-03-02 19:03:20 [ERROR]: GET /movie/5 404 85.124 ms
+
+2025-03-02 19:03:23 [ERROR]: GET /movie/6 404 115.721 ms
+
+2025-03-02 19:03:29 [ERROR]: GET /movie/10 404 3.844 ms
+
+2025-03-02 19:03:38 [ERROR]: GET /movie/7 404 1.018 ms
+
+2025-03-02 19:03:16 [INFO]: GET /movie/chart 304 10.754 ms
+
+2025-03-02 19:03:22 [ERROR]: GET /movie/6 404 8.975 ms
+
+2025-03-02 19:03:23 [ERROR]: GET /movie/10 404 17.845 ms
+
+2025-03-02 19:03:26 [ERROR]: GET /movie/12 404 10.577 ms
+
+2025-03-02 19:03:27 [ERROR]: GET /movie/1 404 4.570 ms
+
+2025-03-02 19:03:32 [ERROR]: GET /movie/5 404 51.489 ms
+
+2025-03-02 19:03:36 [ERROR]: GET /movie/7 404 79.740 ms
+
+2025-03-02 19:03:38 [ERROR]: GET /movie/2 404 110.446 ms
+
+2025-03-02 19:03:40 [ERROR]: GET /movie/4 404 118.496 ms
+
+2025-03-02 19:03:55 [ERROR]: GET /movie/20 404 4.949 ms
+
+2025-03-02 19:03:61 [ERROR]: GET /movie/3 404 66.457 ms
+
+2025-03-02 19:03:63 [ERROR]: GET /movie/6 404 89.042 ms
+
+2025-03-02 19:03:66 [ERROR]: GET /movie/10 404 112.405 ms
+
+2025-03-02 19:03:68 [ERROR]: GET /movie/12 404 129.987 ms
+
+2025-03-02 19:03:68 [ERROR]: GET /movie/1 404 136.883 ms
+
+2025-03-02 19:03:70 [ERROR]: GET /movie/5 404 5.097 ms
+
+2025-03-02 19:03:71 [ERROR]: GET /movie/7 404 17.241 ms
+
+2025-03-02 19:03:72 [ERROR]: GET /movie/2 404 22.275 ms
+
+2025-03-02 19:03:73 [ERROR]: GET /movie/4 404 3.783 ms
+
+2025-03-02 19:03:74 [ERROR]: GET /movie/20 404 8.142 ms
+
+2025-03-02 19:03:75 [ERROR]: GET /movie/3 404 17.004 ms
+
+2025-03-02 19:03:76 [ERROR]: GET /movie/6 404 10.820 ms
+
+2025-03-02 19:03:79 [ERROR]: GET /movie/10 404 35.307 ms
+
+2025-03-02 19:03:79 [ERROR]: GET /movie/12 404 42.109 ms
+
+2025-03-02 19:03:80 [ERROR]: GET /movie/5 404 1.078 ms
+
+2025-03-02 19:03:82 [ERROR]: GET /movie/7 404 18.004 ms
+
+2025-03-02 19:03:76 [INFO]: GET /user/info 200 5.727 ms
+
+2025-03-02 19:03:77 [INFO]: GET /movie/chart 304 4.632 ms
+
+2025-03-02 19:03:25 [INFO]: GET /movie/12 200 376.409 ms
+
+2025-03-02 19:03:26 [INFO]: GET /movie/2 200 363.583 ms
+
+2025-03-02 19:03:26 [INFO]: GET /movie/10 200 393.678 ms
+
+2025-03-02 19:03:27 [INFO]: GET /movie/6 200 423.143 ms
+
+2025-03-02 19:03:28 [INFO]: GET /movie/5 200 395.741 ms
+
+2025-03-02 19:03:29 [INFO]: GET /movie/7 200 406.529 ms
+
+2025-03-02 19:03:32 [INFO]: GET /movie/1 200 16.735 ms
+
+2025-03-02 19:03:33 [INFO]: GET /movie/4 200 23.902 ms
+
+2025-03-02 19:03:35 [INFO]: GET /movie/20 200 35.368 ms
+
+2025-03-02 19:03:35 [INFO]: GET /movie/3 200 40.388 ms
+
+2025-03-02 19:03:36 [INFO]: GET /movie/12 304 46.483 ms
+
+2025-03-02 19:03:38 [INFO]: GET /movie/2 304 22.111 ms
+
+2025-03-02 19:03:41 [INFO]: GET /movie/10 304 18.478 ms
+
+2025-03-02 19:03:42 [INFO]: GET /movie/6 304 22.189 ms
+
+2025-03-02 19:03:43 [INFO]: GET /movie/5 304 30.250 ms
+
+2025-03-02 19:03:43 [INFO]: GET /movie/7 304 33.448 ms
+
+2025-03-02 19:03:44 [INFO]: GET /movie/1 304 38.920 ms
+
+2025-03-02 19:03:45 [INFO]: GET /movie/4 304 37.520 ms
+
+2025-03-02 19:03:48 [INFO]: GET /movie/20 304 18.673 ms
+
+2025-03-02 19:03:48 [INFO]: GET /movie/3 304 24.353 ms
+
+2025-03-02 19:03:49 [INFO]: GET /movie/12 304 31.484 ms
+
+2025-03-02 19:03:50 [INFO]: GET /movie/10 304 33.397 ms
+
+2025-03-02 19:03:51 [INFO]: GET /movie/6 304 38.951 ms
+
+2025-03-02 19:03:54 [INFO]: GET /movie/5 304 16.209 ms
+
+2025-03-02 19:03:54 [INFO]: GET /movie/7 304 19.579 ms
+
+2025-03-02 19:03:44 [INFO]: GET /movie/info/7 200 46.471 ms
+
+2025-03-02 19:03:64 [INFO]: GET /movie/director/7 200 231.784 ms
+
+2025-03-02 19:03:66 [INFO]: GET /movie/actor/7 200 256.648 ms
+
+2025-03-02 19:03:68 [INFO]: GET /movie/genre/7 200 276.305 ms
+
+2025-03-02 19:03:60 [INFO]: GET /auth/google?redirectUrl=http%3A%2F%2Flocalhost%3A3000%2Fmovie%2F7 302 2.797 ms
+
+2025-03-02 19:03:77 [INFO]: GET /auth/google/callback?state=http%253A%252F%252Flocalhost%253A3000%252Fmovie%252F7&code=4%2F0AQSTgQHnUAS2pf2ao6wNO1JLNBGZK7lT1CRWwHpCgD4-n3U7SOfEN67-Cy_AyzoLCvBW_w&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=none 302 783.073 ms
+
+2025-03-02 19:03:07 [INFO]: GET /user/info 200 17.421 ms
+
+2025-03-02 19:03:07 [INFO]: GET /movie/actor/7 304 10.047 ms
+
+2025-03-02 19:03:08 [INFO]: GET /movie/info/7 304 15.598 ms
+
+2025-03-02 19:03:08 [INFO]: GET /movie/director/7 304 17.165 ms
+
+2025-03-02 19:03:08 [INFO]: GET /movie/genre/7 304 17.347 ms
+
+2025-03-02 19:03:01 [INFO]: GET /movie/chart 304 1.669 ms
+
+2025-03-02 19:03:06 [INFO]: GET /movie/6 304 4.393 ms
+
+2025-03-02 19:03:06 [INFO]: GET /movie/10 304 5.905 ms
+
+2025-03-02 19:03:08 [INFO]: GET /movie/12 304 11.085 ms
+
+2025-03-02 19:03:09 [INFO]: GET /movie/5 304 13.324 ms
+
+2025-03-02 19:03:09 [INFO]: GET /movie/7 304 19.677 ms
+
+2025-03-02 19:03:11 [INFO]: GET /movie/2 304 18.335 ms
+
+2025-03-02 19:03:14 [INFO]: GET /movie/1 304 47.001 ms
+
+2025-03-02 19:03:14 [INFO]: GET /movie/4 304 51.058 ms
+
+2025-03-02 19:03:18 [INFO]: GET /movie/3 304 40.385 ms
+
+2025-03-02 19:03:18 [INFO]: GET /movie/20 304 47.634 ms
+
+2025-03-02 19:03:19 [INFO]: GET /movie/10 304 24.001 ms
+
+2025-03-02 19:03:20 [INFO]: GET /movie/12 304 26.743 ms
+
+2025-03-02 19:03:21 [INFO]: GET /movie/6 304 42.802 ms
+
+2025-03-02 19:03:21 [INFO]: GET /movie/5 304 36.806 ms
+
+2025-03-02 19:03:25 [INFO]: GET /movie/7 304 15.288 ms
+
+2025-03-02 19:03:25 [INFO]: GET /movie/2 304 18.304 ms
+
+2025-03-02 19:03:26 [INFO]: GET /movie/1 304 22.923 ms
+
+2025-03-02 19:03:26 [INFO]: GET /movie/4 304 19.586 ms
+
+2025-03-02 19:03:29 [INFO]: GET /movie/3 304 16.253 ms
+
+2025-03-02 19:03:30 [INFO]: GET /movie/20 304 21.910 ms
+
+2025-03-02 19:03:32 [INFO]: GET /movie/10 304 33.246 ms
+
+2025-03-02 19:03:32 [INFO]: GET /movie/12 304 35.450 ms
+
+2025-03-02 19:03:34 [INFO]: GET /movie/6 304 12.396 ms
+
+2025-03-02 19:03:35 [INFO]: GET /movie/5 304 22.398 ms
+
+2025-03-02 19:03:36 [INFO]: GET /movie/7 304 12.687 ms
+
+2025-03-02 19:03:65 [INFO]: GET /user/logout 200 4.834 ms
+
+2025-03-02 19:03:88 [INFO]: GET /user/info 200 0.337 ms
+
+2025-03-02 19:03:89 [INFO]: GET /movie/chart 304 1.315 ms
+
+2025-03-02 19:03:97 [INFO]: GET /movie/6 304 6.588 ms
+
+2025-03-02 19:03:98 [INFO]: GET /movie/10 304 12.407 ms
+
+2025-03-02 19:03:98 [INFO]: GET /movie/12 304 7.779 ms
+
+2025-03-02 19:03:100 [INFO]: GET /movie/5 304 10.256 ms
+
+2025-03-02 19:03:01 [INFO]: GET /movie/7 304 20.564 ms
+
+2025-03-02 19:03:01 [INFO]: GET /movie/2 304 20.245 ms
+
+2025-03-02 19:03:02 [INFO]: GET /movie/1 304 24.879 ms
+
+2025-03-02 19:03:03 [INFO]: GET /movie/4 304 10.879 ms
+
+2025-03-02 19:03:04 [INFO]: GET /movie/20 304 20.225 ms
+
+2025-03-02 19:03:05 [INFO]: GET /movie/3 304 17.869 ms
+
+2025-03-02 19:03:06 [INFO]: GET /movie/6 304 25.977 ms
+
+2025-03-02 19:03:06 [INFO]: GET /movie/10 304 29.132 ms
+
+2025-03-02 19:03:12 [INFO]: GET /movie/12 304 12.793 ms
+
+2025-03-02 19:03:15 [INFO]: GET /movie/5 304 66.075 ms
+
+2025-03-02 19:03:17 [INFO]: GET /movie/7 304 97.110 ms
+
+2025-03-02 19:03:18 [INFO]: GET /movie/2 304 100.668 ms
+
+2025-03-02 19:03:19 [INFO]: GET /movie/1 304 113.582 ms
+
+2025-03-02 19:03:22 [INFO]: GET /movie/4 304 12.940 ms
+
+2025-03-02 19:03:23 [INFO]: GET /movie/20 304 16.802 ms
+
+2025-03-02 19:03:23 [INFO]: GET /movie/3 304 19.215 ms
+
+2025-03-02 19:03:24 [INFO]: GET /movie/6 304 22.565 ms
+
+2025-03-02 19:03:24 [INFO]: GET /movie/10 304 29.546 ms
+
+2025-03-02 19:03:25 [INFO]: GET /movie/12 304 35.015 ms
+
+2025-03-02 19:03:27 [INFO]: GET /movie/5 304 4.096 ms
+
+2025-03-02 19:03:28 [INFO]: GET /movie/7 304 8.155 ms
+
+2025-03-02 19:03:31 [ERROR]: GET /movie/genre 400 16.380 ms
+
+2025-03-02 19:03:33 [INFO]: GET /movie 200 12.352 ms
+
+2025-03-02 19:03:77 [ERROR]: GET /movie/genre 400 5.845 ms
+
+2025-03-02 19:03:62 [INFO]: GET /user/info 200 0.366 ms
+
+2025-03-02 19:03:62 [ERROR]: GET /movie/genre 400 3.599 ms
+
+2025-03-02 19:03:65 [INFO]: GET /user/info 200 7.920 ms
+
+2025-03-02 19:03:77 [ERROR]: GET /movie/genre 400 115.157 ms
+
+2025-03-02 19:03:91 [INFO]: GET /user/info 200 2.548 ms
+
+2025-03-02 19:03:93 [INFO]: GET /movie/chart 304 3.825 ms
+
+2025-03-02 19:03:09 [INFO]: GET /movie/6 304 27.958 ms
+
+2025-03-02 19:03:11 [INFO]: GET /movie/7 304 29.803 ms
+
+2025-03-02 19:03:12 [INFO]: GET /movie/12 304 44.088 ms
+
+2025-03-02 19:03:14 [INFO]: GET /movie/5 304 50.394 ms
+
+2025-03-02 19:03:17 [INFO]: GET /movie/10 304 98.179 ms
+
+2025-03-02 19:03:26 [INFO]: GET /movie/2 304 161.274 ms
+
+2025-03-02 19:03:30 [INFO]: GET /movie/1 304 15.754 ms
+
+2025-03-02 19:03:31 [INFO]: GET /movie/4 304 23.161 ms
+
+2025-03-02 19:03:36 [INFO]: GET /movie/3 304 56.242 ms
+
+2025-03-02 19:03:39 [INFO]: GET /movie/20 304 97.354 ms
+
+2025-03-02 19:03:41 [INFO]: GET /movie/6 304 108.181 ms
+
+2025-03-02 19:03:44 [INFO]: GET /movie/7 304 102.018 ms
+
+2025-03-02 19:03:48 [INFO]: GET /movie/12 304 34.826 ms
+
+2025-03-02 19:03:49 [INFO]: GET /movie/5 304 45.805 ms
+
+2025-03-02 19:03:50 [INFO]: GET /movie/10 304 39.033 ms
+
+2025-03-02 19:03:52 [INFO]: GET /movie/2 304 45.672 ms
+
+2025-03-02 19:03:52 [INFO]: GET /movie/1 304 44.244 ms
+
+2025-03-02 19:03:54 [INFO]: GET /movie/4 304 62.629 ms
+
+2025-03-02 19:03:59 [INFO]: GET /movie/3 304 25.861 ms
+
+2025-03-02 19:03:65 [INFO]: GET /movie/20 304 62.687 ms
+
+2025-03-02 19:03:68 [INFO]: GET /movie/6 304 92.980 ms
+
+2025-03-02 19:03:69 [INFO]: GET /movie/7 304 98.806 ms
+
+2025-03-02 19:03:70 [INFO]: GET /movie/12 304 111.448 ms
+
+2025-03-02 19:03:74 [INFO]: GET /movie/5 304 19.041 ms
+
+2025-03-02 19:03:76 [INFO]: GET /movie/10 304 16.306 ms
+
+2025-03-02 19:03:04 [ERROR]: GET /movie/genre 400 10.332 ms
+
+2025-03-02 19:03:31 [INFO]: GET /user/info 200 0.471 ms
+
+2025-03-02 19:03:31 [ERROR]: GET /movie/genre 400 2.762 ms
+
+2025-03-02 19:03:73 [INFO]: GET /user/info 200 0.709 ms
+
+2025-03-02 19:03:75 [ERROR]: GET /movie/genre 400 19.017 ms
+
+2025-03-02 19:03:42 [ERROR]: GET /movie/genre 400 4.461 ms
+
+2025-03-02 19:03:90 [INFO]: GET /movie 200 26.185 ms
+
+2025-03-02 19:03:47 [INFO]: GET /user/info 200 2.037 ms
+
+2025-03-02 19:03:56 [INFO]: GET /movie/genre 200 76.524 ms
+
+2025-03-02 19:03:45 [INFO]: GET /user/info 200 3.194 ms
+
+2025-03-02 19:03:53 [ERROR]: GET /movie/genre 400 68.043 ms
+
+2025-03-02 19:03:20 [INFO]: GET /movie/chart 304 5.547 ms
+
+2025-03-02 19:03:41 [INFO]: GET /movie/overview/7 200 71.550 ms
+
+2025-03-02 19:03:43 [INFO]: GET /movie/overview/12 200 100.177 ms
+
+2025-03-02 19:03:44 [INFO]: GET /movie/overview/6 200 133.710 ms
+
+2025-03-02 19:03:46 [INFO]: GET /movie/overview/10 200 131.254 ms
+
+2025-03-02 19:03:46 [INFO]: GET /movie/overview/2 200 120.756 ms
+
+2025-03-02 19:03:47 [INFO]: GET /movie/overview/5 200 137.486 ms
+
+2025-03-02 19:03:59 [INFO]: GET /movie/overview/1 200 75.598 ms
+
+2025-03-02 19:03:60 [INFO]: GET /movie/overview/4 200 58.444 ms
+
+2025-03-02 19:03:61 [INFO]: GET /movie/overview/20 200 56.857 ms
+
+2025-03-02 19:03:62 [INFO]: GET /movie/overview/3 200 55.822 ms
+
+2025-03-02 19:03:63 [INFO]: GET /movie/overview/7 304 53.807 ms
+
+2025-03-02 19:03:64 [INFO]: GET /movie/overview/12 304 64.786 ms
+
+2025-03-02 19:03:71 [INFO]: GET /movie/overview/6 304 48.253 ms
+
+2025-03-02 19:03:72 [INFO]: GET /movie/overview/10 304 25.593 ms
+
+2025-03-02 19:03:72 [INFO]: GET /movie/overview/2 304 18.603 ms
+
+2025-03-02 19:03:74 [INFO]: GET /movie/overview/5 304 31.822 ms
+
+2025-03-02 19:03:80 [INFO]: GET /movie/overview/1 304 41.910 ms
+
+2025-03-02 19:03:81 [INFO]: GET /movie/overview/4 304 37.711 ms
+
+2025-03-02 19:03:82 [INFO]: GET /movie/overview/20 304 38.191 ms
+
+2025-03-02 19:03:89 [INFO]: GET /movie/overview/3 304 49.398 ms
+
+2025-03-02 19:03:89 [INFO]: GET /movie/overview/7 304 48.872 ms
+
+2025-03-02 19:03:91 [INFO]: GET /movie/overview/12 304 56.905 ms
+
+2025-03-02 19:03:93 [INFO]: GET /movie/overview/6 304 53.164 ms
+
+2025-03-02 19:03:93 [INFO]: GET /movie/overview/10 304 52.062 ms
+
+2025-03-02 19:03:94 [INFO]: GET /movie/overview/5 304 60.252 ms
+
+2025-03-02 19:03:09 [INFO]: GET /movie/genre/2 200 25.121 ms
+
+2025-03-02 19:03:09 [INFO]: GET /movie/details/2 200 35.554 ms
+
+2025-03-02 19:03:10 [INFO]: GET /movie/director/2 200 33.834 ms
+
+2025-03-02 19:03:10 [INFO]: GET /movie/actor/2 200 40.539 ms
+
+2025-03-02 19:03:75 [INFO]: GET /movie/genre 200 10.022 ms
+
+2025-03-02 19:03:01 [INFO]: GET /movie/chart 304 2.387 ms
+
+2025-03-02 19:03:06 [INFO]: GET /movie/overview/10 304 8.411 ms
+
+2025-03-02 19:03:07 [INFO]: GET /movie/overview/6 304 14.700 ms
+
+2025-03-02 19:03:08 [INFO]: GET /movie/overview/12 304 10.450 ms
+
+2025-03-02 19:03:09 [INFO]: GET /movie/overview/5 304 13.163 ms
+
+2025-03-02 19:03:13 [INFO]: GET /movie/overview/7 304 24.367 ms
+
+2025-03-02 19:03:13 [INFO]: GET /movie/overview/2 304 28.828 ms
+
+2025-03-02 19:03:17 [INFO]: GET /movie/overview/1 304 59.415 ms
+
+2025-03-02 19:03:20 [INFO]: GET /movie/overview/4 304 88.667 ms
+
+2025-03-02 19:03:32 [INFO]: GET /movie/overview/20 304 201.576 ms
+
+2025-03-02 19:03:41 [INFO]: GET /movie/overview/3 304 258.655 ms
+
+2025-03-02 19:03:49 [INFO]: GET /movie/overview/10 304 104.269 ms
+
+2025-03-02 19:03:50 [INFO]: GET /movie/overview/6 304 48.502 ms
+
+2025-03-02 19:03:53 [INFO]: GET /movie/overview/12 304 54.820 ms
+
+2025-03-02 19:03:57 [INFO]: GET /movie/overview/5 304 74.628 ms
+
+2025-03-02 19:03:60 [INFO]: GET /movie/overview/7 304 119.552 ms
+
+2025-03-02 19:03:63 [INFO]: GET /movie/overview/2 304 92.311 ms
+
+2025-03-02 19:03:70 [INFO]: GET /movie/overview/1 304 89.204 ms
+
+2025-03-02 19:03:70 [INFO]: GET /movie/overview/4 304 39.971 ms
+
+2025-03-02 19:03:72 [INFO]: GET /movie/overview/20 304 45.853 ms
+
+2025-03-02 19:03:76 [INFO]: GET /movie/overview/3 304 72.024 ms
+
+2025-03-02 19:03:77 [INFO]: GET /movie/overview/10 304 76.455 ms
+
+2025-03-02 19:03:79 [INFO]: GET /movie/overview/6 304 72.862 ms
+
+2025-03-02 19:03:81 [INFO]: GET /movie/overview/12 304 25.493 ms
+
+2025-03-02 19:03:82 [INFO]: GET /movie/overview/5 304 14.382 ms
+
+2025-03-02 19:03:82 [INFO]: GET /movie/overview/7 304 15.363 ms
+
+2025-03-02 19:03:28 [INFO]: GET /movie/actor/1 200 14.277 ms
+
+2025-03-02 19:03:29 [INFO]: GET /movie/details/1 200 18.398 ms
+
+2025-03-02 19:03:29 [INFO]: GET /movie/genre/1 200 11.599 ms
+
+2025-03-02 19:03:29 [INFO]: GET /movie/director/1 200 15.400 ms
+
+2025-03-02 19:03:67 [INFO]: GET /movie/genre 304 7.211 ms
+
+2025-03-02 19:03:61 [INFO]: GET /movie/chart 304 1.757 ms
+
+2025-03-02 19:03:65 [INFO]: GET /movie/overview/6 304 4.646 ms
+
+2025-03-02 19:03:67 [INFO]: GET /movie/overview/10 304 6.807 ms
+
+2025-03-02 19:03:68 [INFO]: GET /movie/overview/12 304 21.853 ms
+
+2025-03-02 19:03:69 [INFO]: GET /movie/overview/5 304 17.194 ms
+
+2025-03-02 19:03:69 [INFO]: GET /movie/overview/7 304 18.506 ms
+
+2025-03-02 19:03:71 [INFO]: GET /movie/overview/2 304 28.589 ms
+
+2025-03-02 19:03:71 [INFO]: GET /movie/overview/1 304 28.658 ms
+
+2025-03-02 19:03:72 [INFO]: GET /movie/overview/4 304 14.157 ms
+
+2025-03-02 19:03:73 [INFO]: GET /movie/overview/20 304 13.337 ms
+
+2025-03-02 19:03:74 [INFO]: GET /movie/overview/3 304 18.563 ms
+
+2025-03-02 19:03:74 [INFO]: GET /movie/overview/6 304 19.859 ms
+
+2025-03-02 19:03:74 [INFO]: GET /movie/overview/10 304 22.728 ms
+
+2025-03-02 19:03:79 [INFO]: GET /movie/overview/12 304 15.243 ms
+
+2025-03-02 19:03:80 [INFO]: GET /movie/overview/5 304 16.913 ms
+
+2025-03-02 19:03:80 [INFO]: GET /movie/overview/7 304 19.768 ms
+
+2025-03-02 19:03:81 [INFO]: GET /movie/overview/2 304 25.470 ms
+
+2025-03-02 19:03:84 [INFO]: GET /movie/overview/1 304 27.847 ms
+
+2025-03-02 19:03:87 [INFO]: GET /movie/overview/4 304 41.482 ms
+
+2025-03-02 19:03:87 [INFO]: GET /movie/overview/20 304 47.902 ms
+
+2025-03-02 19:03:89 [INFO]: GET /movie/overview/3 304 31.775 ms
+
+2025-03-02 19:03:91 [INFO]: GET /movie/overview/6 304 22.559 ms
+
+2025-03-02 19:03:91 [INFO]: GET /movie/overview/10 304 26.314 ms
+
+2025-03-02 19:03:92 [INFO]: GET /movie/overview/12 304 26.243 ms
+
+2025-03-02 19:03:92 [INFO]: GET /movie/overview/5 304 26.383 ms
+
+2025-03-02 19:03:93 [INFO]: GET /movie/overview/7 304 26.521 ms
+
+2025-03-02 19:03:86 [INFO]: GET /movie/details/4 200 7.546 ms
+
+2025-03-02 19:03:86 [INFO]: GET /movie/actor/4 200 5.793 ms
+
+2025-03-02 19:03:86 [INFO]: GET /movie/genre/4 200 7.432 ms
+
+2025-03-02 19:03:87 [INFO]: GET /movie/director/4 200 12.359 ms
+

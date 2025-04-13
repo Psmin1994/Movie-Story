@@ -1,0 +1,28 @@
+2025-03-10 04:03:99 [ERROR]: GET /user/info 401 24.932 ms
+
+2025-03-10 04:03:21 [ERROR]: GET /user/info 401 4.689 ms
+
+2025-03-10 04:03:38 [ERROR]: GET /user/info 400 53.758 ms
+
+2025-03-10 04:03:09 [ERROR]: GET /user/info 401 7.168 ms
+
+2025-03-10 04:03:38 [ERROR]: GET /user/info 400 10.381 ms
+
+2025-03-10 05:03:29 [ERROR]: GET /user/info 401 46.527 ms
+
+2025-03-10 05:03:35 [ERROR]: GET /user/refresh 401 18.800 ms
+
+2025-03-10 05:03:10 [ERROR]: GET /favicon.ico 404 3.870 ms
+
+2025-03-10 06:03:28 [ERROR]: GET /movie 400 83.546 ms
+
+2025-03-10 06:03:74 [ERROR]: GET /movie 400 3.784 ms
+
+2025-03-10 06:03:72 [ERROR]: GET /movie 400 64.259 ms
+
+2025-03-10 07:03:78 [ERROR]: GET /img/empty-poster.png 404 8.413 ms
+
+2025-03-10 07:03:15 [ERROR]: GET /img/empty-poster.png 404 0.641 ms
+
+2025-03-10 07:03:33 [ERROR]: GET /favicon.ico 404 3.039 ms
+

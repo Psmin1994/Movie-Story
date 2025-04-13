@@ -1,0 +1,2 @@
+-- AlterTable
+ALTER TABLE `genre` ADD COLUMN `count` SMALLINT NOT NULL DEFAULT 0;

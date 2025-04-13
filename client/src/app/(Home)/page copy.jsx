@@ -1,0 +1,154 @@
+// rsc
+import React, { useEffect, useState } from "react";
+import { useNavigate } from "react-router-dom";
+import useAxios from "hooks/useAxios";
+import styled from "styled-components";
+import BasicButton from "components/ui/BasicButton";
+import MovieChartList from "./components/MovieChartList";
+
+const getMovieChart = async () => {
+  const res = await fetch("http://localhost:3000/api/movie/chart", {
+    // 실제 백엔드 주소 또는 프록시 주소
+    cache: "no-store", // 실시간 데이터가 필요하다면
+  });
+
+  console.log(res);
+
+  if (!res.ok) {
+    throw new Error("Failed to fetch movie chart data");
+  }
+
+  return res.json();
+};
+
+const MainPage = async () => {
+  const navigate = useNavigate();
+
+  const [clicked, setClicked] = useState(0);
+
+  const handleClick = (index) => {
+    setClicked(index);
+  };
+
+  const movieChart = await getMovieChart();
+
+  return (
+    <main>
+      <Trailer>
+        <ContentWrapper>
+          <video width="1056px" height="fit-content" src="http://localhost:5000/video/블루 록_1080x608.mp4" autoPlay muted></video>
+
+          <Description>
+            <Title>블루 록</Title>
+            <BasicButton
+              title="상세보기"
+              addStyle={{
+                width: "fit-content",
+                backgroundColor: "#fff",
+                border: "1px solid #000",
+              }}
+              onClickItem={() => navigate("/movie")}
+            />
+          </Description>
+        </ContentWrapper>
+      </Trailer>
+
+      <ContentWrapper>
+        <MovieChart>
+          <NavWrap>
+            <NavMenu>
+              {["무비차트", "상영예정작"].map((item, index) => (
+                <li key={index}>
+                  <TagWrapper data={{ clicked: clicked === index }} onClick={() => handleClick(index)}>
+                    <p>{item}</p>
+                  </TagWrapper>
+                </li>
+              ))}
+            </NavMenu>
+
+            <BasicButton title={"전체보기"} onClickItem={() => navigate("/movie")} />
+          </NavWrap>
+
+          {loading ? (
+            <p>Data is currently loading...</p>
+          ) : error ? (
+            <p>There was an error loading</p>
+          ) : (
+            data && (
+              <MovieChartList
+                movieChart={data}
+                onClickItem={(movieId) => {
+                  navigate(`/movie/${movieId}`);
+                }}></MovieChartList>
+            )
+          )}
+        </MovieChart>
+
+        <Store>매점 상품</Store>
+      </ContentWrapper>
+    </main>
+  );
+};
+
+const Trailer = styled.section`
+  height: fit-content;
+  background-color: #000;
+`;
+
+const ContentWrapper = styled.div`
+  position: relative;
+  width: 1056px;
+  padding: 0 24px;
+  margin: 0 auto;
+`;
+
+const Description = styled.div`
+  width: 100%;
+  position: absolute;
+  left: 10%;
+  bottom: 15%;
+  display: flex;
+`;
+
+const Title = styled.strong`
+  font-size: 2rem;
+  font-weight: 700;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.72);
+  color: #fff;
+
+  margin-right: 30px;
+`;
+
+const MovieChart = styled.section`
+  height: fit-content;
+`;
+
+const NavWrap = styled.div`
+  padding: 2rem 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+`;
+
+const NavMenu = styled.ul`
+  display: flex;
+`;
+
+const TagWrapper = styled.strong`
+  padding: 0 1rem;
+  display: block;
+  text-align: center;
+  font-size: 1.5rem;
+  border-right: 1px solid #666;
+
+  cursor: pointer;
+
+  color: ${(props) => (props.data.clicked ? "black" : "#666")};
+  font-weight: ${(props) => (props.data.clicked ? "bold" : "500")};
+`;
+
+const Store = styled.section`
+  height: 528px;
+`;
+
+export default MainPage;

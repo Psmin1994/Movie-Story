@@ -1,0 +1,48 @@
+2025-03-09 22:03:06 [INFO]: GET /user/info 200 5.914 ms
+
+2025-03-09 22:03:19 [INFO]: GET /movie/chart 200 9.950 ms
+
+2025-03-09 22:03:53 [INFO]: GET /movie/overview/1 200 88.665 ms
+
+2025-03-09 22:03:56 [INFO]: GET /movie/overview/2 200 46.657 ms
+
+2025-03-09 22:03:57 [INFO]: GET /movie/overview/5 200 50.266 ms
+
+2025-03-09 22:03:29 [INFO]: GET /movie/overview/19 200 155.288 ms
+
+2025-03-09 22:03:32 [INFO]: GET /movie/overview/3 200 869.941 ms
+
+2025-03-09 22:03:38 [INFO]: GET /movie/overview/7 200 242.532 ms
+
+2025-03-09 22:03:42 [INFO]: GET /movie/overview/10 200 239.496 ms
+
+2025-03-09 22:03:53 [INFO]: GET /movie/overview/14 200 1031.658 ms
+
+2025-03-09 22:03:68 [INFO]: GET /movie/overview/8 200 80.692 ms
+
+2025-03-09 22:03:76 [INFO]: GET /movie/overview/6 200 151.742 ms
+
+2025-03-09 22:03:35 [INFO]: GET /user/info 200 0.896 ms
+
+2025-03-09 22:03:36 [INFO]: GET /movie/chart 200 3.566 ms
+
+2025-03-09 22:03:82 [INFO]: GET /movie/overview/1 200 14.589 ms
+
+2025-03-09 22:03:85 [INFO]: GET /movie/overview/2 200 38.771 ms
+
+2025-03-09 22:03:85 [INFO]: GET /movie/overview/14 200 12.598 ms
+
+2025-03-09 22:03:86 [INFO]: GET /movie/overview/3 200 17.084 ms
+
+2025-03-09 22:03:53 [INFO]: GET /movie/overview/5 200 7.895 ms
+
+2025-03-09 22:03:67 [INFO]: GET /movie/overview/19 200 29.209 ms
+
+2025-03-09 22:03:75 [INFO]: GET /movie/overview/7 200 118.326 ms
+
+2025-03-09 22:03:91 [INFO]: GET /movie/overview/10 200 4.603 ms
+
+2025-03-09 22:03:94 [INFO]: GET /movie/overview/8 200 4.776 ms
+
+2025-03-09 22:03:95 [INFO]: GET /movie/overview/6 200 3.058 ms
+

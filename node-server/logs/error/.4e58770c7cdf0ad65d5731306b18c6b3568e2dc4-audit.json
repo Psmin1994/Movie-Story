@@ -1,0 +1,80 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 14
+    },
+    "auditLog": "C:\\workspace\\project\\Movie-Story\\server\\logs\\error\\.4e58770c7cdf0ad65d5731306b18c6b3568e2dc4-audit.json",
+    "files": [
+        {
+            "date": 1739924170891,
+            "name": "C:\\workspace\\project\\Movie-Story\\server\\logs\\error\\2025-02-19.error.log",
+            "hash": "2c93a4d6e0a26253af16d000cf773886e65f8e70d6b6af862c0f5860629047f4"
+        },
+        {
+            "date": 1739979515440,
+            "name": "C:\\workspace\\project\\Movie-Story\\server\\logs\\error\\2025-02-20.error.log",
+            "hash": "6e47634dcc0046ecda97ce97712c0a199db3e97bcc3446c1a075d46a6e255752"
+        },
+        {
+            "date": 1740190307163,
+            "name": "C:\\workspace\\project\\Movie-Story\\server\\logs\\error\\2025-02-22.error.log",
+            "hash": "fe92d20426951fd1035c46e7c9110aa466d5be020b4157383824a338ef492450"
+        },
+        {
+            "date": 1740447517473,
+            "name": "C:\\workspace\\project\\Movie-Story\\server\\logs\\error\\2025-02-25.error.log",
+            "hash": "c6d81550c66cae1424ca14115bcb4c8c6f24f7a2bcc402d45ac035074dee4e2f"
+        },
+        {
+            "date": 1740581143656,
+            "name": "C:\\workspace\\project\\Movie-Story\\server\\logs\\error\\2025-02-26.error.log",
+            "hash": "5e0db92ae1e0c8c2d39c42bff9874aea1c772be9411be40690aaacc7764f2b07"
+        },
+        {
+            "date": 1740583216061,
+            "name": "C:\\workspace\\project\\Movie-Story\\server\\logs\\error\\2025-02-27.error.log",
+            "hash": "a451e6d8c22befb45f6b5291d867e006cc4fa78c3d21277c2f37aa95268492c3"
+        },
+        {
+            "date": 1740668825241,
+            "name": "C:\\workspace\\project\\Movie-Story\\server\\logs\\error\\2025-02-28.error.log",
+            "hash": "49499e276d42fe1c2eff117cc6847ba4223236fac3fed5d7bc6e0f625c800802"
+        },
+        {
+            "date": 1740909811768,
+            "name": "C:\\workspace\\project\\Movie-Story\\server\\logs\\error\\2025-03-02.error.log",
+            "hash": "8cd26e1e4206c4da15a46e8d2547ebd69ec878c2948403a7d60772a9d3ad4754"
+        },
+        {
+            "date": 1741162788026,
+            "name": "C:\\workspace\\project\\Movie-Story\\server\\logs\\error\\2025-03-05.error.log",
+            "hash": "4446bf93013cd511ecdc92314f2ab84cc276f8d2c4026bac65e0fb2fd334ffef"
+        },
+        {
+            "date": 1741527685650,
+            "name": "C:\\workspace\\project\\Movie-Story\\server\\logs\\error\\2025-03-09.error.log",
+            "hash": "75115daedfa56ccab901fd224b621b2f05f5c6918627709ea73eb6a83f568c9d"
+        },
+        {
+            "date": 1741545797695,
+            "name": "C:\\workspace\\project\\Movie-Story\\server\\logs\\error\\2025-03-10.error.log",
+            "hash": "85182b33b5e94a220eeed6900bedbf40eae4e07ddd24080af202616c19c7a946"
+        },
+        {
+            "date": 1741634873204,
+            "name": "C:\\workspace\\project\\Movie-Story\\server\\logs\\error\\2025-03-11.error.log",
+            "hash": "ec7fade9d1fc00d3a05d0f16f8bbac9c2bfe6dd79345143af4a0948f11d98f7c"
+        },
+        {
+            "date": 1741894594439,
+            "name": "C:\\workspace\\project\\Movie-Story\\server\\logs\\error\\2025-03-14.error.log",
+            "hash": "eddc3719a316b511deb7e9b0f405383110167dd374fe97df5650d5a2b7569f71"
+        },
+        {
+            "date": 1741978614070,
+            "name": "C:\\workspace\\project\\Movie-Story\\server\\logs\\error\\2025-03-15.error.log",
+            "hash": "97a9694e765107a785bbd22b8d89b120ae676267a288d5e36d0ac6440bc32ae6"
+        }
+    ],
+    "hashType": "sha256"
+}

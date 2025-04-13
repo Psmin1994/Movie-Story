@@ -1,35 +1,30 @@
 {
   "compilerOptions": {
-    // 기본 출력 설정
+    "module": "commonjs", // 모듈 시스템 설정 (NestJS는 commonjs 사용)
     "target": "ESNext", // 컴파일된 JS 코드 ES 버전
-    "module": "ESNext", // 모듈 시스템
-    "outDir": "./dist", // 컴파일된 파일 출력 디렉토리
-    "rootDir": "./src", // 루트 디렉토리
-    "sourceMap": false,
+    "strict": true,
+    "rootDir": "./",
 
-    // strict 타입 검사
-    "strict": true, // 엄격 모드
+    // 모듈 경로 설정 관련
+    "baseUrl": "./src", // import 경로
+    "paths": {
+      "@modules/*": ["modules/*"],
+      "@common/*": ["common/*"]
+    },
 
-    // 파일 킻 경로 설정
-    "baseUrl": "src", // import 경로
-    "paths": {},
-    "esModuleInterop": true,
-    "typeRoots": ["node_modules/@types", "src/types"],
+    // 타입 및 빌드 출력 설정
 
-    // 기타 옵션
-    "skipLibCheck": true,
-    "allowJs": true,
-    "checkJs": false, // js 파일 타입 검사 여부
-    "forceConsistentCasingInFileNames": true, // 파일 이름 대소문자 구분
-    "moduleDetection": "auto",
-    "moduleResolution": "node"
+    "skipLibCheck": true, // 외부 라이브러리 타입 검사 건너뛰기
+    "esModuleInterop": true, // commonjs와 ESmodule 간 호환
+    "resolveJsonModule": true, // .json 파일 import 허용
+    "emitDecoratorMetadata": true, // NestJS 데코레이터 메타데이터 지원
+    "experimentalDecorators": true, // 데코레이터 사용
+    "allowSyntheticDefaultImports": true, // default import 유연성
+    "strictNullChecks": true, // null, undefined 엄격 검사
+    "forceConsistentCasingInFileNames": true, // 대소문자 불일치 방지
+    "noImplicitAny": false, // 타입 추론 실패 시 any 허용
+    "strictBindCallApply": false, // bind/call/apply 검사 완화
+    "noFallthroughCasesInSwitch": false // switch-case fallthrough 허용
   },
-
-  "include": ["src"],
-
-  "exclude": [
-    "prisma",
-    "node_modules", // 외부 라이브러리 제외
-    "**/*.test.ts" // 테스트 파일 제외
-  ]
+  "include": ["src", "test"]
 }
